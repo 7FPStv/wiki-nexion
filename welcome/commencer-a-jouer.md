@@ -1,20 +1,22 @@
-# 🎮 Commencer à jouer
+# 🎮 3. Commencer à jouer
 
-#### Tu as créé ton compte ainsi que téléchargé le launcher, tu es fin prêt pour <mark style="color:purple;">rejoindre l'univers de Nexion et commencer à jouer !</mark>
+## Rejoins l'univers de Nexion et commence à jouer !
 
-Maintenant que tu peux lancer le jeu, tu vas arriver sur le menu principale du jeu, il est très simple..
+Maintenant que tu peux lancer le jeu, tu vas arriver sur le menu principale du jeu. Passons en revu les fonctionnalités du menu principale.
 
-<mark style="color:purple;">**MODE SOLO**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">**->**</mark> Monde seul, pouvant permettre de tester, faire ton texture pack, ou toutes autres choses. <mark style="background-color:red;">Attention il n'est pas optimisé pour avoir tous les objets et fonctionnalités pour le solo.</mark>
 
-<mark style="color:purple;">**REJOINDRE L'AVENTURE ->**</mark> Tu pourras rentrer sur un serveur d'accueil (dit LOBBY ou HUB) qui te permettra par la suite de rejoindre les différents serveurs&#x20;
 
-<mark style="color:purple;">**OPTIONS ->**</mark> Uniquement les options de MineCraft.
+**Monde solo** **->** C'est le monde pour jouer seul. Celui-ci n'est pas optimisé donc toutes les fonctionnalités présente sur le serveur ne sont pas dans ce monde.
 
-<mark style="color:purple;">**MULTIJOUEUR ->**</mark>** ** Uniquement pour les administrateurs pour tester nos nouveautés, etc.
+**Rejoindre l'aventure ->** Tu pourras rentrer sur un serveur d'accueil (appelé "LOBBY" ou "HUB") qui te permettra par la suite de rejoindre les différents serveurs comme le serveur Factions.
 
-Maintenant tu peux rejoindre les serveurs de jeux en cliquant sur <mark style="color:purple;">**REJOINDRE L'AVENTURE**</mark>&#x20;
+**Engrenage grise ->** Pour gérer les options de MineCraft.
 
-![Menu principale du launcher](<../.gitbook/assets/image (75).png>)
+**Engrenage violette ->** Pour gérer les options intégrés sur Nexion
+
+Ainsi qu'une barre avec plusieurs bouton permettant d'afficher nos réseaux et des liens utiles.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">**ATTENTION :**</mark> Lorsque tu rejoins pour la première fois, pour ta sécurité nous allons te demander de créer un mot de passe pour accéder au serveur de jeu
@@ -38,15 +40,15 @@ Une fois connecté, vous pouvez apercevoir dans votre barre de raccourci Minecra
 
 <mark style="color:purple;">**PLUME ->**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> Je te laisserais découvrir en jeu ce qu'elle peut t'offrir comme petit bonus dans le Lobby. Rien d'incroyable, Ne te sens pas pousser des ailes !
 
-&#x20;                 ~~---------------------------------------------------------------------------~~
+## Découvrons la liste des serveurs
 
-#### Si tu fais un ( CLIQUE DROIT ) sur la 🧭 <mark style="color:purple;">BOUSSOLE</mark> tu pourras apercevoir le menu de navigation. Il t'ouvre plusieurs univers. Il est bien de les connaître et de savoir où ils t'emmènent.
+En faisant un **(CLIQUE DROIT)** sur la **🧭BOUSSOLE** <mark style="color:purple;"></mark> en jeu <mark style="color:purple;"></mark> tu pourras apercevoir le menu de navigation. Il t'ouvre plusieurs univers. Il est bien de les connaître et de savoir où ils t'emmènent.
 
-<mark style="color:purple;">**DEV**</mark>**  **<mark style="color:purple;">**->**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> En général, personne n'y a accès en dehors du staff. **** Le serveur de développement utile pour nos tests, nos futurs mise-à-jours. Si jamais un jour tu as l'honneur de rejoindre ce serveur c'est que tu as été tiré au sort à notre demande pour ton avis sur un nouveau système ou un test.&#x20;
+<mark style="color:purple;">**DEV**</mark>**  **<mark style="color:purple;">**->**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> Le serveur de développement utile pour nos tests, nos futurs mise-à-jours. Si jamais un jour tu as l'honneur de rejoindre ce serveur c'est que tu as été tiré au sort à notre demande pour ton avis sur un nouveau système ou un test.&#x20;
 
 <mark style="color:purple;">**REJOINDRE L'EVENT**</mark>**  **<mark style="color:purple;">**->**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> Le serveur événement, un serveur regroupant plusieurs mini-jeux MineCraft, permettant de te défouler, et de gagner des récompenses en gagnant les événements organisé par notre staff.
 
-<mark style="color:purple;">**MINAGE 01 & MINAGE 02**</mark>**  **<mark style="color:purple;">**->**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> Les serveurs minages te permettent de miner et de récupérer des ressources, tu auras plus d'informations dans l'onglet [serveur-minage.md](../guide/serveur-minage.md "mention")
+<mark style="color:purple;">MINAGE 01 & MINAGE 02</mark> <mark style="color:purple;">-></mark> Les serveurs minages te permettent de miner et de récupérer des ressources, tu auras plus d'informations dans l'onglet [serveur-minage.md](../guide/serveur-minage.md "mention")
 
 <mark style="color:purple;">**REJOINDRE LE SERVEUR FACTIONS**</mark>**  **<mark style="color:purple;">**->**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> Le serveur faction, te permettant de rejoindre notre grand univers et rencontrer la communauté de joueurs.
 

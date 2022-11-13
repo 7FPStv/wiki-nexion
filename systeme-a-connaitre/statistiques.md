@@ -12,7 +12,7 @@ Il existe un système de statistiques permettant d'avoir un classement de tous l
 \-> Chasseur\
 \-> Magie
 
-![Interface principale de statistiques (/stats)](<../.gitbook/assets/image (6).png>)
+![Interface principale de statistiques (/stats)](<../.gitbook/assets/image (6) (1).png>)
 
 A gauche, tu peux retrouver le TOP 3 des meilleurs dans la catégorie en cours, avec leurs magnifique apparence en jeu.
 
@@ -24,4 +24,4 @@ A droite, tu as deux boutons pouvant te montrer les objectifs hebdomadaires (de 
 Le classement à la semaine est récompensé chaque dimanche à minuit en points-boutique uniquement s'il y a un affiche l'indiquant, les points boutiques vont te  permettre de pouvoir t'acheter des grades, kits, etc. dans la [boutique-sur-le-site.md](boutique-sur-le-site.md "mention")
 {% endhint %}
 
-![Interface de la catégorie "FARMEUR" de statistiques (/stats)](<../.gitbook/assets/image (5).png>)
+![Interface de la catégorie "FARMEUR" de statistiques (/stats)](<../.gitbook/assets/image (5) (1).png>)

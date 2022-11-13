@@ -3,9 +3,9 @@
 * [Bienvenue sur Nexion](README.md)
   * [🔗 Informations](welcome/informations.md)
   * [💾 Installer et jouer](welcome/installer-et-jouer.md)
-  * [👤 1. Créer ton compte](welcome/1.-creer-ton-compte.md)
+  * [👤 1. Créer ton compte](welcome/creation-du-compte.md)
   * [📥 2. Télécharger le launcher](welcome/commencer-son-aventure-des-maintenant.md)
-  * [🎮 3. Commencer à jouer](welcome/3.-commencer-a-jouer.md)
+  * [🎮 3. Commencer à jouer](welcome/commencer-a-jouer.md)
   * [🏰 Découvrir le jeu](welcome/decouvrir-le-jeu.md)
 * [Présentation générale](master.md)
 
