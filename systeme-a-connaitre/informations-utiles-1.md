@@ -1,6 +1,6 @@
 # ❗ Commandes utiles
 
-
+## Commande général du serveur
 
 | Commande                                                                                                                                      | Utilité                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,26 +26,47 @@
 | **/classement**                                                                                                                               | Permet de voir le classement                                                                                                                             |
 | **/stats**                                                                                                                                    | Voir la liste des classements personnel hebdomadaire ou global des joueurs en fonction de catégories                                                     |
 
-## Commande pour la faction
+##
 
-|                                                                                                                |                                                            |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **/f create NOM**                                                                                              | Créer une faction                                          |
-| **/f disband**                                                                                                 | Dissoudre votre faction                                    |
-| **/f join FACTION\|PSEUDO**                                                                                    | Afficher les infirmations d'une/votre faction              |
-| **/f list**                                                                                                    | Liste des factions                                         |
-| **/f claim RAYON**                                                                                             | Claim un territoire (Dans le chunk ou vous êtes présent)   |
-| <p><strong>/f claims</strong><br><strong></strong><mark style="color:yellow;"><strong>NEW!</strong></mark></p> | Afficher la liste de vos territoires/claims                |
-| **/f unclaim**                                                                                                 | Unclaim un territoire (Dans le chunk ou vous êtes présent) |
-| **/f sethome**                                                                                                 | Défini le home de votre faction                            |
-| **/f home**                                                                                                    | Téléportation à votre home de faction                      |
-| <p><strong>/f info</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                    | Affiche des informations diverses sur votre faction        |
-| <p><strong>/f rank</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                    | Permet d'afficher les rangs de votre faction               |
-|                                                                                                                |                                                            |
-|                                                                                                                |                                                            |
-|                                                                                                                |                                                            |
-|                                                                                                                |                                                            |
-|                                                                                                                |                                                            |
-|                                                                                                                |                                                            |
-|                                                                                                                |                                                            |
-|                                                                                                                |                                                            |
+## Commande du plugin Faction :crossed\_swords:
+
+|                                                                                                                                |                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| **/f create NOM**                                                                                                              | Créer une faction                                                                             |
+| **/f disband**                                                                                                                 | Dissoudre votre faction                                                                       |
+| **/f join FACTION\|PSEUDO**                                                                                                    | Afficher les infirmations d'une/votre faction                                                 |
+| **/f list**                                                                                                                    | Liste des factions                                                                            |
+| **/f claim RAYON**                                                                                                             | Claim un territoire (Dans le chunk ou vous êtes présent)                                      |
+| <p><strong>/f claims</strong><br><strong></strong><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                 | Afficher la liste de vos territoires/claims                                                   |
+| **/f unclaim**                                                                                                                 | Unclaim un territoire (Dans le chunk ou vous êtes présent)                                    |
+| **/f sethome**                                                                                                                 | Défini le home de votre faction                                                               |
+| **/f home**                                                                                                                    | Téléportation à votre home de faction                                                         |
+| <p><strong>/f info</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                                    | Affiche des informations diverses sur votre faction                                           |
+| <p><strong>/f rank</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                                    | Permet d'afficher les rangs de votre faction                                                  |
+| **/f tag**                                                                                                                     | Changer le nom de votre faction                                                               |
+| <p><strong>/f chat p (publique)</strong><br><strong>/f chat a (alliance)</strong><br><strong>/f chat f (factions)</strong></p> | Changer de canal de chat                                                                      |
+| **/f invite PSEUDO**                                                                                                           | Inviter un joueur dans votre faction                                                          |
+| **/f deinvite PSEUDO**                                                                                                         | Décliner l'invitation d'un joueur                                                             |
+| **/f power**                                                                                                                   | Voir l'état de votre power                                                                    |
+| **/f open**                                                                                                                    | Ouvrir votre faction aux joueurs (Tout le monde pourra rejoindre la faction)                  |
+| **/f close**                                                                                                                   | Permet de fermer votre faction aux joueurs (Les joueurs ne peuvent rejoindre sans invitation) |
+| **/f autoclaim**                                                                                                               | Activer la fonction de claim automatiquement (quand tu rentres dans un nouveau chunk)         |
+| **/f autounclaim**                                                                                                             | Activer la fonction de unclaim automatiquement (quand tu rentres dans un nouveau chunk)       |
+| <p><strong>/f unclaimall</strong><br><strong></strong><mark style="color:red;"><strong>ATTENTION</strong></mark></p>           | Unclaim tous les territoires de votre faction sans exception                                  |
+| **/f kick PSEUDO**                                                                                                             | Exclure un membre de votre faction                                                            |
+| **/f mod PSEUDO**                                                                                                              | Promouvoir un membre de votre faction                                                         |
+| **/f leader PSEUDO**                                                                                                           | Donner la place de leader de votre faction                                                    |
+| **/f title PSEUDO TITRE**                                                                                                      | Définir le titre d'un membre                                                                  |
+| **/F map**                                                                                                                     | Active la fonction de map faction                                                             |
+| <p><strong>/F map custom</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                              | Activer la fonction de map sur un côté de votre écran au lieu de le mettre dans le chat       |
+| <p><strong>/f owner minY maxY PSEUDO</strong><br><strong></strong><mark style="color:yellow;"><strong>NEW!</strong></mark></p> | Utiliser la fonction de owner en fonction de cordonnée Y à votre emplacement                  |
+| <p><strong>/f ownerlist</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                               | Afficher la liste des owners dans votre zone                                                  |
+| <p><strong>/f toggle owner</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                            | Affiche/Cache les messages d'owner quand tu rentres dans un claim                             |
+| **/f enemy FACTION\|PSEUDO**                                                                                                   | Mettre une faction au statut d'ennemi                                                         |
+| <p><strong>/f ally FACTION|PSEUDO</strong><br><mark style="color:red;"><strong>ALLIANCE RETIRE !</strong></mark></p>           |                                                                                               |
+| <p><strong>/f skill</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                                   | Permet de configurer les compétences de votre faction                                         |
+| <p><strong>/f warp</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                                    | Compétence faction pour placer un warp                                                        |
+| <p><strong>/f fly</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                                     | Compétence faction pour activer le fly dans votre territoire                                  |
+| <p><strong>/f achievement</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                             | Affiche les objectifs de faction                                                              |
+|                                                                                                                                |                                                                                               |
+|                                                                                                                                |                                                                                               |
