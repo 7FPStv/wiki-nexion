@@ -2,12 +2,28 @@
 
 
 
-/classe permet de voir la progression de ta classe
+| Commande                                                                                                                                      | Utilité                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>/argent</strong><br><strong>/bal</strong><br><strong>/money</strong></p>                                                           | Permet de voir l'argent que tu possèdes                                                                                                                  |
+| **/baltop**                                                                                                                                   | Voir le classement des joueurs possédant le plus d'argents sur le serveur                                                                                |
+| <p><strong>/mailbox</strong><br><strong>/box</strong><br><strong>/loots</strong><br> <strong>/reserve</strong></p>                            | Permet de voir vos récompenses en attente qu'il soit un objet expiré à l'hôtel des ventes, une récompense d'un événement ou vos minerais du minage, etc. |
+| <p><strong>/ec</strong><br><strong>/enderchest</strong><br><strong></strong><mark style="color:yellow;">UNIQUEMENT POUR LES GRADES</mark></p> | Permet de voir votre coffre du néant, une banque personnel, vous êtes le seul à voir ce coffre                                                           |
+| **/back**                                                                                                                                     | Permet de se téléporter à une votre ancien emplacement (à la suite d'une mort, d'une téléportation ou autres)                                            |
+| **/beaute**                                                                                                                                   | Commande bonus sur Nexion, exécute la en jeu et tu verras                                                                                                |
+|                                                                                                                                               |                                                                                                                                                          |
+|                                                                                                                                               |                                                                                                                                                          |
+|                                                                                                                                               |                                                                                                                                                          |
+|                                                                                                                                               |                                                                                                                                                          |
+|                                                                                                                                               |                                                                                                                                                          |
+| **/classe**                                                                                                                                   | Voir la progression de ta classe                                                                                                                         |
+| **/skill**                                                                                                                                    | Voir les compétences de vos spécialités                                                                                                                  |
+| **/quest**                                                                                                                                    | Voir les quêtes de vos spécialités                                                                                                                       |
+| **/quest shop**                                                                                                                               | Ouvre le shop de quêtes                                                                                                                                  |
+| **/rewards**                                                                                                                                  | Permet de récupérer sa récompenses journalières (tous les jours)                                                                                         |
+| **/enchere** ou **/bid**                                                                                                                      | Voir les enchères du serveur                                                                                                                             |
+| **/hdv** ou **/ah**                                                                                                                           | Voir l'hôtel des ventes                                                                                                                                  |
+| **/hdv sell** ou **/ah sell**                                                                                                                 | Avec un objet dans la main vous pouvez vendre un objet.                                                                                                  |
+| **/classement**                                                                                                                               | Permet de voir le classement                                                                                                                             |
+| **/stats**                                                                                                                                    | Voir la liste des classements personnel hebdomadaire ou global des joueurs en fonction de catégories                                                     |
 
-/hdv ou /ah est une commande pour voir l'hotel des ventes
-
-/enchere ou /bid
-
-/rewards est une commande pour voir les récompenses journalières
-
-``
+## Commande pour la faction
