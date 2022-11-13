@@ -2,10 +2,10 @@
 
 * [Bienvenue sur Nexion](README.md)
   * [🔗 Informations](welcome/informations.md)
-  * [💾 Installer et jouer](welcome/installer-et-jouer.md)
-  * [👤 1. Créer ton compte](welcome/creation-du-compte.md)
-  * [📥 2. Télécharger le launcher](welcome/commencer-son-aventure-des-maintenant.md)
-  * [🎮 3. Commencer à jouer](welcome/commencer-a-jouer.md)
+  * [💾 Installer et jouer](welcome/installer-et-jouer/README.md)
+    * [👤 1. Créer ton compte](welcome/installer-et-jouer/1.-creer-ton-compte.md)
+    * [📥 2. Télécharger le launcher](welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md)
+    * [🎮 3. Commencer à jouer](welcome/installer-et-jouer/3.-commencer-a-jouer.md)
   * [🏰 Découvrir le jeu](welcome/decouvrir-le-jeu.md)
 * [Présentation générale](master.md)
 
@@ -53,7 +53,8 @@
 
 ## Système à connaître
 
-* [📣 Informations utiles](systeme-a-connaitre/informations-utiles.md)
+* [📣 Informations importantes](systeme-a-connaitre/informations-utiles.md)
+* [❗ Commandes utiles](systeme-a-connaitre/informations-utiles-1.md)
 * [⚔ Factions](systeme-a-connaitre/factions.md)
 * [🎒 Les kits de départ](systeme-a-connaitre/les-kits-de-depart.md)
 * [👑 Classe](systeme-a-connaitre/les-classes.md)

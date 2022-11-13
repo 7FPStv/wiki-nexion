@@ -5,7 +5,7 @@
 Premièrement, il existe plusieurs solutions aux problèmes de launcher en fonction de ce que tu as comme erreur, que ce soit avant de lancer le jeu, pendant le lancement du jeu ou même après le lancement du launcher. Tout sera expliqué, si tu vois ton problème va suivre le tutoriel pour le résoudre.
 
 {% hint style="danger" %}
-<mark style="color:red;">Avant d'aller voir les différentes solutions assure-toi d'avoir regardé le tutoriel permettant de savoir tout sur le :</mark> [<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/commencer-son-aventure-des-maintenant.md)<mark style="color:red;">****</mark>
+<mark style="color:red;">Avant d'aller voir les différentes solutions assure-toi d'avoir regardé le tutoriel permettant de savoir tout sur le :</mark> [<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md)<mark style="color:red;">****</mark>
 {% endhint %}
 
 
@@ -91,7 +91,7 @@ Si le problème n'est pas résolu, **ouvre un ticket sur le support** et expliqu
 Plusieurs solution possible pour corriger ce problème, la plus simple d'être elle est de simplement d'appuyer sur le serveur que tu souhaites sélectionner ici il faut bien cliquer sur le logo de Nexion se trouvant à droites du bouton Accueil. Les logos en dessous de "Nos projets" redirige vers les sites internet des projets.
 
 {% hint style="danger" %}
-<mark style="color:red;">Je t'invite à regarder le tutoriel permettant de savoir tout sur le :</mark>\ <mark style="color:red;"></mark>[<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/commencer-son-aventure-des-maintenant.md) <mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">cela t'explique aussi le launcher !</mark>
+<mark style="color:red;">Je t'invite à regarder le tutoriel permettant de savoir tout sur le :</mark>\ <mark style="color:red;"></mark>[<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md) <mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">cela t'explique aussi le launcher !</mark>
 {% endhint %}
 
 ![Menu d'accueil du launcher officiel de NexionGames](<../../.gitbook/assets/image (47).png>)

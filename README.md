@@ -23,9 +23,9 @@ Un monde avec un système de classes inédit, de la magie avec des sorts, de tou
 
 [🔗 **Informations et liens utiles**](welcome/informations.md) **** (2 minutes)
 
-🎮 **Commencer par installer et jouer** (10 minutes)
+[🎮 **Commencer par installer et jouer**](welcome/installer-et-jouer/) **** (10 minutes)
 
-🏰 **Découvrir les bases du jeu** (10 minutes)
+[🏰 **Découvrir les bases du jeu**](welcome/decouvrir-le-jeu.md) **** (10 minutes)
 
 
 

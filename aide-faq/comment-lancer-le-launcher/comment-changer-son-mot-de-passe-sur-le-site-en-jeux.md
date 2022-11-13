@@ -25,7 +25,7 @@ Nous vous conseillons d'**utiliser un mot de passe généré aléatoirement**, i
 ## Changer son mot de passe en jeu
 
 {% hint style="info" %}
-**Etape 1 ->** Connecte-toi au launcher comme indiqué dans [commencer-a-jouer.md](../../welcome/commencer-a-jouer.md "mention")
+**Etape 1 ->** Connecte-toi au launcher comme indiqué dans [3.-commencer-a-jouer.md](../../welcome/installer-et-jouer/3.-commencer-a-jouer.md "mention")
 
 **Etape 2 ->** Une fois dans un LOBBY tu dois simplement taper la commande suivante :&#x20;
 
@@ -37,7 +37,7 @@ Nous vous conseillons d'**utiliser un mot de passe généré aléatoirement**, i
 ## Comment activer son double authentification
 
 {% hint style="info" %}
-**Etape 1 ->** Connecte-toi au launcher comme indiqué dans [commencer-a-jouer.md](../../welcome/commencer-a-jouer.md "mention")
+**Etape 1 ->** Connecte-toi au launcher comme indiqué dans [3.-commencer-a-jouer.md](../../welcome/installer-et-jouer/3.-commencer-a-jouer.md "mention")
 
 **Etape 2 ->** Une fois dans un LOBBY tu dois simplement taper la commande suivante :&#x20;
 

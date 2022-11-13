@@ -10,17 +10,17 @@ Sur la page [<mark style="color:purple;">**JOUER**</mark> ](https://nexion.fr/jo
 
 En téléchargeant le launcher tu dois installer ce qu'on appelle un **SETUP** du launcher, c'est une application pour lancer notre launcher. En cliquant sur le système d'exploitation de ton choix, tu vas télécharger notre application.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Lorsque tu lances le téléchargement du setup, il va s'installer et te permettre d'avoir le launcher.
 
-![Téléchargement du setup NexionGames](../.gitbook/assets/a3e80de32eb7c640673986b590e02ebe.png)
+![Téléchargement du setup NexionGames](../../.gitbook/assets/a3e80de32eb7c640673986b590e02ebe.png)
 
 ## <mark style="color:purple;">\[ETAPE 2]</mark> Ouvrir le launcher NexionGames
 
 Une fois le téléchargement du setup fini, tu peux ouvrir le launcher. Il s'ouvre souvent seul la première fois. I**l se trouve souvent sur le bureau**, si tu ne le trouves pas tu peux aller le rechercher.&#x20;
 
-![Si vous n'avez rien, vous pouvez le rechercher en appuyant sur la touche Windows, ou en faisant une recherche : "nexiongames"](<../.gitbook/assets/Sans titre - 1.png>) ![Sur le bureau, vous pouvez voir qu'une nouvelle icone est apparu -> c'est le launcher de NexionGames.](../.gitbook/assets/98d19ebc5441c06627479c07cdde2174.png)
+![Si vous n'avez rien, vous pouvez le rechercher en appuyant sur la touche Windows, ou en faisant une recherche : "nexiongames"](<../../.gitbook/assets/Sans titre - 1.png>) ![Sur le bureau, vous pouvez voir qu'une nouvelle icone est apparu -> c'est le launcher de NexionGames.](../../.gitbook/assets/98d19ebc5441c06627479c07cdde2174.png)
 
 Maintenant, tu lances le launcher pour la première fois. Tu vas arriver sur le menu du launcher. Expliquons maintenant, la barre de menu tout en haut du launcher.
 
@@ -36,9 +36,9 @@ Tu peux apercevoir les articles et dernières informations du serveur, idéale p
 
 Après avoir cliqué sur le bouton <mark style="color:purple;">**\[->Connexion à Nexion]**</mark> Tu peux te connecter avec les identifiants que tu as créé précédemment avec la création de ton compte.
 
-![](<../.gitbook/assets/screen launcher Nexion.png>)
+![](<../../.gitbook/assets/screen launcher Nexion.png>)
 
-![Ensuite tu peux cliquer sur le bouton \[ -> Jouer à Nexion \]](../.gitbook/assets/Screenshot\_1.png)
+![Ensuite tu peux cliquer sur le bouton \[ -> Jouer à Nexion \]](../../.gitbook/assets/Screenshot\_1.png)
 
 Une fois cela fait, tu n'as plus qu'à lancer le jeu en cliquant sur le bouton <mark style="color:purple;">**\[->Jouer à Nexion]**</mark>
 
@@ -49,5 +49,5 @@ Si c'est la première fois que tu lances le launcher tu auras une mise à jour q
 {% hint style="danger" %}
 <mark style="color:red;">**POUR TOUT PROBLEME DE TELECHARGEMENT DE LAUNCHER !**</mark>
 
-Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:red;">**\[->Problème launcher\]**</mark>](../aide-faq/comment-lancer-le-launcher/guide-launcher.md)<mark style="color:red;">****</mark>
+Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:red;">**\[->Problème launcher\]**</mark>](../../aide-faq/comment-lancer-le-launcher/guide-launcher.md)<mark style="color:red;">****</mark>
 {% endhint %}
