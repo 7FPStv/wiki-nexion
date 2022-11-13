@@ -4,7 +4,7 @@ Le plugin Factions permet aux joueurs de se regrouper au sein d'une faction comm
 
 ## Les commandes factions
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ![](<../.gitbook/assets/image (8).png>)
 

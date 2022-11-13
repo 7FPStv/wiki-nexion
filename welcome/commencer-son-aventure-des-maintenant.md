@@ -1,4 +1,4 @@
-# 📥 Téléchargement
+# 📥 2. Télécharger le launcher
 
 #### Après la création de ton compte, il ne te manque plus qu'à installer le jeu pour <mark style="color:purple;">rejoindre l'univers de Nexion et commencer à jouer !</mark>
 
@@ -50,7 +50,7 @@ Tu peux apercevoir les articles et dernières informations du serveur, idéale p
 
 ![Page du serveur Nexion, tu peux cliquer sur  \[ -> Connexion à Nexion \] pour rejoindre l'aventure !](<../.gitbook/assets/screen launcher Nexion.png>)
 
-Après avoir cliqué sur le bouton <mark style="color:purple;">**\[ -> Connexion à Nexion ]**</mark> Tu vas devoir te connecter avec tes identifiants que tu as créé précédemment dans notre tutoriel pour la [creation-du-compte.md](creation-du-compte.md "mention")
+Après avoir cliqué sur le bouton <mark style="color:purple;">**\[ -> Connexion à Nexion ]**</mark> Tu vas devoir te connecter avec tes identifiants que tu as créé précédemment dans notre tutoriel pour la [1.-creer-ton-compte.md](1.-creer-ton-compte.md "mention")
 
 ![Utilise les identifiants que tu as renseigné lorsque tu as créer ton compte sur le site www.nexion.fr](../.gitbook/assets/bc6ca8911b2667cbfaf27d9e4dcfb5c6.png)
 
