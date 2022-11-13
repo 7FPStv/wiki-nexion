@@ -22,7 +22,7 @@ Ainsi qu'une barre avec plusieurs bouton permettant d'afficher nos réseaux et d
 
 Lorsque tu rejoins pour la première fois, pour ta sécurité nous allons te demander de créer un mot de passe pour accéder au serveur de jeu. Celui-ci doit être différent que sur le site pour protéger un maximum ton compte.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Découvrons la liste des serveurs
 

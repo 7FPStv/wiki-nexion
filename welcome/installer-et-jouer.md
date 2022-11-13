@@ -2,7 +2,7 @@
 
 ## Inscrivez-vous maintenant pour jouer !&#x20;
 
-Nexion est un serveur MineCraft n'étant pas affilié à Mojang la société gérant MineCraft pour cela pour commencer à jouer sur nos serveurs de jeu tu dois :&#x20;
+Nexion est un serveur MineCraft n'étant pas affilié à Mojang. Pour commencer à jouer sur nos serveurs de jeu tu dois : **Créer ton compte**, **Télécharger le launcher**, et **Commencer à jouer** !
 
 {% content-ref url="creation-du-compte.md" %}
 [creation-du-compte.md](creation-du-compte.md)

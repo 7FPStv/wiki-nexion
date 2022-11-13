@@ -42,10 +42,12 @@ Après avoir cliqué sur le bouton <mark style="color:purple;">**\[->Connexion �
 
 Une fois cela fait, tu n'as plus qu'à lancer le jeu en cliquant sur le bouton <mark style="color:purple;">**\[->Jouer à Nexion]**</mark>
 
-Si c'est la première fois que tu lances le launcher tu auras une mise à jour qui peut être longue ne t'en fais pas c'est tout à fait normal, tu dois télécharger tout l'univers de Nexion. Lorsqu'il aura finit le téléchargement le launcher se fermera automatiquement et le jeu se lancera. Bonne aventure !
+Si c'est la première fois que tu lances le launcher tu auras une mise à jour qui peut être longue ne t'en fais pas c'est tout à fait normal, tu dois télécharger tout l'univers de Nexion. Lorsqu'il aura finit le téléchargement le launcher se fermera automatiquement et le jeu se lancera.
 
-{% hint style="info" %}
-<mark style="color:blue;">**POUR TOUT PROBLEME DE TELECHARGEMENT DE LAUNCHER !**</mark>
 
-Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:blue;">**\[->Problème launcher\]**</mark>](../aide-faq/comment-lancer-le-launcher/guide-launcher.md)<mark style="color:blue;">****</mark>
+
+{% hint style="danger" %}
+<mark style="color:red;">**POUR TOUT PROBLEME DE TELECHARGEMENT DE LAUNCHER !**</mark>
+
+Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:red;">**\[->Problème launcher\]**</mark>](../aide-faq/comment-lancer-le-launcher/guide-launcher.md)<mark style="color:red;">****</mark>
 {% endhint %}
