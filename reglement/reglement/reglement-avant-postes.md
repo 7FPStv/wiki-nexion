@@ -5,7 +5,7 @@ Les avant-postes sont les 2 lignes de territoires de guerre se trouvant juste ap
 * Une faction peut avoir **4 claims de la première ligne** et **4 claims de la seconde ligne**.
 * Vous pouvez utiliser cette zone pour construire vos forteresses, cette zone ne doit pas contenir de farm pour éviter un maximum les bugs dans cette zone.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Zone des avant-postes (NORD)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Zone des avant-postes (NORD)</p></figcaption></figure>
 
 
 
