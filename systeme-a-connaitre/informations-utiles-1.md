@@ -27,3 +27,25 @@
 | **/stats**                                                                                                                                    | Voir la liste des classements personnel hebdomadaire ou global des joueurs en fonction de catégories                                                     |
 
 ## Commande pour la faction
+
+|                                                                                                                |                                                            |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **/f create NOM**                                                                                              | Créer une faction                                          |
+| **/f disband**                                                                                                 | Dissoudre votre faction                                    |
+| **/f join FACTION\|PSEUDO**                                                                                    | Afficher les infirmations d'une/votre faction              |
+| **/f list**                                                                                                    | Liste des factions                                         |
+| **/f claim RAYON**                                                                                             | Claim un territoire (Dans le chunk ou vous êtes présent)   |
+| <p><strong>/f claims</strong><br><strong></strong><mark style="color:yellow;"><strong>NEW!</strong></mark></p> | Afficher la liste de vos territoires/claims                |
+| **/f unclaim**                                                                                                 | Unclaim un territoire (Dans le chunk ou vous êtes présent) |
+| **/f sethome**                                                                                                 | Défini le home de votre faction                            |
+| **/f home**                                                                                                    | Téléportation à votre home de faction                      |
+| <p><strong>/f info</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                    | Affiche des informations diverses sur votre faction        |
+| <p><strong>/f rank</strong><br><mark style="color:yellow;"><strong>NEW!</strong></mark></p>                    | Permet d'afficher les rangs de votre faction               |
+|                                                                                                                |                                                            |
+|                                                                                                                |                                                            |
+|                                                                                                                |                                                            |
+|                                                                                                                |                                                            |
+|                                                                                                                |                                                            |
+|                                                                                                                |                                                            |
+|                                                                                                                |                                                            |
+|                                                                                                                |                                                            |
