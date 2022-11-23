@@ -1,18 +1,20 @@
 # 🌾 L'écuyer
 
-Il existe sur Nexion un système d'écuyer, un compagnon vous accompagnant dans le jeu, accessible dès que vous avez atteint le niveau de 100 de votre classe.
+Il existe sur Nexion un système d'écuyer, un compagnon vous accompagnant dans le jeu. \
+Il vous soutient dans le farming, le pillage, le minage, la chasse et la réparation d'item.\
+Votre écuyer est accessible dès que vous avez atteint le niveau de 100 de votre classe.
 
 {% hint style="info" %}
 Une fois le niveau 100 atteint, l'interface de votre écuyer est accessible en cliquant sur le PNJ dédié à l'écuyer au Spawn ou au /warp ecuyer.
 {% endhint %}
 
-![Interface du menu de l'Ecuyer.](<../.gitbook/assets/image (27).png>)
+![Interface du menu de l'Ecuyer.](../.gitbook/assets/écuyer.PNG)
 
-Par défaut lorsque tu débloques l'écuyer tu as un objectif chaque jour (en fonction de ton niveau tu peux débloquer plusieurs objectifs par jour, 3 maximum).
+Par défaut lorsque tu débloques l'écuyer, tu as un objectif chaque jour (en fonction de ton niveau tu peux débloquer plusieurs objectifs par jour, 3 maximum).
 
 Dans un objectif tu devras donner entre 1 et 2 ressources différentes à l'écuyer (avec des quantités différentes) pour pouvoir réussir l'objectif. **Pour réussir l'objectif**, l'écuyer doit récupérer la bonne quantité de ressources par lui même, l'objectif se termine automatiquement quand cela est réalisé.
 
-![](../.gitbook/assets/bdcf4843183e8f75f104d53f97a6e864.png)
+![](../.gitbook/assets/objectifs.PNG)
 
 **-> Un objectif réussi donne de l'expérience pour l'écuyer.**
 
