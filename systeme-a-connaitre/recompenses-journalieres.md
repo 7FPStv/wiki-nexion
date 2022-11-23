@@ -2,11 +2,11 @@
 
 ### **Connectez-vous tous les jours pour récupérer des cadeaux grâce aux récompenses journalières**&#x20;
 
-Pour accéder à ses récompenses à votre apparition au spawn juste à votre gauche se tiendra un pnj nommé <mark style="color:purple;">**Récompenses journalières,**</mark> fais un **CLIQUE-DROIT** sur lui pour lui parler ou tu peux aussi accéder aux récompenses journalières avec la commande <mark style="color:red;">**/reward**</mark>&#x20;
+Pour accéder aux récompenses journalières, il suffit de te rendre juste à ta gauche une fois téléporté au spawn et tu y trouveras un pnj nommé <mark style="color:purple;">**Récompenses journalières,**</mark> fais un **CLIQUE-DROIT** sur lui pour lui parler ou tu peux aussi accéder aux récompenses journalières avec la commande <mark style="color:red;">**/reward**</mark>&#x20;
 
 **Interface Récompenses journalières :**&#x20;
 
-![](../.gitbook/assets/unknown.png)
+![Interface du menu des récompenses journalières.](../.gitbook/assets/reward.PNG)
 
 {% hint style="info" %}
 <mark style="color:blue;">**Légende :**</mark>&#x20;
