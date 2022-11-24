@@ -1,15 +1,15 @@
 # 🧙 Magie
 
-La magie est accessible au <mark style="color:purple;">niveau 30</mark>. Pour maximiser la Magie, il vous faudra la monté <mark style="color:purple;">niveau 100</mark>.\
+La magie est accessible au <mark style="color:purple;">niveau 30</mark> de votre classe. Pour maximiser la Magie, il vous faudra la monter <mark style="color:purple;">niveau 125</mark>.\
 \
 Le seul moyen d'xp votre magie est de lancer des sort ou de faire des offrandes au puit magique.\
 Tout les <mark style="color:purple;">25 niveau de magie</mark>, une Baguette magique vous est donné !
 
-![Les offrandes possible au puit magique (les valeurs peuvent changer)](<../.gitbook/assets/image (59).png>)
+![Les offrandes possible au puit magique (les valeurs peuvent changer)](../.gitbook/assets/puit.PNG)
 
 Voici l'interface de sort _**/sort**_
 
-![/sort](<../.gitbook/assets/image (61).png>)
+![/sort](../.gitbook/assets/sort.PNG)
 
 ## Liste des sorts
 
@@ -18,8 +18,8 @@ Voici l'interface de sort _**/sort**_
 Le sort de <mark style="color:purple;">**Transformation**</mark> <img src="../.gitbook/assets/spell_transform.png" alt="" data-size="line">: permet de transformer le minerai aléatoire en minerai aléatoire gemmées. (Random Ore -> Random Ore Gemées)
 
 * Niveau 1 : 50% de chance
-* Niveau 2 : 75% de chance
-* Niveau 3 : 90% de chance
+* Niveau 2 : 65% de chance
+* Niveau 3 : 80% de chance
 
 Le sort de <mark style="color:purple;">**Réparation**</mark> <img src="../.gitbook/assets/spell_armor.png" alt="" data-size="line"> : permet de réparer l'armure équipé.
 
@@ -41,9 +41,9 @@ Le sort de ** **<mark style="color:purple;">**2XP**</mark> <img src="../.gitbook
 
 Le sort <mark style="color:purple;">**Omniscient**</mark> <img src="../.gitbook/assets/spell_omniscient.png" alt="" data-size="line"> **** : permet de détecter les coffres aux alentours de vous en donnant un pourcentage.
 
-* Niveau 1 : 10 blocks
+* Niveau 1 : 10 blocs
 * Niveau 2 : 20 blocks
-* Niveau 3 : 30 blocks
+* Niveau 3 : 30 blocs
 
 Le sort <mark style="color:purple;">**Anti-trap**</mark> <img src="../.gitbook/assets/spell_anti_trap.png" alt="" data-size="line">: permet de sortir d'une trap en se téléportant au dernier joueur qui vous è taper(dans un délais). Mais cela, uniquement si ce joueur peut vous frapper(via des blocs transparent ou de l'air) et que vous le regarder.
 
@@ -87,10 +87,10 @@ Le sort <mark style="color:purple;">**Annulation**</mark> : permet de supprimer 
 
 Le sort <mark style="color:purple;">**Evolution**</mark> : permet de faire évoluer certains monstres.
 
-* Niveau 1 : Transforme un creeper en super creeper, 40% de chance de réussir. \
+* Niveau 1 : Transforme un creeper en super creeper, 15% de chance de réussir. \
   (Cout en pierre magique : 9 Pierres, Cout en mana : 10 de mana, Cooldown : 1 heure)
-* Niveau 2 : Transforme un villageois en villageois magique, 30% de chance de réussir.\
+* Niveau 2 : Transforme un creeper en super creeper, 30% de chance de réussir + Transforme un villageois en villageois magique, 5% de chance de réussir.\
   (Cout en pierre magique : 7 Pierres, Cout en mana : 15 de mana, Cooldown : 1 heure)
-* Niveau 3 : Transforme un creeper en super creeper, 60% de chance de réussir + Transforme un villageois en villageois magique, 50% de chance de réussir. \
+* Niveau 3 : Transforme un creeper en super creeper, 45% de chance de réussir + Transforme un villageois en villageois magique, 10% de chance de réussir. \
   (Cout en pierre magique : 5 Pierres, Cout en mana : 20 de mana, Cooldown : 1 heure)
 
