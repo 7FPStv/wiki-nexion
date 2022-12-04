@@ -29,7 +29,7 @@ Un monde avec un système de classes inédit, de la magie avec des sorts, de tou
 
 
 
-[📜 **Wiki général de Nexion**](master.md)****
+[📜 **Wiki général de Nexion**](broken-reference)****
 
 [📕 **Règlement** ](reglement/reglement/)****
 

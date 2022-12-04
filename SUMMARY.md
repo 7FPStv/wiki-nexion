@@ -7,7 +7,7 @@
     * [📥 2. Télécharger le launcher](welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md)
     * [🎮 3. Commencer à jouer](welcome/installer-et-jouer/3.-commencer-a-jouer.md)
   * [🏰 Découvrir le jeu](welcome/decouvrir-le-jeu.md)
-* [Présentation générale](master.md)
+* [❄ MISE A JOUR : WINTER](mise-a-jour-winter.md)
 
 ## ━ Règlements <a href="#reglement" id="reglement"></a>
 
