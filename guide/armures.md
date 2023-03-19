@@ -2,17 +2,21 @@
 
 ## Les armures pour le combat
 
-• Armure en OPALE ![](../.gitbook/assets/opale\_helmet.png)![](../.gitbook/assets/opale\_chestplate.png)![](../.gitbook/assets/opale\_leggings.png)![](../.gitbook/assets/opale\_boots.png)
+• Armure en **Opale**![](../.gitbook/assets/opale\_helmet.png)![](../.gitbook/assets/opale\_chestplate.png)![](../.gitbook/assets/opale\_leggings.png)![](../.gitbook/assets/opale\_boots.png)
 
-• Armure en IRIS ![](../.gitbook/assets/iris\_helmet.png)![](../.gitbook/assets/iris\_chestplate.png)![](../.gitbook/assets/iris\_leggings.png)![](<../.gitbook/assets/iris\_boots (1).png>)
+• Armure en **Iris**![](../.gitbook/assets/iris\_helmet.png)![](../.gitbook/assets/iris\_chestplate.png)![](../.gitbook/assets/iris\_leggings.png)![](../.gitbook/assets/iris\_boots.png)
 
-• Armure en TITANE ![](../.gitbook/assets/titane\_helmet.png)![](../.gitbook/assets/titane\_chestplate.png)![](../.gitbook/assets/titane\_leggings.png)![](../.gitbook/assets/titane\_boots.png)
+• Armure en **Titane**![](../.gitbook/assets/titane\_helmet.png)![](<../.gitbook/assets/titane\_chestplate (1).png>)![](../.gitbook/assets/titane\_leggings.png)![](../.gitbook/assets/titane\_boots.png)
 
 
 
 ## Les armures diverses
 
-![](../.gitbook/assets/farm\_helmet.png)![](../.gitbook/assets/farm\_chestplate.png)
+• Armure de **Farming**![](../.gitbook/assets/farm\_helmet.png)![](../.gitbook/assets/farm\_chestplate.png)![](../.gitbook/assets/farm\_leggings.png)![](../.gitbook/assets/farm\_boots.png)
+
+• Armure de **Recherche**![](../.gitbook/assets/search\_helmet.png)![](../.gitbook/assets/search\_chestplate.png)![](../.gitbook/assets/search\_leggings.png)![](../.gitbook/assets/search\_boots.png)
+
+• Armure de **Mana**![](../.gitbook/assets/mana\_helmet.png)![](../.gitbook/assets/mana\_chestplate.png)![](../.gitbook/assets/mana\_leggings.png)![](../.gitbook/assets/mana\_boots.png)
 
 
 
@@ -32,7 +36,7 @@ Elle se répare automatiquement lorsque vous <mark style="color:green;">gagnez d
 • **ARMURES AMELIOREES DE **<mark style="color:blue;">**METAL**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:red;">****<mark style="color:red;"></mark>** :** ![](../.gitbook/assets/steel\_iris\_helmet.png)![](../.gitbook/assets/steel\_iris\_chestplate.png)![](../.gitbook/assets/steel\_iris\_leggings.png)![](../.gitbook/assets/steel\_iris\_boots.png) | ![](../.gitbook/assets/steel\_titane\_helmet.png)![](../.gitbook/assets/steel\_titane\_chestplate.png)![](../.gitbook/assets/steel\_titane\_leggings.png)![](../.gitbook/assets/steel\_titane\_boots.png)\
 Elle possède <mark style="color:blue;">plus de durabilité</mark> que l'armure de base
 
-• **ARMURES AMELIOREES DE **<mark style="color:orange;">**TERRE**</mark>** :** ![](../.gitbook/assets/earth\_iris\_helmet.png)![](../.gitbook/assets/earth\_iris\_chestplate.png)![](../.gitbook/assets/earth\_iris\_leggings.png)![](<../.gitbook/assets/earth\_iris\_boots (1).png>) | ![](../.gitbook/assets/earth\_titane\_helmet.png)![](../.gitbook/assets/earth\_titane\_chestplate.png)![](../.gitbook/assets/earth\_titane\_leggings.png)![](../.gitbook/assets/earth\_titane\_boots.png)\
+• **ARMURES AMELIOREES DE **<mark style="color:orange;">**TERRE**</mark>** :** ![](<../.gitbook/assets/earth\_iris\_helmet (1).png>)![](../.gitbook/assets/earth\_iris\_chestplate.png)![](../.gitbook/assets/earth\_iris\_leggings.png)![](<../.gitbook/assets/earth\_iris\_boots (1).png>) | ![](../.gitbook/assets/earth\_titane\_helmet.png)![](../.gitbook/assets/earth\_titane\_chestplate.png)![](../.gitbook/assets/earth\_titane\_leggings.png)![](../.gitbook/assets/earth\_titane\_boots.png)\
 Elle est <mark style="color:orange;">plus résistante</mark> que l’armure de base
 
 
