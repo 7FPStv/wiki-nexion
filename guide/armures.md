@@ -1,5 +1,7 @@
 # 👕 Armures
 
+
+
 ## Les armures pour le combat
 
 • Armure en **Opale**![](../.gitbook/assets/opale\_helmet.png)![](../.gitbook/assets/opale\_chestplate.png)![](../.gitbook/assets/opale\_leggings.png)![](../.gitbook/assets/opale\_boots.png)
@@ -22,11 +24,6 @@
 
 ## Les armures améliorées
 
-Les armures en titane et iris sont améliorables avec des gemmes. \
-Selon les gemmes utilisées, les effets sont différents. _**Attention**_, les fabrications d'armures gemmées se font désormais dans la table de fabrication gemmée, qui se craft comme ceci :
-
-![](<../.gitbook/assets/table de craft gemmée.png>)
-
 • **ARMURES AMELIOREES DE **<mark style="color:red;">**VIE**</mark>** :** ![](../.gitbook/assets/life\_iris\_helmet.png)![](../.gitbook/assets/life\_iris\_chestplate.png)![](../.gitbook/assets/life\_iris\_leggings.png)![](../.gitbook/assets/life\_iris\_boots.png) | ![](../.gitbook/assets/life\_titane\_helmet.png)![](../.gitbook/assets/life\_titane\_chestplate.png)![](../.gitbook/assets/life\_titane\_leggings.png)![](../.gitbook/assets/life\_titane\_boots.png)\
 Chaque pièce d'armure de vie vous <mark style="color:red;">donne 1 cœur supplémentaire</mark>.
 
@@ -38,6 +35,13 @@ Elle possède <mark style="color:blue;">plus de durabilité</mark> que l'armure 
 
 • **ARMURES AMELIOREES DE **<mark style="color:orange;">**TERRE**</mark>** :** ![](<../.gitbook/assets/earth\_iris\_helmet (1).png>)![](../.gitbook/assets/earth\_iris\_chestplate.png)![](../.gitbook/assets/earth\_iris\_leggings.png)![](<../.gitbook/assets/earth\_iris\_boots (1).png>) | ![](../.gitbook/assets/earth\_titane\_helmet.png)![](../.gitbook/assets/earth\_titane\_chestplate.png)![](../.gitbook/assets/earth\_titane\_leggings.png)![](../.gitbook/assets/earth\_titane\_boots.png)\
 Elle est <mark style="color:orange;">plus résistante</mark> que l’armure de base
+
+
+
+Les armures en titane et iris sont améliorables avec des gemmes. \
+Selon les gemmes utilisées, les effets sont différents. _**Attention**_, les fabrications d'armures gemmées se font désormais dans la table de fabrication gemmée, qui se craft comme ceci :
+
+![](<../.gitbook/assets/table de craft gemmée.png>)
 
 
 
