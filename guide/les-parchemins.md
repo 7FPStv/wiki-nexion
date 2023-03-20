@@ -1,4 +1,4 @@
-# Les parchemins
+# 📜 Les parchemins
 
 ### **Il existe 5 parchemins différents :**&#x20;
 
@@ -39,4 +39,12 @@ Je vais donc te les énumérer ci-dessous.\
 * La pêche magique
 * La Box end
 * Les [évènements ](les-evenements/)du /planning
+
+### Comment fonctionne les parchemins ?
+
+Une fois ton parchemin en main, il te suffit de faire un clique droit dessus pour l'activer.\
+Tu recevras donc une quête en rapport avec la [spécialité ](../systeme-a-connaitre/specialites/)du parchemin.\
+Tu auras aussi un temps défini pour la réaliser.\
+Si tu n'arrives pas à la réaliser dans les temps, tu ne gagneras aucune récompense.\
+De plus, tu ne peux utiliser qu'un seul parchemin à la fois. Tant que ta quête n'a pas été réalisé, tu ne pourras pas en activer un autre.
 
