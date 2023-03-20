@@ -21,3 +21,22 @@ Ce parchemin vous permet d'obtenir entre 7 et 9 points de quête ainsi que de l'
 **Parchemin de quête **<mark style="color:orange;">**Légendaire**</mark> ![](../.gitbook/assets/quest\_scroll\_legendary.png)<mark style="color:orange;">****</mark>
 
 Ce parchemin vous permet d'obtenir entre 11 et 13 points de quête ainsi que de l'expérience dans une des [spécialités](../systeme-a-connaitre/specialites/).
+
+
+
+### Comment obtenir les parchemins ?
+
+Il existe une multitude de façons qui te permettent d'obtenir les parchemins.\
+Je vais donc te les énumérer ci-dessous.\
+
+
+* [Guldor](personnage-fictif/guldor.md)
+* [Rodlug](personnage-fictif/rodlug.md)
+* [Vaarel](personnage-fictif/vaarel.md)
+* Les [votes](../aide-faq/comment-lancer-le-launcher/guide-de-vote.md)
+* Dans la compétence de [spécialité social](../systeme-a-connaitre/specialites/specialite-social.md) "trésor"
+* Les villageois magiques&#x20;
+* La pêche magique
+* La Box end
+* Les [évènements ](les-evenements/)du /planning
+
