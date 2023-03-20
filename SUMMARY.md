@@ -50,6 +50,7 @@
   * [Quêtes global](guide/les-evenements/quetes-global.md)
   * [Camps des gobelins](guide/les-evenements/camps-des-gobelins.md)
   * [Guerre des boss](guide/les-evenements/guerre-des-boss.md)
+* [Les parchemins](guide/les-parchemins.md)
 
 ## Système à connaître
 
