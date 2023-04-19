@@ -1,7 +1,5 @@
 # 👕 Armures
 
-
-
 ## Les armures pour le combat
 
 • Armure en **Opale**![](../.gitbook/assets/opale\_helmet.png)![](../.gitbook/assets/opale\_chestplate.png)![](../.gitbook/assets/opale\_leggings.png)![](../.gitbook/assets/opale\_boots.png)
@@ -9,8 +7,6 @@
 • Armure en **Iris**![](../.gitbook/assets/iris\_helmet.png)![](../.gitbook/assets/iris\_chestplate.png)![](../.gitbook/assets/iris\_leggings.png)![](../.gitbook/assets/iris\_boots.png)
 
 • Armure en **Titane**![](../.gitbook/assets/titane\_helmet.png)![](<../.gitbook/assets/titane\_chestplate (1).png>)![](../.gitbook/assets/titane\_leggings.png)![](../.gitbook/assets/titane\_boots.png)
-
-
 
 ## Les armures diverses
 
@@ -30,7 +26,7 @@ Chaque pièce d'armure de vie vous <mark style="color:red;">donne 1 cœur suppl�
 • **ARMURES AMELIOREES DE **<mark style="color:green;">**REPARATION**</mark>** :** ![](../.gitbook/assets/repair\_iris\_helmet.png)![](../.gitbook/assets/repair\_iris\_chestplate.png)![](../.gitbook/assets/repair\_iris\_leggings.png)![](../.gitbook/assets/repair\_iris\_boots.png) | ![](../.gitbook/assets/repair\_titane\_helmet.png)![](../.gitbook/assets/repair\_titane\_chestplate.png)![](../.gitbook/assets/repair\_titane\_leggings.png)![](../.gitbook/assets/repair\_titane\_boots.png)\
 Elle se répare automatiquement lorsque vous <mark style="color:green;">gagnez de l'expérience</mark>.
 
-• **ARMURES AMELIOREES DE **<mark style="color:blue;">**METAL**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;"><mark style="color:red;">****<mark style="color:red;"></mark>** :** ![](../.gitbook/assets/steel\_iris\_helmet.png)![](../.gitbook/assets/steel\_iris\_chestplate.png)![](../.gitbook/assets/steel\_iris\_leggings.png)![](../.gitbook/assets/steel\_iris\_boots.png) | ![](../.gitbook/assets/steel\_titane\_helmet.png)![](../.gitbook/assets/steel\_titane\_chestplate.png)![](../.gitbook/assets/steel\_titane\_leggings.png)![](../.gitbook/assets/steel\_titane\_boots.png)\
+• **ARMURES AMELIOREES DE **<mark style="color:blue;">**METAL**</mark> **:** ![](../.gitbook/assets/steel\_iris\_helmet.png)![](../.gitbook/assets/steel\_iris\_chestplate.png)![](../.gitbook/assets/steel\_iris\_leggings.png)![](../.gitbook/assets/steel\_iris\_boots.png) | ![](../.gitbook/assets/steel\_titane\_helmet.png)![](../.gitbook/assets/steel\_titane\_chestplate.png)![](../.gitbook/assets/steel\_titane\_leggings.png)![](../.gitbook/assets/steel\_titane\_boots.png)\
 Elle possède <mark style="color:blue;">plus de durabilité</mark> que l'armure de base
 
 • **ARMURES AMELIOREES DE **<mark style="color:orange;">**TERRE**</mark>** :** ![](<../.gitbook/assets/earth\_iris\_helmet (1).png>)![](../.gitbook/assets/earth\_iris\_chestplate.png)![](../.gitbook/assets/earth\_iris\_leggings.png)![](<../.gitbook/assets/earth\_iris\_boots (1).png>) | ![](../.gitbook/assets/earth\_titane\_helmet.png)![](../.gitbook/assets/earth\_titane\_chestplate.png)![](../.gitbook/assets/earth\_titane\_leggings.png)![](../.gitbook/assets/earth\_titane\_boots.png)\
@@ -49,15 +45,15 @@ Selon les gemmes utilisées, les effets sont différents. _**Attention**_, les f
 
 Il existe trois meilleures armures sur Nexion. Elles sont difficiles à acquérir. Pour les chanceux qui peuvent réussir à en avoir, chaque armure lorsqu'elle est portée entièrement, vous donne les effets suivants :&#x20;
 
-• **ARMURE LEGENDAIRE DE **<mark style="color:blue;">****</mark>** MENOS **<mark style="color:red;">****</mark>** :** ![](<../.gitbook/assets/legendary\_helmet (2).png>)![](<../.gitbook/assets/legendary\_chestplate (2).png>)![](<../.gitbook/assets/legendary\_leggings (1).png>)![](<../.gitbook/assets/legendary\_boots (1).png>)\
+• **ARMURE LEGENDAIRE DE** **MENOS** **:** ![](<../.gitbook/assets/legendary\_helmet (2).png>)![](<../.gitbook/assets/legendary\_chestplate (2).png>)![](<../.gitbook/assets/legendary\_leggings (1).png>)![](<../.gitbook/assets/legendary\_boots (1).png>)\
 Elle offre les effets suivants : Résistance au feu - Anti chute - Force II - Vitesse II \
 Elle permet aussi d'avoir 20% de dégâts aux armures de Vascur
 
-• **ARMURE LEGENDAIRE DE **<mark style="color:blue;">****</mark>** VASCUR :** ![](../.gitbook/assets/vascur\_helmet.png)![](../.gitbook/assets/vascur\_chestplate.png)![](../.gitbook/assets/vascur\_leggings.png)![](../.gitbook/assets/vascur\_boots.png)\
+• **ARMURE LEGENDAIRE DE** **VASCUR :** ![](../.gitbook/assets/vascur\_helmet.png)![](../.gitbook/assets/vascur\_chestplate.png)![](../.gitbook/assets/vascur\_leggings.png)![](../.gitbook/assets/vascur\_boots.png)\
 Elle offre les effets suivants : Résistance au feu - Anti chute - Force II - Vitesse II \
 Elle permet aussi d'avoir 20% de dégâts aux armures de Menos\
 Et permet avec 5% de chance de donner un effet de Wither à l'ennemi qui vous frappe.
 
-• **ARMURE LEGENDAIRE DE MAXAR :** ![](../.gitbook/assets/maxar\_helmet.png)****![](../.gitbook/assets/maxar\_chestplate.png)****![](../.gitbook/assets/maxar\_leggings.png)****![](../.gitbook/assets/maxar\_boots.png)\
+• **ARMURE LEGENDAIRE DE MAXAR :** ![](../.gitbook/assets/maxar\_helmet.png)![](../.gitbook/assets/maxar\_chestplate.png)![](../.gitbook/assets/maxar\_leggings.png)![](../.gitbook/assets/maxar\_boots.png)\
 Elle offre les effets suivants : Résistance au feu - Anti-Chûte - Force II - Vitesse II - Invisibilité
 

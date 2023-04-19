@@ -28,7 +28,7 @@ Pour changer le format de ton skin de 64x64 en 64x32 **(**[**https://godly.githu
 
 **1.** Cliquer sur le lien du site ci-dessus
 
-**2.** Ensuite cliquer sur le bouton : _**"Choisir un fichier"**_** **&#x20;
+**2.** Ensuite cliquer sur le bouton : _**"Choisir un fichier"**_&#x20;
 
 **3.** Parcourir vos fichiers en trouvant votre skin&#x20;
 

@@ -22,5 +22,6 @@ La catégorie <mark style="color:red;">légendaire</mark> est le seul moyen d'ob
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:blue;">**ASTUCE :**</mark>\ <mark style="color:blue;">****</mark>À l'aide de la commande ‘’/Vaarel’’, tu peux savoir dans combien de temps exactement il fera son apparition !
+<mark style="color:blue;">**ASTUCE :**</mark>\
+À l'aide de la commande ‘’/Vaarel’’, tu peux savoir dans combien de temps exactement il fera son apparition !
 {% endhint %}

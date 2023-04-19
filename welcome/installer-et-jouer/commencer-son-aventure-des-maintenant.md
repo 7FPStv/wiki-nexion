@@ -26,10 +26,10 @@ Maintenant, tu lances le launcher pour la première fois. Tu vas arriver sur le 
 
 **ACCUEIL** -> La page principale du launcher\
 **OPTIONS** -> Espace de configuration pour configurer la ram allouée au jeu\
-**NEXIONGAMES** -> Ouvre le site de NexionGames : [<mark style="color:purple;">www.nexiongames.com</mark>](https://nexiongames.com)<mark style="color:purple;"></mark>
+**NEXIONGAMES** -> Ouvre le site de NexionGames : [<mark style="color:purple;">www.nexiongames.com</mark>](https://nexiongames.com)
 
 {% hint style="info" %}
-Tu peux apercevoir les articles et dernières informations du serveur, idéale pour se tenir au courant des nouveautés ! Les articles viennent du site internet de : **** [<mark style="color:purple;">**nexion.fr**</mark>](https://nexion.fr) <mark style="color:purple;">****</mark>&#x20;
+Tu peux apercevoir les articles et dernières informations du serveur, idéale pour se tenir au courant des nouveautés ! Les articles viennent du site internet de : [<mark style="color:purple;">**nexion.fr**</mark>](https://nexion.fr)&#x20;
 {% endhint %}
 
 ## <mark style="color:purple;">\[ETAPE 3]</mark> Jouer avec le launcher
@@ -49,5 +49,5 @@ Si c'est la première fois que tu lances le launcher tu auras une mise à jour q
 {% hint style="danger" %}
 <mark style="color:red;">**POUR TOUT PROBLEME DE TELECHARGEMENT DE LAUNCHER !**</mark>
 
-Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:red;">**\[->Problème launcher\]**</mark>](../../aide-faq/comment-lancer-le-launcher/guide-launcher.md)<mark style="color:red;">****</mark>
+Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:red;">**\[->Problème launcher\]**</mark>](../../aide-faq/comment-lancer-le-launcher/guide-launcher.md)
 {% endhint %}

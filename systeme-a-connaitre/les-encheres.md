@@ -1,6 +1,6 @@
 # 👩⚖ Les enchères
 
-Sur le serveur il existe un système d'enchère. Les enchères sont **générées automatiquement par le serveur.** ****&#x20;
+Sur le serveur il existe un système d'enchère. Les enchères sont **générées automatiquement par le serveur.** &#x20;
 
 Il est possible d'accéder aux enchères via les commandes suivantes : <mark style="color:red;">**/bid**</mark> ou <mark style="color:red;">**/enchere**</mark>
 

@@ -25,7 +25,7 @@ En faisant un clique droit dessus, il te donne une méthode pour avoir un item c
 Actuellement 5 catégories de compétence de 10 niveaux. En fonction du niveau tu reçois plus de récompense. Pour augmenter de niveau, il te faut 1 points de niveau. Tu peux changer l'attribution des points quand tu veux.
 
 **Exp Magie**\
-****Niveau 1 : 600 - 1200 xp\
+Niveau 1 : 600 - 1200 xp\
 Niveau 2 : 1200 - 1800 xp\
 Niveau 3 : 1800 - 2400 xp\
 Niveau 4 : 2400 - 3200 xp\

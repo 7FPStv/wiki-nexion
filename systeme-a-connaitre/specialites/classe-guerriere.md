@@ -14,7 +14,7 @@
 
 #### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.**&#x20;
 
-****
+
 
 #### Boost exp de la <mark style="color:purple;">spécialité mineur</mark> :&#x20;
 
@@ -41,7 +41,7 @@ Niveau 2 : <mark style="color:purple;">Augmente de 4%</mark> (14% au total) la p
 Niveau 3 : <mark style="color:purple;">Augmente de 6%</mark> (16% au total) la pioche de richesse gemmée pour dupliquer un minerais (Cout : 3 point de compétence)\
 
 
-#### Capacité Pioche à obsidienne (Lorsque tu casses de l'obsidienne avec la pioche à obsidienne, <mark style="color:purple;">le bloc va directement dans ton inventaire</mark>) :  ****   &#x20;
+#### Capacité Pioche à obsidienne (Lorsque tu casses de l'obsidienne avec la pioche à obsidienne, <mark style="color:purple;">le bloc va directement dans ton inventaire</mark>) :      &#x20;
 
 &#x20;             &#x20;
 

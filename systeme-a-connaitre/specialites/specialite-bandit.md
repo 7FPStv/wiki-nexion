@@ -17,7 +17,7 @@ Pour avoir accès à la spécialité bandit, il faut passer le niveau 160 !
 ### <mark style="color:purple;">**5 compétences**</mark>** sont disponible avec cette spécialité**
 
 **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** \
-****
+
 
 #### Boost exp de la spécialité Bandit :&#x20;
 

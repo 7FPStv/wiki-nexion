@@ -8,7 +8,8 @@ Les serveurs minages te permettent de miner et de récupérer des ressources, av
 
 ## 🔨 **Minerais**
 
-Pour trouver des nouveaux minerais tu dois miner de la couche 0 à 16. Les minerais pour fabriquer une armure pour le PVP sont dans l'ordre croissant : <mark style="color:blue;">Diamant</mark> -> <mark style="color:blue;">Opale</mark> -> <mark style="color:purple;">Iris</mark> -> <mark style="color:yellow;">Titane</mark>\ <mark style="color:yellow;"></mark>Il existe aussi d'autres minerais permettant de fabriquer de nombreux objets en jeu. Pour plus d'informations tu peux te rendre dans l'onglet [minerais-et-armures.md](../guide/minerais-et-armures.md "mention")
+Pour trouver des nouveaux minerais tu dois miner de la couche 0 à 16. Les minerais pour fabriquer une armure pour le PVP sont dans l'ordre croissant : <mark style="color:blue;">Diamant</mark> -> <mark style="color:blue;">Opale</mark> -> <mark style="color:purple;">Iris</mark> -> <mark style="color:yellow;">Titane</mark>\
+Il existe aussi d'autres minerais permettant de fabriquer de nombreux objets en jeu. Pour plus d'informations tu peux te rendre dans l'onglet [minerais-et-armures.md](../guide/minerais-et-armures.md "mention")
 
 ## 🥼Armure
 

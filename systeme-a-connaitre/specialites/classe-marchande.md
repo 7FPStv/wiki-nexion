@@ -1,6 +1,6 @@
 # Spécialité Marchand 💰
 
-### **Accès à la **<mark style="color:purple;">**spécialité**</mark>** :** ****
+### **Accès à la **<mark style="color:purple;">**spécialité**</mark>** :** 
 
 Pour avoir accès à la spécialité marchand, il faut passer le niveau 10 !\
 
@@ -24,8 +24,8 @@ Pour avoir accès à la spécialité marchand, il faut passer le niveau 10 !\
 
 #### Boost exp de la <mark style="color:purple;">spécialité Marchand</mark> :&#x20;
 
-****\
-****Niveau 1 : Boost de <mark style="color:purple;">5% de d'exp</mark> de spécialité Marchand. (Cout : 1 point de compétence) \
+\
+Niveau 1 : Boost de <mark style="color:purple;">5% de d'exp</mark> de spécialité Marchand. (Cout : 1 point de compétence) \
 Niveau 2 : Boost de <mark style="color:purple;">10% de d'exp</mark> de spécialité Marchand. (Cout : 2 points de compétence) \
 Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spécialité Marchand. (Cout : 3 points de compétence)\
 

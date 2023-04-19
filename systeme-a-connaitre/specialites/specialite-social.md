@@ -29,7 +29,7 @@ Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spéciali
 Niveau 1 : Avoir un item commun : <mark style="color:purple;">89%</mark> , Avoir un items rare : <mark style="color:purple;">10%</mark>, Avoir un item légendaire : <mark style="color:purple;">1%</mark>\
 Niveau 2 : Avoir un item commun : <mark style="color:purple;">82%</mark>, Avoir un items rare : <mark style="color:purple;">15%</mark>, Avoir un item légendaire : <mark style="color:purple;">3%</mark>\
 Niveau 3 : Avoir un item commun : <mark style="color:purple;">75%</mark>, Avoir un items rare : <mark style="color:purple;">20%</mark>, Avoir un item légendaire : <mark style="color:purple;">5%</mark>\
-****_PS : Le mercredi, tu ne peux avoir que du commun._
+_PS : Le mercredi, tu ne peux avoir que du commun._
 
 #### Chance en plus d'avoir un pnj magique lorsque l'on pose un oeuf de pnj : 
 

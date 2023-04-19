@@ -2,7 +2,7 @@
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité fabriquant**</mark>** :**&#x20;
 
-****
+
 
 | Casque en iris                | Plastron en iris          | Jambière en iris                     | Bottes en iris                 |
 | ----------------------------- | ------------------------- | ------------------------------------ | ------------------------------ |
@@ -29,7 +29,7 @@
 
 ### **5 compétences sont disponible avec la **<mark style="color:purple;">**spécialité fabriquant**</mark>**,**&#x20;
 
-#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** ****
+#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** 
 
 #### <mark style="color:purple;">Boost exp</mark> de la spécialité fabricant :&#x20;
 
@@ -52,7 +52,7 @@ Niveau 3 : <mark style="color:purple;">6% de durabilité</mark> en plus. (Cout :
 
 \
 Niveau 1 : Donne accès au <mark style="color:purple;">/craft</mark>. (Cout : 1 point de compétence\
-****
+
 
 #### Craft des <mark style="color:purple;">bagues</mark> :&#x20;
 

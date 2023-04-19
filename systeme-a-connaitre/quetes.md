@@ -16,7 +16,7 @@ Après avoir fait la commande : vous pouvez voir où vous en êtes dans les quê
 
 ### Shop de quête
 
-Vous avez accès à un <mark style="color:purple;"></mark> shop de quête, vous pouvez achetez des items avec les points que vous gagnez en <mark style="color:purple;">accomplissant des quêtes !</mark>
+Vous avez accès à un shop de quête, vous pouvez achetez des items avec les points que vous gagnez en <mark style="color:purple;">accomplissant des quêtes !</mark>
 
 La quête N°01 te donne 1 point de quête. Et la quête N°02 te donne 2 points de quêtes ainsi de suite, les quêtes sont très rentable pour <mark style="color:purple;">augmenter sa classe</mark> et ainsi obtenir de nouveaux objets avec le shop de quête.
 
@@ -25,5 +25,5 @@ La quête N°01 te donne 1 point de quête. Et la quête N°02 te donne 2 points
 {% hint style="info" %}
 <mark style="color:blue;">**Information**</mark>
 
-Ce shop de quêtes peut être évolué avec les rangs. Vous pouvez débloquer plus d'objets en changeant de [**rang**](les-classes.md#les-rangs) ****&#x20;
+Ce shop de quêtes peut être évolué avec les rangs. Vous pouvez débloquer plus d'objets en changeant de [**rang**](les-classes.md#les-rangs)&#x20;
 {% endhint %}

@@ -54,7 +54,7 @@ Lorsque tu récupères tes récompenses et que ton inventaire est plein, le surp
 {% hint style="info" %}
 <mark style="color:blue;">**INFORMATION**</mark>
 
-Pour accéder au shop vote descend en bas de la page de vote et clique sur **** [**ACCÈS À LA BOUTIQUE DES VOTES**](https://nexion.fr/vote/shop)****
+Pour accéder au shop vote descend en bas de la page de vote et clique sur [**ACCÈS À LA BOUTIQUE DES VOTES**](https://nexion.fr/vote/shop)
 
 En haut à gauche se trouve le nombre point shop dont tu disposes&#x20;
 

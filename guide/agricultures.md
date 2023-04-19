@@ -7,14 +7,14 @@ Pour l'agriculture vanilla, blé, carotte, patate, pastèque, citrouille rien ne
 {% hint style="success" %}
 <mark style="color:green;">**Astuce**</mark>
 
-Vous pouvez casser vos récoltes avec l'outil **houe de replantation**, cet outil permet de replanter automatiquement vos agricultures seulement si vous avez l'objet en question dans votre inventaire permettant d'être planté. Cela fonctionne de la même manière avec la **houe de Drahe** mais qui applique la replantation automatique dans une zone 3\*3 c'est un objet légendaire obtenable avec [guldor.md](personnage-fictif/guldor.md "mention")<mark style="color:blue;">****</mark>
+Vous pouvez casser vos récoltes avec l'outil **houe de replantation**, cet outil permet de replanter automatiquement vos agricultures seulement si vous avez l'objet en question dans votre inventaire permettant d'être planté. Cela fonctionne de la même manière avec la **houe de Drahe** mais qui applique la replantation automatique dans une zone 3\*3 c'est un objet légendaire obtenable avec [guldor.md](personnage-fictif/guldor.md "mention")
 {% endhint %}
 
 ![](../.gitbook/assets/2022-01-12\_18.59.53.png)
 
 Pour l'agriculture propre à <mark style="color:purple;">Nexion</mark>, plusieurs choses sont ajoutées. Dans un premier temps, deux agricultures ne sont disponibles qu'en <mark style="color:purple;">Cité/dimension</mark> (<mark style="color:red;">1</mark> et <mark style="color:red;">2</mark>).&#x20;
 
-En <mark style="color:red;">1</mark>, le <mark style="color:purple;">Tabac</mark> ![](../.gitbook/assets/tabacco.png) la plante est disponible dans le camp de gobelins, il se trouve dans [la cité de Holbeck](nouvelle-cite-holbeck.md). Il faut obligatoirement <mark style="color:purple;">une Faucille</mark> pour pouvoir récupérer du tabac !\
+En <mark style="color:red;">1</mark>, le <mark style="color:purple;">Tabac</mark> ![](../.gitbook/assets/tabacco.png) la plante est disponible dans le camp de gobelins, il se trouve dans [la cité de Holbeck](nouvelle-cite-holbeck/). Il faut obligatoirement <mark style="color:purple;">une Faucille</mark> pour pouvoir récupérer du tabac !\
 \
 En <mark style="color:red;">2</mark>, le <mark style="color:purple;">bush moisie</mark>, il est disponible dans [la dimension](la-nouvelle-dimension.md#les-zones), dans [les cimetières](les-evenements/cimetieres.md). La faucille abyssale peux être utilisée pour dupliquer le loot en cassant les bushs moisie.
 

@@ -51,5 +51,5 @@ Tu peux monter tes spécialités au niveau maximum de 20 vu qu'il en existe 10 t
 | <mark style="color:purple;">**Niveau 160**</mark> |                     <p><strong>NOUVEAU RANG</strong> Comte</p><p>Spécialité débloquée : Bandit</p>                     |
 |                     Niveau 170                    |                                             Accès au Réparateur légendaire                                             |
 |                     Niveau 180                    |                                                   Accès au Fusionneur                                                  |
-|                     Niveau 190                    |                                          Obtention : **** 1x gemme légendaire                                          |
+|                     Niveau 190                    |                                            Obtention : 1x gemme légendaire                                             |
 | <mark style="color:purple;">**Niveau 200**</mark> |                 <p><strong>NOUVEAU RANG</strong> </p><p><mark style="color:purple;">Champion</mark></p>                |

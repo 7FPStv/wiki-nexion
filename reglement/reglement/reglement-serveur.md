@@ -94,7 +94,7 @@ Quelques conseils pour les chefs de factions : \
 Aucun remboursement n'est possible !
 
 **2.10 - ARNAQUE**\
-****Toutes les arnaques en jeu sont autorisées, CEPENDANT les échanges réalisés avec un staff ne sont en aucun cas autorisés vu que les joueurs se sont mis d’accord juste avant, et nous en avons une preuve de l’échange.
+Toutes les arnaques en jeu sont autorisées, CEPENDANT les échanges réalisés avec un staff ne sont en aucun cas autorisés vu que les joueurs se sont mis d’accord juste avant, et nous en avons une preuve de l’échange.
 
 Pour éviter de vous faire arnaquer, vous pouvez aussi utiliser la commande /trade
 

@@ -33,13 +33,13 @@ Le sort de <mark style="color:purple;">**Guérison**</mark> <img src="../.gitboo
 * Niveau 2 : Rend 6 point de vie
 * Niveau 3 : Rend 10 point de vie
 
-Le sort de ** **<mark style="color:purple;">**2XP**</mark> <img src="../.gitbook/assets/spell_experience.png" alt="" data-size="line"> **** : permet de doubler l'expérience Minecraft reçu pendant un certain temps.
+Le sort de <mark style="color:purple;">**2XP**</mark> <img src="../.gitbook/assets/spell_experience.png" alt="" data-size="line"> : permet de doubler l'expérience Minecraft reçu pendant un certain temps.
 
 * Niveau 1 : 10 min
 * Niveau 2 : 20 min
 * Niveau 3 : 30 min
 
-Le sort <mark style="color:purple;">**Omniscient**</mark> <img src="../.gitbook/assets/spell_omniscient.png" alt="" data-size="line"> **** : permet de détecter les coffres aux alentours de vous en donnant un pourcentage.
+Le sort <mark style="color:purple;">**Omniscient**</mark> <img src="../.gitbook/assets/spell_omniscient.png" alt="" data-size="line"> : permet de détecter les coffres aux alentours de vous en donnant un pourcentage.
 
 * Niveau 1 : 10 blocs
 * Niveau 2 : 20 blocks
@@ -52,7 +52,7 @@ Le sort <mark style="color:purple;">**Anti-trap**</mark> <img src="../.gitbook/a
 * Niveau 3 : délais du dernier combat -> 4sec\
 
 
-Le sort de <mark style="color:purple;">**Replantation**</mark> <img src="../.gitbook/assets/spell_plants.png" alt="" data-size="line"> <mark style="color:purple;">****</mark> : permet de faire pousser au maximum un champ autour de toi (sur les 2 hauteurs de ton personnage pour les plantations de cacao).&#x20;
+Le sort de <mark style="color:purple;">**Replantation**</mark> <img src="../.gitbook/assets/spell_plants.png" alt="" data-size="line"> : permet de faire pousser au maximum un champ autour de toi (sur les 2 hauteurs de ton personnage pour les plantations de cacao).&#x20;
 
 * Niveau 1 : 5 blocs dans toutes les directions sauf en hauteur ( champ de 11x11 )
 * Niveau 2 : 10 blocs dans toutes les directions sauf en hauteur ( champ de 21x21 )
@@ -64,13 +64,13 @@ Le sort d'<mark style="color:purple;">**Observation**</mark> <img src="../.gitbo
 * Niveau 2 : 10 secondes
 * Niveau 3 : 20secondes
 
-Le sort de <mark style="color:purple;">**Guldor**</mark>** ** <img src="../.gitbook/assets/spell_default (1).png" alt="" data-size="line">: permet d'obtenir la position de guldor lorsqu'il est apparue en warzone.
+Le sort de <mark style="color:purple;">**Guldor**</mark> <img src="../.gitbook/assets/spell_default (1).png" alt="" data-size="line">: permet d'obtenir la position de guldor lorsqu'il est apparue en warzone.
 
 * Niveau 1 : obtenez les coordonnées X de guldor
 * Niveau 2 : obtenez les coordonnées X et Z de guldor
 * Niveau 3 : obtenez les coordonnées X et Z de guldor et les joueur présent autour de lui
 
-Le sort de <mark style="color:purple;">**Résistance**</mark>** ** <img src="../.gitbook/assets/spell_default.png" alt="" data-size="line">: permet d'obtenir l'effet résistance pendant un certain temps.
+Le sort de <mark style="color:purple;">**Résistance**</mark> <img src="../.gitbook/assets/spell_default.png" alt="" data-size="line">: permet d'obtenir l'effet résistance pendant un certain temps.
 
 * Niveau 1 : donne l'effet résistance 1 pendant 30 sec
 * Niveau 2 : donne l'effet résistance 1 pendant 1 min

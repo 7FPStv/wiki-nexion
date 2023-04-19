@@ -14,7 +14,7 @@
 * Bandit 💥
 
 {% hint style="info" %}
-<mark style="color:blue;">**Information**</mark>** **&#x20;
+<mark style="color:blue;">**Information**</mark>&#x20;
 
 Chacune des spécialités à son propre moyen d'XP !
 {% endhint %}

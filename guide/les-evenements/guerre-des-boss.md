@@ -13,7 +13,7 @@
 ⌛️ **Temps moyen de la partie** ➜ 30 minutes
 
 📕 **Règlement de la partie :**\
-****Chaque factions ne peut inscrire qu'une seule équipe\
+Chaque factions ne peut inscrire qu'une seule équipe\
 Les points demandés pour participer sont donnés à l'avance\
 Si un joueur déconnecte durant la partie, lors de sa reconnexion, il revient dans la partie\
 Lorsqu'un joueur meurt, il met 3 secondes à réapparaitre\
@@ -32,5 +32,5 @@ Les joueurs ne perdent pas de nourriture
 
 
 
-****
+
 

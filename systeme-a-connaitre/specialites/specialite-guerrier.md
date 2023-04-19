@@ -6,7 +6,7 @@ Pour avoir accès à la spécialité guerrier, il faut passer le niveau 20 !
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité guerrier**</mark>** :**&#x20;
 
-****
+
 
 | Tuer zombie                            | Tuer skeleton                          | Tuer araignée                            | Tuer pigzombie                                                |
 | -------------------------------------- | -------------------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
@@ -21,7 +21,7 @@ Pour avoir accès à la spécialité guerrier, il faut passer le niveau 20 !
 
 ### <mark style="color:purple;">**5 compétences**</mark>** sont disponible avec cette spécialité**
 
-#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** ****
+#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** 
 
 #### Boost exp de la <mark style="color:purple;">spécialité Guerrier</mark>&#x20;
 

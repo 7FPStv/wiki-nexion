@@ -12,7 +12,7 @@ Le plugin Factions permet aux joueurs de se regrouper au sein d'une faction comm
 
 ## /F skill
 
-La commande permet d'avoir accès aux compétences de votre faction. Vous pouvez gagner des points de classements très facilement, et tous les **50 points de classements** vous gagnez un point de compétence.  Pour savoir comment gagner des points de classements <mark style="color:purple;">**?**</mark>[classement-et-quetes.md](classement-et-quetes.md "mention")<mark style="color:purple;">****</mark>
+La commande permet d'avoir accès aux compétences de votre faction. Vous pouvez gagner des points de classements très facilement, et tous les **50 points de classements** vous gagnez un point de compétence.  Pour savoir comment gagner des points de classements <mark style="color:purple;">**?**</mark>[classement-et-quetes.md](classement-et-quetes.md "mention")
 
 ![Interface des compétences factions](<../.gitbook/assets/image (9).png>)
 

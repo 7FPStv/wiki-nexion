@@ -2,17 +2,17 @@
 
 ### Un hôtel des ventes est disponible sur le serveur pour vous permettre de faire du commerce entre joueurs.
 
-Pour accéder à l'hôtel des ventes il existe deux commandes, libre a toi de choisir entre ** **<mark style="color:red;">**/hdv**</mark>** ** ou <mark style="color:red;">**/ah**</mark>&#x20;
+Pour accéder à l'hôtel des ventes il existe deux commandes, libre a toi de choisir entre <mark style="color:red;">**/hdv**</mark> ou <mark style="color:red;">**/ah**</mark>&#x20;
 
 ![Interface Hôtel des ventes](<../.gitbook/assets/gYADJqm (1).png>)
 
 {% hint style="info" %}
-<mark style="color:blue;">**Légende :**</mark>** **&#x20;
+<mark style="color:blue;">**Légende :**</mark>&#x20;
 
 1. <mark style="color:blue;">Item mis en vente</mark>
 2. <mark style="color:blue;">Si vous recherchez un item en particulier tapez le nom de l'item dans cette barre de recherche</mark>
 3. <mark style="color:blue;">Ce bouton vous permet de voir tous vos items mis en vente actuellement à l'hôtel des ventes</mark>&#x20;
-4. <mark style="color:blue;">Ce bouton vous permet d'actualiser la page de l'hôtel des ventes</mark> <mark style="color:blue;"></mark><mark style="color:blue;">****</mark>&#x20;
+4. <mark style="color:blue;">Ce bouton vous permet d'actualiser la page de l'hôtel des ventes</mark>&#x20;
 {% endhint %}
 
 * **Grace a l'hôtel de vente tu pourras mettre en vente un ou plusieurs items de ton choix en choisissant ton propre prix**
@@ -37,7 +37,7 @@ Une fois la commande exécutée cette interface apparaît, tu peux modifier le p
 {% hint style="warning" %}
 <mark style="color:orange;">**Remarque :**</mark>&#x20;
 
-<mark style="color:orange;">Si au bout de 3 heures ton item n'est vendu, celui-ci sera renvoyé directement dans ta</mark> <mark style="color:orange;"></mark><mark style="color:orange;">****</mark> [<mark style="color:blue;">**mailbox**</mark>](mailbox.md)<mark style="color:blue;">****</mark>
+<mark style="color:orange;">Si au bout de 3 heures ton item n'est vendu, celui-ci sera renvoyé directement dans ta</mark> [<mark style="color:blue;">**mailbox**</mark>](mailbox.md)
 {% endhint %}
 
 * **Dans l'hôtel des ventes il est possible d'acheter des items ou même de récupérer un item mis en vente**&#x20;

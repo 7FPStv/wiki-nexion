@@ -8,7 +8,7 @@ La Mailbox est séparée en deux parties, la partie **RESERVE**(<mark style="col
 
 ### <mark style="color:green;">**Commande**</mark>
 
-<mark style="color:green;">****</mark>
+
 
 Il existe 3 commandes pour ouvrir la Mailbox :&#x20;
 
@@ -20,7 +20,7 @@ Il existe 3 commandes pour ouvrir la Mailbox :&#x20;
 
 
 
-Dans la partie **RESERVE** <mark style="color:yellow;"></mark> les items qui y seront stockés seront essentiellement les items que tu auras stocké dans ton sac dans le [monde minage](../guide/serveur-minage.md).
+Dans la partie **RESERVE** les items qui y seront stockés seront essentiellement les items que tu auras stocké dans ton sac dans le [monde minage](../guide/serveur-minage.md).
 
 Pour la partie **LOOTS** les items qui y seront stockés seront les items non vendus à l'hôtel des ventes, tes achats à l'hôtel des ventes, tes enchères remportées, tes récompenses d'évents ainsi que tes items de vote en cas de manque de slot libre dans ton inventaire lorsque tu récupères tes récompenses de vote sur le serveur faction.
 
@@ -34,7 +34,7 @@ Cette condition est rajoutée pour éviter que vous stockiez trop d'items dans l
 
 ### <mark style="color:green;">**Comment récupérer un item stocké dans la Mailbox ?**</mark>&#x20;
 
-<mark style="color:green;">****</mark>
+
 
 Pour récupérer un item dans la Mailbox, tu dois simplement cliquer sur l'item que tu souhaites récupérer et celui-ci se retrouvera directement dans ton inventaire.&#x20;
 
@@ -43,7 +43,7 @@ Pour récupérer un item dans la Mailbox, tu dois simplement cliquer sur l'item 
 {% hint style="warning" %}
 <mark style="color:orange;">**Remarque :**</mark>&#x20;
 
-Tu ne peux pas récupérer des items dans la Mailbox si ton inventaire est plein <mark style="color:orange;">****</mark>&#x20;
+Tu ne peux pas récupérer des items dans la Mailbox si ton inventaire est plein&#x20;
 {% endhint %}
 
 

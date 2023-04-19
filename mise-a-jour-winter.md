@@ -43,6 +43,6 @@ Noël sans **Chocolat** et **Sucre d'orge** ça n'existe pas, alors c'est pour �
 
 Vous devez vous en doutez, mais bien sur nous avons ajoutés des **Cosmétiques de noël** on vous laissera les découvrir, récupérer bien toutes vos récompenses de calendrier de l'avent tous les jours et vous aurez la chance d'en obtenir !
 
-Sinon vous pouvez aussi en **** [**obtenir dans les pochettes de noël un nouvel objet en boutique** ](https://nexion.fr/shop)vous donnant des lots commun, rare, épique ou légendaire !
+Sinon vous pouvez aussi en [**obtenir dans les pochettes de noël un nouvel objet en boutique** ](https://nexion.fr/shop)vous donnant des lots commun, rare, épique ou légendaire !
 
 Bonne découverte de cette nouvelle mise à jour ! Mais attention **elle restera jusqu'au 26 décembre sur Nexion.** Alors qu'attendez-vous pour vous connecter ?

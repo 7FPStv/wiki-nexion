@@ -17,7 +17,7 @@ Pour avoir accès à la spécialité aventurier, il faut passer le niveau 80 !
 ### <mark style="color:purple;">**5 compétences**</mark>** sont disponible avec cette spécialité,**&#x20;
 
 **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** \
-****
+
 
 #### Boost exp de la <mark style="color:purple;">spécialité Aventurier</mark> :&#x20;
 

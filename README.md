@@ -21,20 +21,19 @@ Un monde avec un système de classes inédit, de la magie avec des sorts, de tou
 
 
 
-[🔗 **Informations et liens utiles**](welcome/informations.md) **** (2 minutes)
+[🔗 **Informations et liens utiles**](welcome/informations.md) (2 minutes)
 
-[🎮 **Commencer par installer et jouer**](welcome/installer-et-jouer/) **** (10 minutes)
+[🎮 **Commencer par installer et jouer**](welcome/installer-et-jouer/) (10 minutes)
 
-[🏰 **Découvrir les bases du jeu**](welcome/decouvrir-le-jeu.md) **** (10 minutes)
+[🏰 **Découvrir les bases du jeu**](welcome/decouvrir-le-jeu.md) (10 minutes)
 
 
 
-[📜 **Wiki général de Nexion**](broken-reference)****
+[📜 **Wiki général de Nexion**](broken-reference)
 
-[📕 **Règlement** ](reglement/reglement/)****
+[📕 **Règlement** ](reglement/reglement/)
 
-[📗 **Aides**](aide-faq/comment-lancer-le-launcher/)****
+[📗 **Aides**](aide-faq/comment-lancer-le-launcher/)
 
-[📩 **Foire aux questions**](aide-faq/foire-aux-questions.md)****
+[📩 **Foire aux questions**](aide-faq/foire-aux-questions.md)
 
-****

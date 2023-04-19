@@ -3,7 +3,8 @@
 Le marchand Guldor est l'un des deux marchés noirs, le deuxième n'est autre que son frère maléfique[rodlug.md](rodlug.md "mention") !
 
 {% hint style="info" %}
-<mark style="color:blue;">**INFORMATIONS :**</mark>  \ <mark style="color:blue;">****</mark>Il apparait a différents endroits en warzone mais aussi au spawn
+<mark style="color:blue;">**INFORMATIONS :**</mark>  \
+Il apparait a différents endroits en warzone mais aussi au spawn
 {% endhint %}
 
 ![Guldor en warzone](../../.gitbook/assets/2022-02-19\_20.55.28.png)
@@ -30,7 +31,7 @@ La catégorie "spéciale" te donne accès un objet privé, personne d'autre ne p
 
 {% hint style="warning" %}
 _<mark style="color:orange;">**Remarque :**</mark>_ \
-Les catégories ''<mark style="color:blue;">légendaire</mark>'' <mark style="color:blue;"></mark> et <mark style="color:blue;"></mark> ''<mark style="color:purple;">spéciale''</mark> <mark style="color:blue;"></mark> sont les deux seuls moyens d'obtenir l'amure légendaire de menos **(** [#les-armures-legendaires](../minerais-et-armures.md#les-armures-legendaires "mention") **)**
+Les catégories ''<mark style="color:blue;">légendaire</mark>'' et ''<mark style="color:purple;">spéciale''</mark> sont les deux seuls moyens d'obtenir l'amure légendaire de menos **(** [#les-armures-legendaires](../minerais-et-armures.md#les-armures-legendaires "mention") **)**
 {% endhint %}
 
 {% hint style="info" %}

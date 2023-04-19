@@ -5,28 +5,28 @@
 Premièrement, il existe plusieurs solutions aux problèmes de launcher en fonction de ce que tu as comme erreur, que ce soit avant de lancer le jeu, pendant le lancement du jeu ou même après le lancement du launcher. Tout sera expliqué, si tu vois ton problème va suivre le tutoriel pour le résoudre.
 
 {% hint style="danger" %}
-<mark style="color:red;">Avant d'aller voir les différentes solutions assure-toi d'avoir regardé le tutoriel permettant de savoir tout sur le :</mark> [<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md)<mark style="color:red;">****</mark>
+<mark style="color:red;">Avant d'aller voir les différentes solutions assure-toi d'avoir regardé le tutoriel permettant de savoir tout sur le :</mark> [<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md)
 {% endhint %}
 
 
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**-> Erreur 503 : Launcher**</mark>](guide-launcher.md#erreur-503-launcher)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Erreur 503 : Launcher**</mark>](guide-launcher.md#erreur-503-launcher)
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**-> Erreur 666 : Launcher**</mark>](guide-launcher.md#erreur-666-launcher)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Erreur 666 : Launcher**</mark>](guide-launcher.md#erreur-666-launcher)
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**-> Error : Network**</mark> ](guide-launcher.md#error-network)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Error : Network**</mark> ](guide-launcher.md#error-network)
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**-> Launcher sans affichage**</mark>](guide-launcher.md#launcher-sans-affichage)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Launcher sans affichage**</mark>](guide-launcher.md#launcher-sans-affichage)
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**-> Erreur : " Authentification en cours… " ou "Connexion impossible !"**</mark>](guide-launcher.md#erreur-authentification-en-cours...-ou-connexion-impossible)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Erreur : " Authentification en cours… " ou "Connexion impossible !"**</mark>](guide-launcher.md#erreur-authentification-en-cours...-ou-connexion-impossible)
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**-> Erreur : " En attente de lancement"**</mark> ](guide-launcher.md#erreur-en-attente-de-lancement)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Erreur : " En attente de lancement"**</mark> ](guide-launcher.md#erreur-en-attente-de-lancement)
 
-<mark style="color:purple;">****</mark>[<mark style="color:purple;">**-> Erreur : " Pixel format not accelerated "**</mark> ](guide-launcher.md#erreur-pixel-format-not-accelerated)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Erreur : " Pixel format not accelerated "**</mark> ](guide-launcher.md#erreur-pixel-format-not-accelerated)
 
-<mark style="color:blue;">****</mark>[<mark style="color:purple;">**-> Comment transmettre son code erreur ?**</mark>](guide-launcher.md#comment-transmettre-son-code-erreur)<mark style="color:purple;">****</mark>
+[<mark style="color:purple;">**-> Comment transmettre son code erreur ?**</mark>](guide-launcher.md#comment-transmettre-son-code-erreur)
 
-<mark style="color:purple;">****</mark>
+
 
 ## Erreur 503 : Launcher
 
@@ -39,7 +39,7 @@ Un code erreur au lancement du téléchargement du jeu 503, alors tu peux suivre
 4. Ensuite dans votre barre de recherche **Windows** rechercher le **Panneau de configuration**
 5. Dans l'onglet **Programmes**, cliquez sur **Désinstaller un programme**
 6. Désinstaller le programme **NexionGames 1.0.X**
-7. Aller sur le site [<mark style="color:purple;">**nexion.fr/join**</mark>](https://nexion.fr/join) <mark style="color:purple;">****</mark> pour **télécharger** le nouveau launcher
+7. Aller sur le site [<mark style="color:purple;">**nexion.fr/join**</mark>](https://nexion.fr/join) pour **télécharger** le nouveau launcher
 {% endhint %}
 
 ## Erreur 666 : Launcher
@@ -84,14 +84,15 @@ Tu as réussi à lancer le launcher, mais manque de chance tu as un chargement q
 10. Tu peux relancer le launcher de Nexion complètement et te connecter
 {% endhint %}
 
-Si le problème n'est pas résolu, **ouvre un ticket sur le support** et explique-nous ce qu'il se passe avec ton code erreur précisément [<mark style="color:purple;">**-> https://nexion.fr/support**</mark>](https://nexion.fr/support)<mark style="color:purple;">****</mark>
+Si le problème n'est pas résolu, **ouvre un ticket sur le support** et explique-nous ce qu'il se passe avec ton code erreur précisément [<mark style="color:purple;">**-> https://nexion.fr/support**</mark>](https://nexion.fr/support)
 
 ## Erreur : " En attente de lancement "
 
 Plusieurs solution possible pour corriger ce problème, la plus simple d'être elle est de simplement d'appuyer sur le serveur que tu souhaites sélectionner ici il faut bien cliquer sur le logo de Nexion se trouvant à droites du bouton Accueil. Les logos en dessous de "Nos projets" redirige vers les sites internet des projets.
 
 {% hint style="danger" %}
-<mark style="color:red;">Je t'invite à regarder le tutoriel permettant de savoir tout sur le :</mark>\ <mark style="color:red;"></mark>[<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md) <mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">cela t'explique aussi le launcher !</mark>
+<mark style="color:red;">Je t'invite à regarder le tutoriel permettant de savoir tout sur le :</mark>\
+[<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md) <mark style="color:red;">cela t'explique aussi le launcher !</mark>
 {% endhint %}
 
 ![Menu d'accueil du launcher officiel de NexionGames](<../../.gitbook/assets/image (47).png>)
@@ -108,9 +109,9 @@ Pour les autres cas, cela peut dépendre de beaucoup de problèmes, il va falloi
 5. Dans le fichier appuie simultanément sur les touches **CTRL + F**
 6. Dans l'onglet qui s'ouvre **" Rechercher "** met le texte suivant : **Pixel format**
 7. Dans le cas ou tu as un résultat, nous avons repéré le problème
-8. <mark style="color:green;">****</mark>[<mark style="color:green;">**\[ -> CLIQUE Passons maintenant à la résolution de l'erreur ! \]**</mark>](guide-launcher.md#erreur-pixel-format-not-accelerated)<mark style="color:green;">****</mark>
+8. [<mark style="color:green;">**\[ -> CLIQUE Passons maintenant à la résolution de l'erreur ! \]**</mark>](guide-launcher.md#erreur-pixel-format-not-accelerated)
 9. Dans le cas ou tu n'as pas de résultat, nous n'avons pas trouvé le problème
-10. <mark style="color:red;">****</mark>[<mark style="color:red;">**\[ -> CLIQUE Pour nous transmettre ton code erreur \]**</mark>](guide-launcher.md#undefined)<mark style="color:red;">****</mark>
+10. [<mark style="color:red;">**\[ -> CLIQUE Pour nous transmettre ton code erreur \]**</mark>](guide-launcher.md#undefined)
 {% endhint %}
 
 ## Erreur : Pixel format not accelerated
@@ -134,7 +135,7 @@ Suivre le tutoriel sur le forum :&#x20;
 
 
 
-****[<mark style="color:green;">**\[ -> Plus d'explications sur le forum avec des images \]**</mark> ](https://nexion.fr/forum/threads/r%C3%A9gler-le-probl%C3%A8me-de-launcher-qui-crash-au-lancement.539/)<mark style="color:green;">****</mark>
+[<mark style="color:green;">**\[ -> Plus d'explications sur le forum avec des images \]**</mark> ](https://nexion.fr/forum/threads/r%C3%A9gler-le-probl%C3%A8me-de-launcher-qui-crash-au-lancement.539/)
 
 Si celui-ci ne résous pas le problème, suivez la : Solution n°2&#x20;
 {% endhint %}
@@ -148,7 +149,7 @@ Si celui-ci ne résous pas le problème, suivez la : Solution n°2&#x20;
 4. Recherchez la partie Nom et Nom du fabricant.&#x20;
 5. Une fois que vous avez trouvé cela, recherchez votre fabricant dans la liste ci-dessous et accédez à leur site " Auto-Detector " et analysez votre ordinateur à la recherche de pilotes obsolètes.
 
-****
+
 
 * AMD / ATI : [http://support.amd.com/fr/download/auto-detect-tool](https://www.amd.com/fr/support)
 * NVIDIA : [https://www.nvidia.com/Download/Scan.aspx?lang=fr](https://www.nvidia.com/Download/Scan.aspx?lang=fr)
@@ -175,7 +176,7 @@ Il est possible que malgré nos solutions proposés tu te retrouves avec une nou
 4. Dans le dossier ouvre le fichier se nommant **" latest"**
 5. Appuie sur les touches **CTRL + A** cela sélectionne tout le contenu
 6. Et maintenant appuie sur les touches **CTRL + C** cela permet de copier le contenu
-7. Rends-toi sur le site suivant : [<mark style="color:purple;">**https://pastebin.com/**</mark>](https://pastebin.com/)<mark style="color:purple;">****</mark>
+7. Rends-toi sur le site suivant : [<mark style="color:purple;">**https://pastebin.com/**</mark>](https://pastebin.com/)
 8. Dans le champs de saisie **" NEW PASTE "**
 9. Appuie sur les touches **CTRL + V** permettant de coller le contenu préalablement copié
 10. Descend/Scroll en bas de page pour cliquer sur le bouton **\[CREATE NEW PASTE]**
@@ -183,8 +184,8 @@ Il est possible que malgré nos solutions proposés tu te retrouves avec une nou
 
 
 
-L'url doit être sous cette forme : [<mark style="color:purple;">**https://pastebin.com/fcXacxbp**</mark>](https://pastebin.com/fcXacxbp)<mark style="color:purple;">****</mark>
+L'url doit être sous cette forme : [<mark style="color:purple;">**https://pastebin.com/fcXacxbp**</mark>](https://pastebin.com/fcXacxbp)
 
-**Ouvre un ticket sur le support** et donne ton pastebin en expliquant ton problème et ce que tu as exécuté comme solution [<mark style="color:purple;">**-> https://nexion.fr/support**</mark>](https://nexion.fr/support)<mark style="color:purple;">****</mark>
+**Ouvre un ticket sur le support** et donne ton pastebin en expliquant ton problème et ce que tu as exécuté comme solution [<mark style="color:purple;">**-> https://nexion.fr/support**</mark>](https://nexion.fr/support)
 {% endhint %}
 

@@ -5,7 +5,7 @@
 Il existe un système de statistiques permettant d'avoir un classement de tous les joueurs effectuant diverses actions sur le serveur. Nous avons plusieurs catégories en fonction de ton gameplay donc il n'est pas bien compliqué de te satisfaire et que tu puisses devenir le meilleur dans une catégorie pour avoir des récompenses !
 
 **Il existe **<mark style="color:purple;">**6 catégories de statistiques**</mark>** permettant de répertorier des objectifs**\
-****-> Farmeur\
+\-> Farmeur\
 \-> Mineur\
 \-> Pillage\
 \-> Combattant\
@@ -16,7 +16,7 @@ Il existe un système de statistiques permettant d'avoir un classement de tous l
 
 A gauche, tu peux retrouver le TOP 3 des meilleurs dans la catégorie en cours, avec leurs magnifique apparence en jeu.
 
-Dans l'interface, **tu as les statistiques par objectifs en cliquant sur divers objets** directement en dessous de la catégorie, actuellement on peut observer les statistiques de la catégorie : ** **<mark style="color:orange;">**Blé**</mark>
+Dans l'interface, **tu as les statistiques par objectifs en cliquant sur divers objets** directement en dessous de la catégorie, actuellement on peut observer les statistiques de la catégorie : <mark style="color:orange;">**Blé**</mark>
 
 A droite, tu as deux boutons pouvant te montrer les objectifs hebdomadaires (de la semaine) ou en global depuis l'ouverture du serveur.
 

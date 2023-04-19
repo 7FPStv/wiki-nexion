@@ -1,6 +1,6 @@
 # Donjon
 
-L'événement **Donjon** se déroule tous les **** <mark style="color:purple;">MECREDI À 17 HEURES</mark> et les <mark style="color:purple;">SAMEDI À 19 HEURES</mark>  ! \
+L'événement **Donjon** se déroule tous les <mark style="color:purple;">MECREDI À 17 HEURES</mark> et les <mark style="color:purple;">SAMEDI À 19 HEURES</mark>  ! \
 C'est dans cette évent que l'on peut trouver des Disciples.
 
 ![Un disciple](<../../.gitbook/assets/image (30).png>)
@@ -11,7 +11,7 @@ C'est dans cette évent que l'on peut trouver des Disciples.
 
 
 {% hint style="info" %}
-**Information** : Dans un premier temps **** le <mark style="color:red;">PVP</mark> est désactivé
+**Information** : Dans un premier temps le <mark style="color:red;">PVP</mark> est désactivé
 {% endhint %}
 
 Pour commencer la phase 1 il faut monter sur les tours, en haut de celle-ci vous attend un monstre des plus redoutables, l'eldritch ! Il y en a 3 à battre pour passer à la phase 2 de l'évent.

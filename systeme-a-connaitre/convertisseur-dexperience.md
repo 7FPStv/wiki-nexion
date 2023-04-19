@@ -13,7 +13,7 @@ Puis en face de vous, se trouvera ce pnj.
 {% hint style="success" %}
 <mark style="color:green;">**COMMENT FAIRE ?**</mark>
 
-Faites un **CLIQUE-DROIT** sur le pnj **** pour convertir votre xp en bottle d'xp&#x20;
+Faites un **CLIQUE-DROIT** sur le pnj pour convertir votre xp en bottle d'xp&#x20;
 {% endhint %}
 
 {% hint style="warning" %}

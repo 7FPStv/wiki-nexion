@@ -60,4 +60,3 @@ _12 - Inspire, respire.. Voilà ! Bon je m'arrête là..._&#x20;
 _Si tu ne sais pas utiliser le support vocal Teamspeak, voici une aide sur le forum :_ [https://nexion.fr/forum/threads/comment-utiliser-le-support-vocal-teamspeak.568/](https://nexion.fr/forum/threads/comment-utiliser-le-support-vocal-teamspeak.568/)
 {% endhint %}
 
-__

@@ -1,6 +1,6 @@
 # Spécialité Dimension 🔮
 
-### **Accès à la **<mark style="color:purple;">**spécialité**</mark>** **&#x20;
+### **Accès à la **<mark style="color:purple;">**spécialité**</mark>&#x20;
 
 Pour avoir accès à la spécialité dimension, il faut passer le niveau 50 !
 

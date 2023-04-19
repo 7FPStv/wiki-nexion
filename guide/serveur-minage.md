@@ -12,7 +12,8 @@ Il existe deux mondes minages, se sont des mondes très importants pour récolte
 * La lave ne coule pas, l'eau coule doucement. Il n'y a pas non plus de lac de lave.
 
 {% hint style="info" %}
-<mark style="color:blue;">**ASTUCE / INFORMATIONS**</mark>\ <mark style="color:blue;">****</mark>Tu dois miner de la pierre pour trouver des minerais vu qu'il n'y a pas de grottes, ni de mines artificielles. La meilleure technique est de miner tout droit dans la roche, jusqu'à temps de trouver le minerais que tu souhaites.&#x20;
+<mark style="color:blue;">**ASTUCE / INFORMATIONS**</mark>\
+Tu dois miner de la pierre pour trouver des minerais vu qu'il n'y a pas de grottes, ni de mines artificielles. La meilleure technique est de miner tout droit dans la roche, jusqu'à temps de trouver le minerais que tu souhaites.&#x20;
 {% endhint %}
 
 #### Pour rejoindre le serveur minage, lorsque tu es dans le monde principale (LOBBY) tu peux utiliser la boussole pour rejoindre un serveur. Choisis le serveur Minage1 ou le Minage2
@@ -27,7 +28,7 @@ Pour monter de niveaux tu dois miner de la pierre ou des minerais. Après chaque
 
 ![Barre d'inventaire : Deux pioches, une pelle, une hache, un seau d'eau, des blocks infini, le sac de ressources et un objet légendaire te permettant d'aller au serveur factions](<../.gitbook/assets/b443c24cd21c2e81dc1c1283868786e5 (1).png>)
 
-Si tu souhaites transférer tes minerais du **Minage -> Factions **<mark style="color:purple;">****</mark> il te suffit simplement de faire un (CLIQUE-GAUCHE) sur ton sac de ressource. Puis il te suffit de déposer tous les objets dans le menu. Evidemment tu ne peux pas déposer tes outils, il reste sur le serveur minage.
+Si tu souhaites transférer tes minerais du **Minage -> Factions** il te suffit simplement de faire un (CLIQUE-GAUCHE) sur ton sac de ressource. Puis il te suffit de déposer tous les objets dans le menu. Evidemment tu ne peux pas déposer tes outils, il reste sur le serveur minage.
 
 Pour récupérer tes ressources il te suffit d'aller sur le serveur factions avec un (CLIQUE-DROIT) sur la Hache légendaire dans ta barre d'inventaire. Et de faire la commande " **/reserve** " pour récupérer les objets directement sur le faction.
 
