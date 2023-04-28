@@ -2,7 +2,7 @@
 
 ## Liens utiles
 
-🔗 Voici divers liens utiles permettant de t'accompagner dans ton aventure, pour qu'il n'y est aucun problème, et permettre de te faire vivre dans cette grande et belle communauté dans l'univers de Nexion.&#x20;
+🔗 Voici divers liens utiles permettant de t'accompagner dans ton aventure, pour qu'il n'y ait aucun problème, et permettre de te faire vivre dans cette grande et belle communauté dans l'univers de Nexion.&#x20;
 
 
 
