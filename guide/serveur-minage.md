@@ -2,7 +2,7 @@
 
 ### Partons à la <mark style="color:purple;">découverte des mondes minages</mark> dès maintenant et récolte plein de ressources avec tes outils !
 
-Il existe deux mondes minages, se sont des mondes très importants pour récolter des ressources primaires et majeures pour bien commencer le jeu. Les avantages du serveur minage :&#x20;
+Il existe deux mondes minages, ce sont des mondes très importants pour récolter des ressources primaires et majeures pour bien commencer le jeu. Les avantages du serveur minage :&#x20;
 
 * Le taux des minerais est augmenté de (x1.5) par rapport au factions&#x20;
 * Tu peux améliorer tes outils simplement en minant avec le système de compétences
@@ -26,7 +26,7 @@ Tu peux aussi rejoindre les serveurs minages avec la commande **`/minage1`** ou 
 
 Pour monter de niveaux tu dois miner de la pierre ou des minerais. Après chaque niveau passé, tu obtiens un point de compétence. Il te permet d'augmenter tes compétences de mineur.
 
-![Barre d'inventaire : Deux pioches, une pelle, une hache, un seau d'eau, des blocks infini, le sac de ressources et un objet légendaire te permettant d'aller au serveur factions](<../.gitbook/assets/b443c24cd21c2e81dc1c1283868786e5 (1).png>)
+![Barre d'inventaire : Deux pioches, une pelle, une hache, un seau d'eau, des blocs infini, le sac de ressources et un objet légendaire te permettant d'aller au serveur factions](<../.gitbook/assets/b443c24cd21c2e81dc1c1283868786e5 (1).png>)
 
 Si tu souhaites transférer tes minerais du **Minage -> Factions** il te suffit simplement de faire un (CLIQUE-GAUCHE) sur ton sac de ressource. Puis il te suffit de déposer tous les objets dans le menu. Evidemment tu ne peux pas déposer tes outils, il reste sur le serveur minage.
 
@@ -36,22 +36,22 @@ Pour récupérer tes ressources il te suffit d'aller sur le serveur factions ave
 
 ![1.  Dépose tes objets dans ce menu&#x20;
 2\.  Fermer le menu&#x20;
-3\.  Rends-toi sur le factions et tape la commande /reserve](<../.gitbook/assets/image (68).png>)
+3\.  Rends toi sur le factions et tape la commande /reserve](<../.gitbook/assets/image (68).png>)
 
 ### Les niveaux du mineur
 
 | Niveaux   | Blocs minés |
 | --------- | :---------: |
 | Niveau 0  |      0      |
-| Niveau 01 |    1 000    |
-| Niveau 02 |    5 000    |
-| Niveau 03 |    10 000   |
-| Niveau 04 |    20 000   |
-| Niveau 05 |    40 000   |
-| Niveau 06 |    70 000   |
-| Niveau 07 |   100 000   |
-| Niveau 08 |   130 000   |
-| Niveau 09 |   200 000   |
+| Niveau 1  |    1 000    |
+| Niveau 2  |    5 000    |
+| Niveau 3  |    10 000   |
+| Niveau 4  |    20 000   |
+| Niveau 5  |    40 000   |
+| Niveau 6  |    70 000   |
+| Niveau 7  |   100 000   |
+| Niveau 8  |   130 000   |
+| Niveau 9  |   200 000   |
 | Niveau 10 |   300 000   |
 | Niveau 11 |   450 000   |
 | Niveau 12 |   700 000   |
@@ -65,9 +65,9 @@ Pour récupérer tes ressources il te suffit d'aller sur le serveur factions ave
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Efficacité  | Enchantement permettant d'augmenter l'efficacité des outils. <mark style="color:purple;">(1 à 5 compétences)</mark>                                                                                |
 | Célérité    | Enchantement permettant d'augmenter la rapidité du minage <mark style="color:purple;">(1 à 2 compétences)</mark>                                                                                   |
-| Fortune     | Enchantement d'avoir un faible pourcentage de multiplier les ressources par 2 avec la pioche enchantée "Silk Touch" ou "Touché de soie". <mark style="color:purple;">(1 à 4 compétences)</mark>    |
+| Fortune     | Enchantement d'avoir un faible pourcentage de multiplier les ressources par 2 avec la pioche enchantée "Silk Touch" ou "Toucher de soie". <mark style="color:purple;">(1 à 4 compétences)</mark>   |
 | Speed       | Enchantement permettant d'augmenter la vitesse de déplacement. <mark style="color:purple;">(1 compétence)</mark>                                                                                   |
-| Monnaie     | Spécialité permettant d'avoir de l'argent en cassant des minerais. Uniquement sur les minerais MineCraft. <mark style="color:purple;">(1 à 3 compétences)</mark>                                   |
+| Monnaie     | Spécialité permettant d'avoir de l'argent en cassant des minerais. Uniquement sur les minerais Minecraft. <mark style="color:purple;">(1 à 3 compétences)</mark>                                   |
 | Boost       | Spécialité permettant de faire avancer plus rapidement la progression du niveau en doublant/triplant des blocs minés en fonction du niveau. <mark style="color:purple;">(1 à 3 compétences)</mark> |
 
 {% hint style="info" %}
@@ -78,17 +78,17 @@ Pour miner la pierre en un seul coup, il te suffit de prendre les 5 compétences
 <mark style="color:blue;">**ASTUCE**</mark>
 
 **\[1]** Il faut prendre Célérité 1 puis 2 avant de prendre Efficacité. \
-**\[2]** La pioche en titane, mine plus vite que la pioche iris non enchanté.
+**\[2]** La pioche en titane mine plus vite que la pioche iris non enchanté.
 {% endhint %}
 
 ### Les structures de minerais
 
 Une structure contenant des minerais peut apparaître toutes les heures sur les serveurs minages.&#x20;
 
-Cette structure possède **30 minerais**, il te suffit d'aller aux coordonnées indiqués dans le tchat pour aller miner les minerais, pour te rapprocher des coordonnées tu peux faire " **/minerais** "
+Cette structure possède **30 minerais**, il te suffit d'aller aux coordonnées indiqués dans le chat pour aller miner les minerais, pour te rapprocher des coordonnées tu peux faire " **/minerais** "
 
-Il y a des minerais visible sur la structure, mais il y a aussi des minerais dans le chunk de la structure, donc un conseil tu peux miner en dessous de la construction et dans la construction !
+Il y a des minerais visibles sur la structure, mais il y a aussi des minerais dans le chunk de la structure, donc un conseil tu peux miner en dessous de la construction et dans la construction !
 
-![Message d'annonce dans le tchat /minerais pour se téléporter](<../.gitbook/assets/eyJhbGciOiJIUzI1NiJ9.eyJpbWciOiJfYTk3NjA3ODkxODkwMjI2MTYxOGQ4N2FlYzdkZDI4ZDAifQ.UnLMaPh9YAVoGIZpDIwG-UhprDBTWAP\_p9cs5PIJvoE-png (2).jpg>)
+![Message d'annonce dans le chat /minerais pour se téléporter](<../.gitbook/assets/eyJhbGciOiJIUzI1NiJ9.eyJpbWciOiJfYTk3NjA3ODkxODkwMjI2MTYxOGQ4N2FlYzdkZDI4ZDAifQ.UnLMaPh9YAVoGIZpDIwG-UhprDBTWAP\_p9cs5PIJvoE-png (2).jpg>)
 
 ![Structure de minage possédant 30 minerais](../.gitbook/assets/2022-02-12\_23.25.54.png)
