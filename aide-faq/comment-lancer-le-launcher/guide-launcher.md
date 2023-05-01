@@ -50,22 +50,7 @@ Un code erreur au lancement du jeu avec le code erreur 666, il te suffit simplem
 
 Erreur peu connu, mais c'est simplement l'erreur que tu peux avoir lorsque tu n'as pas de connexion assez puissante permettant de lancer notre launcher, alors vérifie ta connexion internet, et si le problème persiste tu peux voir directement cela avec ton Fournisseur d'Accès à Internet.
 
-## Launcher sans affichage
 
-<figure><img src="../../.gitbook/assets/launcher.png" alt=""><figcaption></figcaption></figure>
-
-Si tu ouvres ton launcher est que celui-ci est sans affichage. Tu dois désinstaller le launcher en suivant les étapes suivantes
-
-{% hint style="success" %}
-1. Appuie sur la touche **Windows** recherche **Panneau de configuration**&#x20;
-2. Ensuite dans : **Désinstaller un programme**
-3. Cherche le launcher **NexionGames**
-4. Clique-droit sur le launcher et **Désinstaller**
-{% endhint %}
-
-Maintenant tu dois télécharger le launcher ci-dessous et tu n'auras plus le problème d'affichage.
-
-[https://www.dropbox.com/s/je410cyfqut941g/NexionGames%20Setup%201.0.10%20Secondaire.exe?dl=0](https://www.dropbox.com/s/je410cyfqut941g/NexionGames%20Setup%201.0.10%20Secondaire.exe?dl=0)
 
 ## Erreur : " Authentification en cours… " ou "Connexion impossible !"
 
