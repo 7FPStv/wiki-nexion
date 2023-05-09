@@ -27,7 +27,7 @@ Voici l'interface de sort _**/sort**_
 * Niveau 2 : 65% de chance
 * Niveau 3 : 80% de chance
 
-### Le sort de <mark style="color:purple;">**Réparation**</mark> <img src="../.gitbook/assets/spell_armor (1).png" alt="" data-size="line"> : permet de réparer l'armure équipé.
+### Le sort de <mark style="color:purple;">**Réparation**</mark> <img src="../.gitbook/assets/spell_armor.png" alt="" data-size="line"> : permet de réparer l'armure équipé.
 
 * Niveau 1 : répare 200 de durabilité
 * Niveau 2 : répare 400 de durabilité

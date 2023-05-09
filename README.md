@@ -2,7 +2,7 @@
 description: >-
   Tu te réveilles dans un nouveau monde. Assoiffé d'aventure, tu as l'envie de
   découvrir !
-cover: .gitbook/assets/wiki-nexion.png
+cover: .gitbook/assets/wiki-nexion (1).png
 coverY: 0
 layout: landing
 ---

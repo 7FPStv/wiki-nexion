@@ -23,7 +23,7 @@ Dans les camps gobelins de Holbeck, une <mark style="color:orange;">nouvelle res
 {% endhint %}
 
 {% hint style="info" %}
-En <mark style="color:red;">2</mark>, le <mark style="color:purple;">buisson moisie.</mark> il est disponible dans [la dimension](la-nouvelle-dimension/#les-zones), dans [les cimetières](la-nouvelle-dimension/cimetieres.md). La faucille abyssale peux être utilisée pour dupliquer le loot en cassant les buissons moisies.\
+En <mark style="color:red;">2</mark>, le <mark style="color:purple;">buisson moisie.</mark> il est disponible dans [la dimension](la-nouvelle-dimension.md#les-zones), dans [les cimetières](les-evenements/cimetieres.md). La faucille abyssale peux être utilisée pour dupliquer le loot en cassant les buissons moisies.\
 Il peux être <mark style="color:orange;">craft</mark> dans le puit de création pour pouvoir <mark style="color:red;">en avoir</mark> dans vos bases ! (vous pouvez regarder le craft avec [L'archimage](personnage-fictif/archimage.md))\
 Il vous faudra une <mark style="color:red;">faucille abyssale</mark> pour récupérer des germes moisies !
 {% endhint %}
@@ -62,9 +62,9 @@ _<mark style="color:orange;">**Remarque :**</mark>_
 **Pour augmenter les plantations de niveau 1 en niveau 2,** vous aurez besoin d'une poudre légendaire de niveau 2 et pour cela il vous faut : 1 gemme de mana entourée de 8 stacks de poudre d'os, tout en craftant dans la table de craft gemmée.
 {% endhint %}
 
-![Poudre de niveaux 1](<../.gitbook/assets/image (96).png>)
+![Poudre de niveaux 1](<../.gitbook/assets/image (73) (1).png>)
 
-![Poudre de niveau 2](<../.gitbook/assets/image (9).png>)
+![Poudre de niveau 2](<../.gitbook/assets/image (64).png>)
 
 Maintenant que la poudre est craftée vous pouvez faire un clic droit sur le buisson/graine de votre choix, il n'y a pas 100% de chance de transformation donc il faut utiliser plusieurs fois la poudre pour le monter de niveau.&#x20;
 

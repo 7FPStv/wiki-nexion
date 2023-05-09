@@ -20,7 +20,7 @@ Nous vous conseillons d'**utiliser un mot de passe généré aléatoirement**, i
 **Etape 2 ->** Vous pouvez changer directement votre mot de passe en indiquant votre mot de passe actuel ainsi que votre nouveau mot de passe et sa confirmation.
 {% endhint %}
 
-![Profil permettant de changer ton mot de passe sur le site.](<../../.gitbook/assets/image (28).png>)
+![Profil permettant de changer ton mot de passe sur le site.](<../../.gitbook/assets/image (23).png>)
 
 ## Changer son mot de passe en jeu
 
@@ -32,7 +32,7 @@ Nous vous conseillons d'**utiliser un mot de passe généré aléatoirement**, i
 <mark style="color:purple;">**/mdp \<Ancien mot de passe> \<Nouveau mot de passe>**</mark>
 {% endhint %}
 
-![Interface permettant de confirmer le changement de mot de passe en jeu.](<../../.gitbook/assets/image (77).png>)
+![Interface permettant de confirmer le changement de mot de passe en jeu.](<../../.gitbook/assets/image (48).png>)
 
 ## Comment activer son double authentification
 

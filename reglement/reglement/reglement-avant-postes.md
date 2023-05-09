@@ -13,7 +13,7 @@ Les avant-postes sont les 2 lignes de territoires de guerre se trouvant juste ap
 
 Cette liste peut être changée à n'importe quel moment. En fonction des nouveaux blocs ajoutés sur le serveur et de nouvelles techniques pour avoir un avantage considérable. Si tu penses qu'un bloc est interdit et n'est pas présent sur cette liste, tu peux contacter un membre du staff.
 
-![](<../../.gitbook/assets/image (114).png>)![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)![](<../../.gitbook/assets/image (3) (1).png>)
 
 
 

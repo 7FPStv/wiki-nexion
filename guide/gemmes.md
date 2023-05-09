@@ -65,7 +65,7 @@ La gemme de mana ne peut-être utilisée avec une armures, elle est utile dans p
 Pour les Armures / Epées voici le craft, il vous suffit de <mark style="color:orange;">changer</mark> la gemme utilisé pour crafter <mark style="color:red;">d'autre types</mark> de stuff !
 {% endhint %}
 
-![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/image (55).png>)![](<../.gitbook/assets/image (88).png>)![](<../.gitbook/assets/image (34).png>)![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (65).png>)![](<../.gitbook/assets/image (55).png>)![](<../.gitbook/assets/image (18) (1).png>)![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (51).png>)
 
 {% hint style="info" %}
 Il y a un <mark style="color:orange;">deuxieme</mark> moyen d'utiliser les gemmes, il faut <mark style="color:red;">utiliser</mark> la **Forge**, voici le craft :

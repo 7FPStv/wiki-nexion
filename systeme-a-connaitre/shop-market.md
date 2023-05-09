@@ -22,7 +22,7 @@ Vous pouvez utiliser la commande **/warp \<NOM>** pour vous téléporter rapidem
 
 ![Image d'un marchand shop](../.gitbook/assets/2022-01-22\_22.15.23.png)
 
-![Interface du Marchand Shop Minerais](<../.gitbook/assets/image (100).png>) ![Interface pour Vendre / Acheter / Tout Vendre en choisissant la quantité en voyant son prix d'achat et de vente.](../.gitbook/assets/945a3cd2530cb0327ccd89a28c5e4b7a.png)
+![Interface du Marchand Shop Minerais](<../.gitbook/assets/image (26) (1).png>) ![Interface pour Vendre / Acheter / Tout Vendre en choisissant la quantité en voyant son prix d'achat et de vente.](../.gitbook/assets/945a3cd2530cb0327ccd89a28c5e4b7a.png)
 
 {% hint style="danger" %}
 <mark style="color:red;">Attention !</mark> Un [quota](quota.md) est appliquer sur certain PNJ !

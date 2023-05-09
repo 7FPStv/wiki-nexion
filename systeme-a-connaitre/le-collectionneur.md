@@ -6,7 +6,7 @@ La légende raconte que ce Collectionneur vient d'un temps très ancien, toute c
 Tu peux retrouver le Collectionneur au spawn. 🧭 **(/warp Collectionneur)**
 {% endhint %}
 
-![Rare photo du Collectionneur, toujours avec son œil bionique vert.](<../.gitbook/assets/image (51).png>)
+![Rare photo du Collectionneur, toujours avec son œil bionique vert.](<../.gitbook/assets/image (45).png>)
 
 {% hint style="success" %}
 Le collectionneur te permet de récupérer des objets de collection.

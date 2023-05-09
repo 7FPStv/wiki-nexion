@@ -1,2 +1,0 @@
-# 💴 Avoir de l'argent
-

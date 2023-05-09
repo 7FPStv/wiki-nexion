@@ -12,11 +12,11 @@ Pour ouvrir le menu de ta classe tu dois faire la commande **`/classe`**
 
 C'est le cœur principale du système de classe, pour changer de rang tu dois faire progresser ton niveau de classe. <mark style="color:purple;">**Ton rang change tous les 40 niveaux**</mark>, il te permet de changer considérablement ton aventure, tout peut changer d'un rang à un autre.&#x20;
 
-<table><thead><tr><th align="center">Niveau</th><th align="center">Nom du rang</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">0</td><td align="center">Paysan</td><td></td></tr><tr><td align="center">40</td><td align="center"><img src="../.gitbook/assets/bourgois_icon.png" alt="">Bourgeois</td><td></td></tr><tr><td align="center">80</td><td align="center"><img src="../.gitbook/assets/knight_icon.png" alt="">Chevalier</td><td></td></tr><tr><td align="center">120</td><td align="center"><img src="../.gitbook/assets/baron_icon (2).png" alt="">Baron</td><td></td></tr><tr><td align="center">160</td><td align="center"><img src="../.gitbook/assets/earl_icon.png" alt="">Comte</td><td></td></tr><tr><td align="center">200</td><td align="center"><img src="../.gitbook/assets/champion_icon.png" alt="">Champion</td><td></td></tr></tbody></table>
+<table><thead><tr><th align="center">Niveau</th><th align="center">Nom du rang</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">0</td><td align="center">Paysan</td><td></td></tr><tr><td align="center">40</td><td align="center"><img src="../.gitbook/assets/bourgois_icon (1).png" alt="">Bourgeois</td><td></td></tr><tr><td align="center">80</td><td align="center"><img src="../.gitbook/assets/knight_icon.png" alt="">Chevalier</td><td></td></tr><tr><td align="center">120</td><td align="center"><img src="../.gitbook/assets/baron_icon (2).png" alt="">Baron</td><td></td></tr><tr><td align="center">160</td><td align="center"><img src="../.gitbook/assets/earl_icon.png" alt="">Comte</td><td></td></tr><tr><td align="center">200</td><td align="center"><img src="../.gitbook/assets/champion_icon.png" alt="">Champion</td><td></td></tr></tbody></table>
 
 Entre les rangs tu peux débloquer beaucoup de nouveaux ajouts dans ton aventure comme un objet, une zone, une nouvelle spécialité, etc. Tu peux retrouver la liste exhaustive de tous les changements juste en dessous.
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 ## Niveau de classe
 

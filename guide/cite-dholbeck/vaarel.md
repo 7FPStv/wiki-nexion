@@ -8,7 +8,7 @@ Le marchand <mark style="color:green;">Vaarel</mark> est le magiciens de la cit�
 <mark style="color:red;">**ATTENTION !**</mark> Le nombre d'objets est limité, premier arrivé premier servi !
 {% endhint %}
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 Il existe 3 catégories différentes :
 

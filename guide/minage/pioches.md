@@ -7,25 +7,25 @@ _**Ce sont les pioches**_ _**fabricables via la table de fabrication classique.*
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (6).png>)  Pioche en <mark style="color:blue;">Opale</mark> ![](<../../.gitbook/assets/opale\_pickaxe (1).png>)
+### ![](<../../.gitbook/assets/image (2).png>)  Pioche en <mark style="color:blue;">Opale</mark> ![](../../.gitbook/assets/opale\_pickaxe.png)
 
 **Durabilité** : 3 200
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (101).png>)  Pioche en <mark style="color:purple;">Iris</mark> ![](<../../.gitbook/assets/iris\_pickaxe (1).png>)
+### ![](<../../.gitbook/assets/image (77).png>)  Pioche en <mark style="color:purple;">Iris</mark> ![](../../.gitbook/assets/iris\_pickaxe.png)
 
 **Durabilité** : 4 500
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (107).png>)  Pioche en <mark style="color:yellow;">Titane</mark> ![](../../.gitbook/assets/titane\_pickaxe.png)
+### ![](<../../.gitbook/assets/image (81).png>)  Pioche en <mark style="color:yellow;">Titane</mark> ![](../../.gitbook/assets/titane\_pickaxe.png)
 
 **Durabilité** : 7 500
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (67).png>)  Pioche de <mark style="background-color:orange;">Richesse</mark> ![](../../.gitbook/assets/multiplicator\_pickaxe.png)
+### ![](<../../.gitbook/assets/image (32).png>)  Pioche de <mark style="background-color:orange;">Richesse</mark> ![](../../.gitbook/assets/multiplicator\_pickaxe.png)
 
 **Durabilité** : 99\
 
@@ -36,7 +36,7 @@ Sauf le minerai aléatoire de gemmes _(Ne peut pas être enchanté solidité)_
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (97).png>)  Masse ![](../../.gitbook/assets/drill.png)
+### ![](<../../.gitbook/assets/image (75).png>)  Masse ![](../../.gitbook/assets/drill.png)
 
 **Durabilité** : 1 200\
 
@@ -51,7 +51,7 @@ _**Ce sont les pioches fabricables uniquement via la table de fabrication gemmé
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (106).png>)  Pioche de <mark style="background-color:orange;">Richesse Gemmée</mark> ![](../../.gitbook/assets/gem\_pickaxe.png)
+### ![](<../../.gitbook/assets/image (80).png>)  Pioche de <mark style="background-color:orange;">Richesse Gemmée</mark> ![](../../.gitbook/assets/gem\_pickaxe.png)
 
 **Durabilité** : 99\
 
@@ -62,7 +62,7 @@ _(Ne peut pas être enchanté solidité)_
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (108).png>)  Pioche à <mark style="background-color:purple;">Obsidienne</mark> ![](../../.gitbook/assets/super\_obsidian\_pickaxe.png)
+### ![](<../../.gitbook/assets/image (82).png>)  Pioche à <mark style="background-color:purple;">Obsidienne</mark> ![](../../.gitbook/assets/super\_obsidian\_pickaxe.png)
 
 **Durabilité** : 1 750\
 

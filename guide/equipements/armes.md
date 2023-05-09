@@ -9,19 +9,19 @@ _**Ce sont les épées**_ _**fabricables via la table de fabrication classique.*
 
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (102).png>)  Épée en <mark style="color:blue;">Opale</mark> ![](<../../.gitbook/assets/opale\_sword (2).png>)
+### ![](<../../.gitbook/assets/image (78).png>)  Épée en <mark style="color:blue;">Opale</mark> ![](<../../.gitbook/assets/opale\_sword (2).png>)
 
 **Dégâts** : 9,5 points d'attaques / **Durabilité** : 3 200
 {% endhint %}
 
 {% hint style="info" %}
-### <img src="../../.gitbook/assets/image (79).png" alt="" data-size="original">  Épée en <mark style="color:purple;">Iris</mark> ![](<../../.gitbook/assets/iris\_sword (1).png>)
+### <img src="../../.gitbook/assets/image (46).png" alt="" data-size="original">  Épée en <mark style="color:purple;">Iris</mark> ![](<../../.gitbook/assets/iris\_sword (1).png>)
 
 **Dégâts** : 10 points d'attaques / **Durabilité** : 4 500
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (73).png>)  Épée en <mark style="color:yellow;">Titane</mark> ![](<../../.gitbook/assets/titane\_sword (1).png>)
+### ![](<../../.gitbook/assets/image (43).png>)  Épée en <mark style="color:yellow;">Titane</mark> ![](<../../.gitbook/assets/titane\_sword (1).png>)
 
 **Dégats** : 10,5 points d'attaque / **Durabilité** : 7 500
 {% endhint %}
@@ -37,12 +37,12 @@ _**Ce sont les épées**_ _**fabricables via la table de**** **<mark style="colo
 
 
 
-### ![](<../../.gitbook/assets/image (104).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (<mark style="color:red;">Vie</mark>) ![](../../.gitbook/assets/life\_iris\_sword.png)
+### ![](<../../.gitbook/assets/image (79).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (<mark style="color:red;">Vie</mark>) ![](../../.gitbook/assets/life\_iris\_sword.png)
 
 **Dégâts** : 10 points d'attaques / **Durabilité** : 4 500\
 
 
-### ![](<../../.gitbook/assets/image (113).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:red;">Vie</mark>) ![](../../.gitbook/assets/life\_titane\_sword.png)
+### ![](<../../.gitbook/assets/image (86).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:red;">Vie</mark>) ![](../../.gitbook/assets/life\_titane\_sword.png)
 
 **Dégâts** : 10,5 points d'attaques / **Durabilité** : 7 500
 
@@ -54,12 +54,12 @@ _**Ce sont les épées**_ _**fabricables via la table de**** **<mark style="colo
 
 
 
-### ![](<../../.gitbook/assets/image (7).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (Métal) ![](../../.gitbook/assets/steel\_iris\_sword.png)
+### ![](<../../.gitbook/assets/image (3).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (Métal) ![](../../.gitbook/assets/steel\_iris\_sword.png)
 
 **Dégâts** : 10 points d'attaques / **Durabilité** : 4 500\
 
 
-### &#x20;![](<../../.gitbook/assets/image (109).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (Métal) ![](../../.gitbook/assets/steel\_titane\_sword.png)
+### &#x20;![](<../../.gitbook/assets/image (83).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (Métal) ![](../../.gitbook/assets/steel\_titane\_sword.png)
 
 **Dégâts** : 10,5 points d'attaques / **Durabilité** : 7 500\
 
@@ -72,12 +72,12 @@ _**Ce sont les épées**_ _**fabricables via la table de**** **<mark style="colo
 
 
 
-### ![](<../../.gitbook/assets/image (116).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (<mark style="color:orange;">Terre</mark>) ![](../../.gitbook/assets/earth\_iris\_sword.png)
+### ![](<../../.gitbook/assets/image (87).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (<mark style="color:orange;">Terre</mark>) ![](../../.gitbook/assets/earth\_iris\_sword.png)
 
 **Dégâts** : 10 points d'attaques / **Durabilité** : 4 500\
 
 
-### ![](<../../.gitbook/assets/image (26).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:orange;">Terre</mark>)
+### ![](<../../.gitbook/assets/image (8).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:orange;">Terre</mark>)
 
 **Dégâts** : 10,5 points d'attaques / **Durabilité** : 7 500\
 
@@ -90,12 +90,12 @@ _**Ce sont les épées**_ _**fabricables via la table de**** **<mark style="colo
 
 
 
-### ![](<../../.gitbook/assets/image (40).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (<mark style="color:green;">Réparation</mark>) ![](../../.gitbook/assets/repair\_iris\_sword.png)
+### ![](<../../.gitbook/assets/image (11).png>)  Épée en <mark style="color:purple;">Iris</mark> améliorée (<mark style="color:green;">Réparation</mark>) ![](../../.gitbook/assets/repair\_iris\_sword.png)
 
 **Dégâts** : 10 points d'attaques / **Durabilité** : 4 500\
 
 
-### ![](<../../.gitbook/assets/image (98).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:green;">Réparation</mark>) ![](../../.gitbook/assets/repair\_titane\_sword.png)
+### ![](<../../.gitbook/assets/image (76).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:green;">Réparation</mark>) ![](../../.gitbook/assets/repair\_titane\_sword.png)
 
 **Dégâts** : 10,5 points d'attaques / **Durabilité** : 7 500\
 

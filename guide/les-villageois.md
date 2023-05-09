@@ -12,7 +12,7 @@ Plusieurs types de villageois sont disponibles avec les œufs !&#x20;
 Il vous proposera des échanges contre du mana ou des goutes de mana !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### Le villageois marchant
 
@@ -20,4 +20,4 @@ Il vous proposera des échanges contre du mana ou des goutes de mana !
 Il vous proposera de l'argent contre des items ! Les trades vous proposeront plus d'argent que le shop normal !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

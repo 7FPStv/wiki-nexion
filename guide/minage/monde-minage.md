@@ -32,11 +32,11 @@ Si tu souhaites transférer tes minerais du **Minage -> Factions** il te suffit 
 
 Pour récupérer tes ressources il te suffit d'aller sur le serveur factions avec un (CLIQUE-DROIT) sur la Hache légendaire dans ta barre d'inventaire. Et de faire la commande " **/reserve** " pour récupérer les objets directement sur le faction.
 
-![SAC DE RESSOURCE dans ta barre d'inventaire](<../../.gitbook/assets/image (19).png>)
+![SAC DE RESSOURCE dans ta barre d'inventaire](<../../.gitbook/assets/image (35).png>)
 
 ![1.  Dépose tes objets dans ce menu&#x20;
 2\.  Fermer le menu&#x20;
-3\.  Rends-toi sur le factions et tape la commande /reserve](<../../.gitbook/assets/image (39).png>)
+3\.  Rends-toi sur le factions et tape la commande /reserve](<../../.gitbook/assets/image (68).png>)
 
 ### Les niveaux du mineur
 

@@ -47,8 +47,8 @@ Pour obtenir les talismans rien de plus simple :&#x20;
 * **Talisman **<mark style="color:red;">**Explosif**</mark>**  :** Poser des oeufs de creeper
 * **Talisman **<mark style="color:yellow;">**Maudit**</mark>** :** Tuer des disciples **(**[**Event donjon**](les-evenements/donjon.md)**)**
 * **Talisman **<mark style="color:green;">**Voleur**</mark>**  :** Tuer des gobelins **(**[**Camp Gobelin**](les-evenements/)**)**
-* **Talisman **<mark style="color:purple;">**Sombre**</mark>**  :** Tuer des Enderman **(**[**Dimension**](la-nouvelle-dimension/)**)**
-* **Talisman **<mark style="color:orange;">**Revenant**</mark>**  :** Tuer des Mort-vivants **(Warzone/**[**Dimension**](la-nouvelle-dimension/)**)**
+* **Talisman **<mark style="color:purple;">**Sombre**</mark>**  :** Tuer des Enderman **(**[**Dimension**](la-nouvelle-dimension.md)**)**
+* **Talisman **<mark style="color:orange;">**Revenant**</mark>**  :** Tuer des Mort-vivants **(Warzone/**[**Dimension**](la-nouvelle-dimension.md)**)**
 
 ### <mark style="color:green;">Comment up son talisman ?</mark>&#x20;
 

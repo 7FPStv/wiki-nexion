@@ -76,7 +76,7 @@ Plusieurs solution possible pour corriger ce problème, la plus simple d'être e
 [<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md) <mark style="color:red;">cela t'explique aussi le launcher !</mark>
 {% endhint %}
 
-![Menu d'accueil du launcher officiel de NexionGames](<../../.gitbook/assets/image (38).png>)
+![Menu d'accueil du launcher officiel de NexionGames](<../../.gitbook/assets/image (47).png>)
 
 Pour les autres cas, cela peut dépendre de beaucoup de problèmes, il va falloir suivre étape par étape pour les instructions et avoir une résolution du problème optimal :&#x20;
 

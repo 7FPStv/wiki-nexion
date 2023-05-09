@@ -3,7 +3,7 @@
 L'événement **Donjon** se déroule tous les <mark style="color:purple;">MECREDI À 17 HEURES</mark> et les <mark style="color:purple;">SAMEDI À 19 HEURES</mark>  ! \
 C'est dans cette évent que l'on peut trouver des Disciples.
 
-![Un disciple](<../../.gitbook/assets/image (32).png>)
+![Un disciple](<../../.gitbook/assets/image (30).png>)
 
 \
 \
@@ -20,7 +20,7 @@ Pour commencer la phase 1 il faut monter sur les tours, en haut de celle-ci vous
 <mark style="color:red;">**Attention !**</mark>  L'eldritch fait beaucoup de dégâts !
 {% endhint %}
 
-![l'Eldritch](<../../.gitbook/assets/image (80).png>)
+![l'Eldritch](<../../.gitbook/assets/image (46) (1).png>)
 
 Quand les 3 Eldritch on était vaincu, un message dans le chat s'affiche, et le <mark style="color:red;">PVP</mark> s'active dans 60 secs ! \
 Vous allez avoir aussi les coordonnées de la première apparition du Mage Noir, le Boss du Donjon !
@@ -29,11 +29,11 @@ Vous allez avoir aussi les coordonnées de la première apparition du Mage Noir,
 &#x20;Le Mage noir fait spawn des disciples, attention de ne pas vous faire submerger !
 {% endhint %}
 
-![Le Mage Noir (Boss)](<../../.gitbook/assets/image (69).png>)
+![Le Mage Noir (Boss)](<../../.gitbook/assets/image (32) (1).png>)
 
 Vous arrivez à l'emplacement du Boss et le <mark style="color:red;">PvP</mark> est activé ! Le mage noir est invulnérable temps que tout les guldors qui sont apparue sur la map non pas été tuer !
 
-![Un guldor](<../../.gitbook/assets/image (58).png>)
+![Un guldor](<../../.gitbook/assets/image (44).png>)
 
 Après avoir tué tout les guldor le Boss est vulnérable vous pouvez l'attaquer ! Après un certain nombre de Points de Vie perdu, le Mage noir se téléporte sur un autre tour, à vous d'aller le retrouver !
 

@@ -14,7 +14,7 @@ _**Tavernier Aldric (Vin)**_
 * Création de Vin de haute qualité : 1 Bouteille de vin + 128 Raisins + 16 Raisins légendaire.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _**Tavernier Godefroid**_
@@ -23,7 +23,7 @@ _**Tavernier Godefroid**_
 * Création de Bière ténébreuse : 1 Chope + 16 Miels + 128 Nether Warts.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _**Tavernier N°03 (Hydromel)**_&#x20;
@@ -32,7 +32,7 @@ _**Tavernier N°03 (Hydromel)**_&#x20;
 * Création d'Hydromel concentré : 1 Bouteille cristallisé + 128 Miels + 4 Gouttes de mana.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 #### Expérience Spécialité Aventurier
 

@@ -1,6 +1,6 @@
 # 🧙♂ Rodlug
 
-&#x20;Le marchand Rodlug est le frère maléfique de [guldor.md](guldor.md "mention"), Il apparait a différents endroits dans [la-nouvelle-dimension](../la-nouvelle-dimension/ "mention") magique le week-end. \
+&#x20;Le marchand Rodlug est le frère maléfique de [guldor.md](guldor.md "mention"), Il apparait a différents endroits dans [la-nouvelle-dimension.md](../la-nouvelle-dimension.md "mention") magique le week-end. \
 
 
 ![Rodlug dans dimension magique

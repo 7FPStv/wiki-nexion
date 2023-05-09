@@ -38,7 +38,7 @@ Pour avoir accès au menu de votre faction, <mark style="color:red;">**/f menu**
 Pour <mark style="color:orange;">débloquer</mark> une compétence, vous devez avoir le <mark style="color:red;">rang</mark> et <mark style="color:red;">l'argent</mark> requis ! Chaque <mark style="color:orange;">compétence</mark> possède un ou plusieurs niveaux <mark style="color:red;">déblocables</mark> avec un certain rang !
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ## Les achivements&#x20;
 
@@ -46,4 +46,4 @@ Pour <mark style="color:orange;">débloquer</mark> une compétence, vous devez a
 Pour chaque faction, des achivements <mark style="color:orange;">sont disponibles</mark> ! Ils vous feront <mark style="color:red;">gagner des partisans</mark> ! _(Ils seront reset chaque mois avec le classement !)_&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# 💾 Installer et jouer
+# 📥 Installer et jouer
 
 ## Inscrivez-vous maintenant pour jouer !&#x20;
 

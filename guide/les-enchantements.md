@@ -1,7 +1,7 @@
 # 📖 Grimoire
 
 {% hint style="info" %}
-Sur Nexion, il y a <mark style="color:purple;">18 enchantements moddés</mark> <img src="../.gitbook/assets/book_enchanted.png" alt="" data-size="line">, ceux-ci sans exceptions, sont uniquement obtenable via le grimoire. Le grimoire se craft avec 3 obsidiennes renforcées <img src="../.gitbook/assets/renforced_obsidian.png" alt="" data-size="line">, 2 gemmes de mana <img src="../.gitbook/assets/mana_gem (1).png" alt="" data-size="line">, une table d'enchantement <img src="../.gitbook/assets/enchanting_table_side.png" alt="" data-size="line"> et un manuscrit <img src="../.gitbook/assets/manuscript (1).png" alt="" data-size="line"> :
+Sur Nexion, il y a <mark style="color:purple;">18 enchantements moddés</mark> <img src="../.gitbook/assets/book_enchanted.png" alt="" data-size="line">, ceux-ci sans exceptions, sont uniquement obtenable via le grimoire. Le grimoire se craft avec 3 obsidiennes renforcées <img src="../.gitbook/assets/renforced_obsidian.png" alt="" data-size="line">, 2 gemmes de mana <img src="../.gitbook/assets/mana_gem (1).png" alt="" data-size="line">, une table d'enchantement <img src="../.gitbook/assets/enchanting_table_side.png" alt="" data-size="line"> et un manuscrit <img src="../.gitbook/assets/manuscript.png" alt="" data-size="line"> :
 {% endhint %}
 
 {% hint style="info" %}
