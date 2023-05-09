@@ -26,4 +26,4 @@ Se PNJ vous permet d'obtenir les <mark style="color:red;">bottes de déplacement
 Se PNJ vous permet d'obtenir du tabac , des pièces d'ors, et des graines de raisins !&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
