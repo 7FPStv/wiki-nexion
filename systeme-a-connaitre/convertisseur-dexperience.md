@@ -8,7 +8,7 @@ Pour cela rien de plus simple rendez-vous au spawn avec la commande <mark style=
 
 Puis en face de vous, se trouvera ce pnj.
 
-![](../.gitbook/assets/e3rXg4R.png)
+![](<../.gitbook/assets/e3rXg4R (1).png>)
 
 {% hint style="success" %}
 <mark style="color:green;">**COMMENT FAIRE ?**</mark>

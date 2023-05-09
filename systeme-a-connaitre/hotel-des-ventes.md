@@ -30,7 +30,7 @@ Pour cela place l'item de ton choix dans ta hotbar puis prend l'item dans ta mai
 &#x20;                                    <mark style="color:green;">ou :</mark> **/hdv sell 10000**
 {% endhint %}
 
-![Interface de vente d'un item à l'hôtel des ventes](<../.gitbook/assets/image (22).png>)
+![Interface de vente d'un item à l'hôtel des ventes](<../.gitbook/assets/image (115).png>)
 
 Une fois la commande exécutée cette interface apparaît, tu peux modifier le prix en cas d'erreur ou sinon clique sur **VENDRE** pour mettre en vente ton item à l'hôtel des ventes.&#x20;
 
@@ -44,6 +44,6 @@ Une fois la commande exécutée cette interface apparaît, tu peux modifier le p
 
 Pour cela cliques sur l'item que tu souhaites acheter ou récupérer (deux interfaces différentes s'afficheront en fonction de ton choix).
 
-![Interface pour acheter un item](../.gitbook/assets/java\_V6KKkWQWVy.png) ![Interface pour récupérer un item](<../.gitbook/assets/java\_x0UatcU7hA (1).png>)
+![Interface pour acheter un item](<../.gitbook/assets/java\_V6KKkWQWVy (1).png>) ![Interface pour récupérer un item](<../.gitbook/assets/java\_x0UatcU7hA (1).png>)
 
 #### Une fois ton item acheté ou récupéré, celui-ci sera directement stocké dans ta [mailbox ](mailbox.md)

@@ -10,7 +10,7 @@ Clique ensuite sur **VOTE SUR SERVEUR-PRIVE**
 
 Vous allez être redirigés vers un autre site et une fois sur le site cliquer à nouveau sur **VOTER**
 
-![Site de Nexion](<../../.gitbook/assets/56a2ed76e28d38137ebbc323363c67b2 (2).png>) ![Site vers lequel vous êtes redirigé](../../.gitbook/assets/tempsnip.png)
+![Site de Nexion](../../.gitbook/assets/56a2ed76e28d38137ebbc323363c67b2.png) ![Site vers lequel vous êtes redirigé](../../.gitbook/assets/tempsnip.png)
 
 Une fois que tu as cliquer sur VOTER tu devras :&#x20;
 
@@ -39,7 +39,7 @@ Deux choix s'offrent à toi une **RÉCOMPENSE CLASSIQUE** ou **DES POINTS POUR L
 Tu dois être connecté sur le faction et cliquer sur **RÉCUPÉRER MES RÉCOMPENSES EN ATTENTE**&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/Sans titre (2).png>)
+![](<../../.gitbook/assets/Sans titre (1).png>)
 
 {% hint style="danger" %}
 <mark style="color:red;">**IMPORTANT**</mark>
@@ -61,7 +61,7 @@ En haut à gauche se trouve le nombre point shop dont tu disposes&#x20;
 Tu dois être connecté en faction pour pouvoir acheter une récompense
 {% endhint %}
 
-![Boutique point shop](<../../.gitbook/assets/Sans titre (1).png>) ![Point shop dont tu disposes](<../../.gitbook/assets/Sans titre (3).png>)
+![Boutique point shop](<../../.gitbook/assets/Sans titre (2).png>) ![Point shop dont tu disposes](<../../.gitbook/assets/Sans titre.png>)
 
 
 

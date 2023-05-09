@@ -6,7 +6,7 @@ La légende raconte que ce Collectionneur vient d'un temps très ancien, toute c
 Tu peux retrouver le Collectionneur au spawn. 🧭 **(/warp Collectionneur)**
 {% endhint %}
 
-![Rare photo du Collectionneur, toujours avec son œil bionique vert.](<../.gitbook/assets/image (45).png>)
+![Rare photo du Collectionneur, toujours avec son œil bionique vert.](<../.gitbook/assets/image (51).png>)
 
 {% hint style="success" %}
 Le collectionneur te permet de récupérer des objets de collection.
@@ -16,77 +16,98 @@ Il faut faire certaines actions pour avoir ces objets de collection. Si tu n'as 
 
 Pour connaitre les moyens permettant de récupérer ces objets. Tu peux trouver soit par toi même en cherchant pour plus de fun, ou soit en achetant un ticket au [shop-market.md](shop-market.md "mention")**divers (5'000$)**
 
-En faisant un clique droit dessus, il te donne une méthode pour avoir un item collector (que tu n'as pas encore). Lorsque tu réalise l'action, l'objet se débloque dans le collectionneur. Si tu réalises l'action sans avoir utilisé de ticket, l'item se débloque aussi dans le collectionneur
+{% hint style="info" %}
+En faisant un clique droit dessus, il te donne une <mark style="color:orange;">méthode</mark> pour avoir un item collector (que tu n'as pas encore). \
+\
+Lorsque tu réalise l'action, l'objet <mark style="color:red;">se débloque</mark> dans le collectionneur. \
+\
+Si tu réalises l'action sans avoir utilisé de ticket, l'item se débloque aussi dans le collectionneur
+{% endhint %}
+
+{% hint style="success" %}
+### Récompense :
 
 
 
-## Récompense
+Actuellement <mark style="color:orange;">5</mark> catégories de compétence de <mark style="color:orange;">10</mark> niveaux. En fonction du niveau tu reçois <mark style="color:red;">plus</mark> de récompense. \
+\
+Pour <mark style="color:orange;">augmenter</mark> de niveau, il te faut 1 points de niveau. Tu peux changer l'attribution des points quand tu veux.
+{% endhint %}
 
-Actuellement 5 catégories de compétence de 10 niveaux. En fonction du niveau tu reçois plus de récompense. Pour augmenter de niveau, il te faut 1 points de niveau. Tu peux changer l'attribution des points quand tu veux.
+### Expérience en <mark style="color:blue;">Magie</mark> :
 
-**Exp Magie**\
-Niveau 1 : 600 - 1200 xp\
-Niveau 2 : 1200 - 1800 xp\
-Niveau 3 : 1800 - 2400 xp\
-Niveau 4 : 2400 - 3200 xp\
-Niveau 5 : 3200 - 4000 xp\
-Niveau 6 : 4000 - 4800 xp\
-Niveau 7 : 4800 - 6000 xp\
-Niveau 8 : 6000 - 7500 xp\
-Niveau 9 : 7500 - 9000 xp\
-Niveau 10 : 9000 - 11000 xp
+* Niveau 1 : 600 - 1 200 exp
+* Niveau 2 : 1 200 - 1 800 exp
+* Niveau 3 : 1 800 - 2 400 exp
+* Niveau 4 : 2 400 - 3 200 exp
+* Niveau 5 : 3 200 - 4 000 exp
+* Niveau 6 : 4 000 - 4 800 exp
+* Niveau 7 : 4 800 - 6 000 exp
+* Niveau 8 : 6 000 - 7 500 exp
+* Niveau 9 : 7 500 - 9 000 exp
+* Niveau 10 : 9 000 - 11 000 exp
 
-**Xp Minecraft**\
-Niveau 1 : 30 - 60 niveaux\
-Niveau 2 : 60 - 100 niveaux\
-Niveau 3 : 100 - 200 niveaux\
-Niveau 4 : 200 - 300 niveaux\
-Niveau 5 : 400 - 600 niveaux\
-Niveau 6 : 600 - 800 niveaux\
-Niveau 7 : 800 - 1000 niveaux\
-Niveau 8 : 1000 - 1300 niveaux\
-Niveau 9 : 1300 - 1600 niveaux\
-Niveau 10 : 1600 - 2000 niveaux
+### Expérience <mark style="color:green;">Minecraft</mark> :
 
-**Xp Ecuyer**\
-Niveau 1 : 50 - 100 exp\
-Niveau 2 : 100 - 200 exp\
-Niveau 3 : 200 - 400 exp\
-Niveau 4 : 400 - 600 exp\
-Niveau 5 : 600 - 800 exp\
-Niveau 6 : 800 - 1000 exp\
-Niveau 7 : 1000 - 1400 exp\
-Niveau 8 : 1400 - 1800 exp\
-Niveau 9 : 1800 - 2400 exp\
-Niveau 10 : 2400 - 3000 exp
+* Niveau 1 : 30 - 60 niveaux
+* Niveau 2 : 60 - 100 niveaux
+* Niveau 3 : 100 - 200 niveaux
+* Niveau 4 : 200 - 300 niveaux
+* Niveau 5 : 400 - 600 niveaux
+* Niveau 6 : 600 - 800 niveaux
+* Niveau 7 : 800 - 1 000 niveaux
+* Niveau 8 : 1 000 - 1 300 niveaux
+* Niveau 9 : 1 300 - 1 600 niveaux
+* Niveau 10 : 1 600 - 2 000 niveaux
 
-**Monnaie**\
-Niveau 1 : 500 - 1000$\
-Niveau 2 : 1000 - 2000$\
-Niveau 3 : 2000 - 4000$\
-Niveau 4 : 4000 - 6000$\
-Niveau 5 : 6000 - 10000$\
-Niveau 6 : 10000 - 15000$\
-Niveau 7 : 15000 - 20000$\
-Niveau 8 : 20000 - 30000$\
-Niveau 9 : 30000 - 40000$\
-Niveau 10 : 40000 - 50000$
+### Expérience <mark style="color:orange;">d'écuyer</mark> :
 
-**Ressources**\
-Niveau 1 : 1 commun\
-Niveau 2 : 2 communs\
-Niveau 3 : 1 rare\
-Niveau 4 : 2 rares\
-Niveau 5 : 2 rares, 2 communs\
-Niveau 6 : 1 épique\
-Niveau 7 : 1 épique, 1 rare, 1 commun\
-Niveau 8 : 1 épique, 2 rare, 2 communs\
-Niveau 9 : 2 épiques\
-Niveau 10 : 1 légendaire
+* Niveau 1 : 50 - 100 exp
+* Niveau 2 : 100 - 200 exp
+* Niveau 3 : 200 - 400 exp
+* Niveau 4 : 400 - 600 exp
+* Niveau 5 : 600 - 800 exp
+* Niveau 6 : 800 - 1 000 exp
+* Niveau 7 : 1 000 - 1 400 exp
+* Niveau 8 : 1 400 - 1 800 exp
+* Niveau 9 : 1 800 - 2 400 exp
+* Niveau 10 : 2 400 - 3 000 exp
 
-**Liste des ressources** \
-**-> Commun** : Fragment métal, terre, vie, réparation, mana, 16x Baie moisie, 16x Cervelet de mort vivant\
-**->** **Rare** : Pièce d'or, pièce d'or corrompu, 12x Poudres (Bague), x16 Obsidienne renforcée\
-**->** **Epique** : Gemme métal, vie, terre, réparation\
+### Gain de <mark style="color:yellow;">Monnaie</mark> :
+
+* Niveau 1 : 500 - 1 000$
+* Niveau 2 : 1 000 - 2 000$
+* Niveau 3 : 2 000 - 4 000$
+* Niveau 4 : 4 000 - 6 000$
+* Niveau 5 : 6 000 - 10 000$
+* Niveau 6 : 10 000 - 15 000$
+* Niveau 7 : 15 000 - 20 000$
+* Niveau 8 : 20 000 - 30 000$
+* Niveau 9 : 30 000 - 40 000$
+* Niveau 10 : 40 000 - 50 000$
+
+### Gain de <mark style="color:green;">Ressources</mark> :
+
+* Niveau 1 : 1 ressource commune
+* Niveau 2 : 2 ressources communes
+* Niveau 3 : 1 ressource rare
+* Niveau 4 : 2 ressources rares
+* Niveau 5 : 2 ressources communes / 2 ressources rares
+* Niveau 6 : 1 ressource épique
+* Niveau 7 : 1 ressource commune / 1 ressource rare / 1 ressource épique
+* Niveau 8 : 2 ressources communes / 2 ressources rare / 1 ressource épique
+* Niveau 9 : 2 ressources épiques
+* Niveau 10 : 1 ressource légendaire
+
+{% hint style="info" %}
+<mark style="color:red;">**Liste des ressources :**</mark>
+
+\
+**-> Commun** : Fragment métal, terre, vie, réparation, mana, 16x Baie moisie, 16x Cervelet de mort vivant
+
+**->** **Rare** : Pièce d'or, pièce d'or corrompu, 12x Poudres (Bague), x16 Obsidienne renforcée
+
+**->** **Epique** : Gemme métal, vie, terre, réparation
+
 **-> Legendaire** : Gemme de mana, Baguette magique
-
+{% endhint %}

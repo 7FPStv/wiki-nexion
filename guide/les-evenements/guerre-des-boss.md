@@ -1,4 +1,4 @@
-# Guerre des boss
+# 🛡 Guerre des boss
 
 #### L'événement se déroule tous les jours pour s'y inscrire tu dois parier un nombre de point classement (50 max). Lors de l'inscription les factions désignent 4 combattants.
 

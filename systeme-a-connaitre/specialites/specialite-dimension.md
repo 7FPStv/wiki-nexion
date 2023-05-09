@@ -1,4 +1,4 @@
-# Spécialité Dimension 🔮
+# 🔮 Spécialité Dimension
 
 ### **Accès à la **<mark style="color:purple;">**spécialité**</mark>&#x20;
 
@@ -18,31 +18,33 @@ Pour avoir accès à la spécialité dimension, il faut passer le niveau 50 !
 
 ### <mark style="color:purple;">**5 compétences**</mark>** sont disponible avec cette spécialité,**&#x20;
 
-#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.**   <mark style="color:purple;">Boost exp</mark> de la spécialité Dimension&#x20;
+#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.**&#x20;
+
+### <mark style="color:purple;">Boost exp</mark> de la spécialité Dimension&#x20;
 
 Niveau 1 : Boost de <mark style="color:purple;">5% de d'exp</mark> de spécialité Dimension. (Cout : 1 point de compétence) \
 Niveau 2 : Boost de <mark style="color:purple;">10% de d'exp</mark> de spécialité Dimension. (Cout : 2 point de compétence) \
 Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spécialité Dimension. (Cout : 3 point de compétence)\
 
 
-#### <mark style="color:purple;">Slot de talisman</mark> (par défaut tu as accès à 2 slots) :&#x20;
+### <mark style="color:purple;">Slot de talisman</mark> (par défaut tu as accès à 2 slots) :&#x20;
 
 Niveau 1 : Donne accès au <mark style="color:purple;">troisième slot</mark> de talisman. (Cout : 1 point de compétence) \
 Niveau 2 : Donne accès au <mark style="color:purple;">quatrième slot</mark> de talisman. (Cout : 2 points de compétence) \
 Niveau 3 : Donne accès au <mark style="color:purple;">cinquième slot</mark> de talisman. (Cout : 3 points de compétence)\
 
 
-#### Information Mine :&#x20;
+### Information Mine :&#x20;
 
 Niveau 1 : Cela indique à l'entrée des mines <mark style="color:purple;">combien il y a de minerais</mark> de disponible dans la mine. (Cout : 1 point de compétence)\
 
 
-#### Slot de bague (par défaut tu as un slot de disponible):&#x20;
+### Slot de bague (par défaut tu as un slot de disponible):&#x20;
 
 Niveau 1 : Donne accès à <mark style="color:purple;">un slot de bague</mark> en plus (Cout : 1 point de compétence)\
 
 
-#### Réapparition de poudre (Lorsque tu casses une poudre au sol dans la nouvelle dimension, tu as un % de chance qu'elle réapparaisse) :&#x20;
+### Réapparition de poudre (Lorsque tu casses une poudre au sol dans la nouvelle dimension, tu as un % de chance qu'elle réapparaisse) :&#x20;
 
 Niveau 1 : <mark style="color:purple;">5% de chance</mark> qu'une poudre réapparaisse. (Cout : 1 point de compétence) \
 Niveau 2 : <mark style="color:purple;">10% de chance</mark> qu'une poudre réapparaisse. (Cout : 2 points de compétence) \

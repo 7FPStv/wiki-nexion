@@ -1,4 +1,4 @@
-# Campements
+# 🏕 Campements
 
 C'est un événement PVP connu depuis la nuit des temps sur Nexion, il a été le premier celui qui a directement plu aux guerriers aguerries.
 

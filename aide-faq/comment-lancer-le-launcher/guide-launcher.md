@@ -16,8 +16,6 @@ Premièrement, il existe plusieurs solutions aux problèmes de launcher en fonct
 
 [<mark style="color:purple;">**-> Error : Network**</mark> ](guide-launcher.md#error-network)
 
-[<mark style="color:purple;">**-> Launcher sans affichage**</mark>](guide-launcher.md#launcher-sans-affichage)
-
 [<mark style="color:purple;">**-> Erreur : " Authentification en cours… " ou "Connexion impossible !"**</mark>](guide-launcher.md#erreur-authentification-en-cours...-ou-connexion-impossible)
 
 [<mark style="color:purple;">**-> Erreur : " En attente de lancement"**</mark> ](guide-launcher.md#erreur-en-attente-de-lancement)
@@ -50,8 +48,6 @@ Un code erreur au lancement du jeu avec le code erreur 666, il te suffit simplem
 
 Erreur peu connu, mais c'est simplement l'erreur que tu peux avoir lorsque tu n'as pas de connexion assez puissante permettant de lancer notre launcher, alors vérifie ta connexion internet, et si le problème persiste tu peux voir directement cela avec ton Fournisseur d'Accès à Internet.
 
-
-
 ## Erreur : " Authentification en cours… " ou "Connexion impossible !"
 
 Tu as réussi à lancer le launcher, mais manque de chance tu as un chargement qui n'aboutit pas, lorsque tu cliques sur " Rejoindre l'aventure " ne t'en fais pas ça peut arriver, notre système d'anti-bot te bloque, alors suis ce tutoriel pour te débloquer :&#x20;
@@ -80,7 +76,7 @@ Plusieurs solution possible pour corriger ce problème, la plus simple d'être e
 [<mark style="color:red;">**\[ -> Téléchargement du jeu \]**</mark>](../../welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md) <mark style="color:red;">cela t'explique aussi le launcher !</mark>
 {% endhint %}
 
-![Menu d'accueil du launcher officiel de NexionGames](<../../.gitbook/assets/image (47).png>)
+![Menu d'accueil du launcher officiel de NexionGames](<../../.gitbook/assets/image (38).png>)
 
 Pour les autres cas, cela peut dépendre de beaucoup de problèmes, il va falloir suivre étape par étape pour les instructions et avoir une résolution du problème optimal :&#x20;
 

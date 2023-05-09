@@ -1,6 +1,6 @@
-# Rodlug
+# 🧙♂ Rodlug
 
-&#x20;Le marchand Rodlug est le frère maléfique de [guldor.md](guldor.md "mention"), Il apparait a différents endroits dans [la-nouvelle-dimension.md](../la-nouvelle-dimension.md "mention") magique le week-end. \
+&#x20;Le marchand Rodlug est le frère maléfique de [guldor.md](guldor.md "mention"), Il apparait a différents endroits dans [la-nouvelle-dimension](../la-nouvelle-dimension/ "mention") magique le week-end. \
 
 
 ![Rodlug dans dimension magique
@@ -22,7 +22,7 @@ Il existe 3 catégories différentes :
 
 {% hint style="warning" %}
 _<mark style="color:orange;">**Remarque :**</mark>_ \
-La catégorie <mark style="color:red;">légendaire</mark> est le seul moyen d'obtenir l'amure légendaire de vascur                                                                                            **(**[#les-armures-legendaires](../minerais-et-armures.md#les-armures-legendaires "mention")**)**, ainsi que l'arc de vascur.
+La catégorie <mark style="color:red;">légendaire</mark> est le seul moyen d'obtenir l'amure légendaire de vascur                                                                                            **(**[Broken link](broken-reference "mention")**)**, ainsi que l'arc de vascur.
 {% endhint %}
 
 {% hint style="info" %}

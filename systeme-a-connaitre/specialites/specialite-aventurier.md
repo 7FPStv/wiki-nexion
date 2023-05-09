@@ -1,4 +1,4 @@
-# Spécialité Aventurier 🏃‍♂️
+# 🏃 Spécialité Aventurier
 
 ### **Accès à la **<mark style="color:purple;">**spécialité**</mark>** :** &#x20;
 
@@ -19,31 +19,31 @@ Pour avoir accès à la spécialité aventurier, il faut passer le niveau 80 !
 **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** \
 
 
-#### Boost exp de la <mark style="color:purple;">spécialité Aventurier</mark> :&#x20;
+### Boost exp de la <mark style="color:purple;">spécialité Aventurier</mark> :&#x20;
 
 Niveau 1 : Boost de <mark style="color:purple;">5% de d'exp</mark> de spécialité Aventurier. (Cout : 1 point de compétence) \
 Niveau 2 : Boost de <mark style="color:purple;">10% de d'exp</mark> de spécialité Aventurier. (Cout : 2 point de compétence) \
 Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spécialité Aventurier. (Cout : 3 point de compétence)\
 
 
-#### Slots enderchest :&#x20;
+### Slots enderchest :&#x20;
 
 Niveau 1 : Donne <mark style="color:purple;">3 slots en plus</mark> à l'enderchest. (Cout : 1 point de compétence) \
 Niveau 2 : Donne <mark style="color:purple;">6 slots en plus</mark> à l'enderchest. (Cout : 2 points de compétence) \
 Niveau 3 : Donne <mark style="color:purple;">9 slots en plus</mark> à l'enderchest. (Cout : 3 points de compétence)\
 
 
-#### Réduction chef des goblins (Cela coûte <mark style="color:purple;">moins de feuilles</mark> de faire un échange avec le chef des goblins) :&#x20;
+### Réduction chef des goblins (Cela coûte <mark style="color:purple;">moins de feuilles</mark> de faire un échange avec le chef des goblins) :&#x20;
 
 Niveau 1 : Réduction de <mark style="color:purple;">3 feuilles</mark> lors d'un échange avec le chef des goblins. \
 Niveau 2 : Réduction de <mark style="color:purple;">6 feuilles</mark> lors d'un échange avec le chef des goblins. \
 Niveau 3 : Réduction de <mark style="color:purple;">9 feuilles</mark> lors d'un échange avec le chef des goblins.\
 
 
-#### Quête du roi (Par défaut le joueur a accès à une quête avec le roi) :&#x20;
+### Quête du roi (Par défaut le joueur a accès à une quête avec le roi) :&#x20;
 
 Niveau 1 : Donne accès à la <mark style="color:purple;">seconde quête</mark> du roi. (Cout : 1 point de compétence)
 
-#### Téléportation Rapide cité (Permet de se <mark style="color:purple;">tp à chacun</mark> des villages et au chateau) : &#x20;
+### Téléportation Rapide cité (Permet de se <mark style="color:purple;">tp à chacun</mark> des villages et au chateau) : &#x20;
 
 Niveau 1 : Donne accès à un pnj de <mark style="color:purple;">tp rapide</mark> entre les villages et le chateau, lui mettre un skin de brigand. (Cout : 1 point de compétence)

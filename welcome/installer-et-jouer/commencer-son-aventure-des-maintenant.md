@@ -10,7 +10,7 @@ Sur la page [<mark style="color:purple;">**JOUER**</mark> ](https://nexion.fr/jo
 
 En téléchargeant le launcher tu dois installer ce qu'on appelle un **SETUP** du launcher, c'est une application pour lancer notre launcher. En cliquant sur le système d'exploitation de ton choix, tu vas télécharger notre application.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 Lorsque tu lances le téléchargement du setup, il va s'installer et te permettre d'avoir le launcher.
 

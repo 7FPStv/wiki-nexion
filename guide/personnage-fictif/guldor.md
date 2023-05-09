@@ -1,4 +1,4 @@
-# Guldor
+# 🧙♂ Guldor
 
 Le marchand Guldor est l'un des deux marchés noirs, le deuxième n'est autre que son frère maléfique[rodlug.md](rodlug.md "mention") !
 
@@ -31,7 +31,7 @@ La catégorie "spéciale" te donne accès un objet privé, personne d'autre ne p
 
 {% hint style="warning" %}
 _<mark style="color:orange;">**Remarque :**</mark>_ \
-Les catégories ''<mark style="color:blue;">légendaire</mark>'' et ''<mark style="color:purple;">spéciale''</mark> sont les deux seuls moyens d'obtenir l'amure légendaire de menos **(** [#les-armures-legendaires](../minerais-et-armures.md#les-armures-legendaires "mention") **)**
+Les catégories ''<mark style="color:blue;">légendaire</mark>'' et ''<mark style="color:purple;">spéciale''</mark> sont les deux seuls moyens d'obtenir l'amure légendaire de menos **(** [Broken link](broken-reference "mention") **)**
 {% endhint %}
 
 {% hint style="info" %}

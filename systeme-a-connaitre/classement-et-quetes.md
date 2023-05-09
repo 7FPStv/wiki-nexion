@@ -20,29 +20,36 @@ Sur le serveur nous avons plusieurs classements, tu peux affronter les autres jo
 <mark style="color:blue;">**/bosswar**</mark> permet de parier des points de classements en affronter tes ennemies
 {% endhint %}
 
-## Comment obtenir des points de classement et monter dans le classement ?&#x20;
+## Comment obtenir des partisans et monter dans le classement ?&#x20;
 
-#### 1. En participant et/ou en gagnant aux événements du serveur <mark style="color:purple;">(/planning)</mark>
+### 1. En participant et/ou en gagnant aux événements du serveur <mark style="color:purple;">(/planning)</mark>
 
-#### 2. En accomplissant les catégories des objectifs <mark style="color:purple;">(/f achievement)</mark>
+{% hint style="info" %}
+Certains <mark style="color:orange;">événements</mark> vous donnent <mark style="color:red;">des partisans</mark>, Le Faction Challenge, il est disponible tous les week-ends ! \
+Le sauvetage de villageois, se lance toutes les <mark style="color:orange;">30 min</mark> et vous donnera un partisan si vous <mark style="color:red;">gagner</mark> l'event ! \
+Le campement, le conquest, quest global donnent aussi des partisans !
+{% endhint %}
 
-Il existe 6 catégories d'objectif : \
-\-> Minage\
-\-> Vente\
-\-> Farming\
-\-> Magie\
-\-> Dimension\
-\-> Personnage
+### 2. En accomplissant les catégories des objectifs <mark style="color:purple;">(/f achievement)</mark>
 
-#### 3. En augmentant ton niveau de classe&#x20;
+{% hint style="info" %}
+Il existe 6 catégories d'objectif :&#x20;
 
-Chaque niveau de classe augmenté pourra te donner un point au classement, très pratique si tu veux progresser vite sur le serveur et dans le classement !
+* Minage
+* Vente
+* Farming
+* Magie
+* Dimension
+* Personne
+{% endhint %}
 
+{% hint style="info" %}
+Tous les achivements ce reset <mark style="color:red;">chaque mois</mark> avec les partisans ! Vous aurez donc moyen de les faire tous les mois pour remonté dans le classement !
+{% endhint %}
 
+### **3. En affrontant tes ennemies à l'événement BOSSWAR**
 
-**4. En affrontant tes ennemies à l'événement BOSSWAR**
-
-Tu peux parier tes points de classement et affronter tes pires ennemies, donne leur une bonne leçon et tu pourras obtenir leurs points de classements
+Tu peux parier des partisans et affronter tes pires ennemies, donne leur une bonne leçon et tu pourras obtenir leurs partisans
 
 ## Planning des événements&#x20;
 

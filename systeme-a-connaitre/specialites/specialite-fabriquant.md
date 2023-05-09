@@ -1,4 +1,4 @@
-# Spécialité Fabriquant 🔨
+# 🔨 Spécialité Fabriquant
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité fabriquant**</mark>** :**&#x20;
 
@@ -31,7 +31,7 @@
 
 #### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.** 
 
-#### <mark style="color:purple;">Boost exp</mark> de la spécialité fabricant :&#x20;
+### <mark style="color:purple;">Boost exp</mark> de la spécialité fabricant :&#x20;
 
 \
 \
@@ -40,7 +40,7 @@ Niveau 2 : Boost de <mark style="color:purple;">10% de d'exp</mark> de spéciali
 Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spécialité Fabricant. (Cout : 3 points de compétence)\
 
 
-#### Boost de durabilité (Lorsque tu craft un objet à durabilité, <mark style="color:purple;">cela augmente sa durabilité</mark> comme un boost temporaire) :&#x20;
+### Boost de durabilité (Lorsque tu craft un objet à durabilité, <mark style="color:purple;">cela augmente sa durabilité</mark> comme un boost temporaire) :&#x20;
 
 \
 Niveau 1 : <mark style="color:purple;">2% de durabilité</mark> en plus. (Cout : 1 point de compétence) \
@@ -48,18 +48,18 @@ Niveau 2 : <mark style="color:purple;">4% de durabilité</mark> en plus. (Cout :
 Niveau 3 : <mark style="color:purple;">6% de durabilité</mark> en plus. (Cout : 3 points de compétence)\
 
 
-#### Option du <mark style="color:purple;">/craft</mark> :&#x20;
+### Option du <mark style="color:purple;">/craft</mark> :&#x20;
 
 \
 Niveau 1 : Donne accès au <mark style="color:purple;">/craft</mark>. (Cout : 1 point de compétence\
 
 
-#### Craft des <mark style="color:purple;">bagues</mark> :&#x20;
+### Craft des <mark style="color:purple;">bagues</mark> :&#x20;
 
 Niveau 1 : Donne accès aux <mark style="color:purple;">craft des bagues</mark>. (Cout : 1 point de compétence)\
 
 
-#### Récupération de minerais (lorsque tu craft une pièce d'armure en opale, iris (ou iris gemmé), titane (ou titane gemmé), tu as un <mark style="color:purple;">% de chance de récupérer 1 minerai</mark> du même type que l'armure) :&#x20;
+### Récupération de minerais (lorsque tu craft une pièce d'armure en opale, iris (ou iris gemmé), titane (ou titane gemmé), tu as un <mark style="color:purple;">% de chance de récupérer 1 minerai</mark> du même type que l'armure) :&#x20;
 
 \
 Niveau 1 : <mark style="color:purple;">5% de chance</mark> de récupérer un minerai. \

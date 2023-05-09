@@ -20,7 +20,7 @@ Il existe 3 commandes pour ouvrir la Mailbox :&#x20;
 
 
 
-Dans la partie **RESERVE** les items qui y seront stockés seront essentiellement les items que tu auras stocké dans ton sac dans le [monde minage](../guide/serveur-minage.md).
+Dans la partie **RESERVE** les items qui y seront stockés seront essentiellement les items que tu auras stocké dans ton sac dans le [monde minage](broken-reference).
 
 Pour la partie **LOOTS** les items qui y seront stockés seront les items non vendus à l'hôtel des ventes, tes achats à l'hôtel des ventes, tes enchères remportées, tes récompenses d'évents ainsi que tes items de vote en cas de manque de slot libre dans ton inventaire lorsque tu récupères tes récompenses de vote sur le serveur faction.
 
