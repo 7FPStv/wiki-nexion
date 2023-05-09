@@ -100,7 +100,6 @@
 
 ## Aide / FAQ
 
-* [📩 Foire aux questions](aide-faq/foire-aux-questions.md)
 * [📕 Aides](aide-faq/comment-lancer-le-launcher/README.md)
   * [Résolution des problèmes sur le launcher](aide-faq/comment-lancer-le-launcher/guide-launcher.md)
   * [Contacter un membre du staff sur le support](aide-faq/comment-lancer-le-launcher/guide-support.md)
@@ -111,3 +110,4 @@
   * [💴 Avoir de l'argent](aide-faq/techniques-pour-etre-riche/avoir-de-largent.md)
   * [🏰 Protéger sa base](aide-faq/techniques-pour-etre-riche/proteger-sa-base.md)
   * [💥 Piller des bases](aide-faq/techniques-pour-etre-riche/piller-des-bases.md)
+* [📩 Foire aux questions](aide-faq/foire-aux-questions.md)
