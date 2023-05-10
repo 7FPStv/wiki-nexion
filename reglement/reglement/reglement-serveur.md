@@ -38,7 +38,10 @@ Les modifications de vos clients, susceptibles de vous procurer un quelconque av
 Il est interdit d'utiliser différentes plateformes afin de voter au-delà de la limite de vote afin de récupérer plus de récompenses. Vous pouvez voter une fois toutes les 1h30
 
 **1.12 - CRASH CO**\
-Il est interdit d'utiliser des logiciels externes dans le but de modifier sa connexion internet. Ce règlement s'applique aussi bien pour les combats que pour les pillages.
+Il est interdit d'utiliser des logiciels externes dans le but de modifier sa connexion internet. Ce règlement s'applique aussi bien pour les combats que pour les pillages.&#x20;
+
+**1.13 - FREEZE MC**\
+L'utilisation du Freeze MC le fait de rester appuyer sur la barre de sa fenêtre Minecraft permettant de ne plus bouger en jeu est totalement interdit lors d'événement.
 
 ## <mark style="color:red;">2 ➜ Règlement du serveur</mark>
 
