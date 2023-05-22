@@ -4,7 +4,6 @@ description: >-
   découvrir !
 cover: .gitbook/assets/wiki-nexion (1).png
 coverY: 0
-layout: landing
 ---
 
 # Bienvenue sur Nexion
