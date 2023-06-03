@@ -1,6 +1,6 @@
 # 🐷 Elevage
 
-
+<figure><img src="../../.gitbook/assets/cage-vache.png" alt=""><figcaption><p>Interface d'élevage</p></figcaption></figure>
 
 ## **Caisses d'élevages**
 
@@ -17,7 +17,7 @@ Pour lancer un élevage, vous devez donner 2 œufs du même type que la caisse d
 **Placement :** Entoure la cage de 8 bloc d'herbe pour interagir avec.
 {% endhint %}
 
-
+Comment fonctionne les naissances ?
 
 * Lors d'une naissance, vous pouvez avoir entre 1 et 3 animaux qui apparaissent. Vous avez une heure pour les nourrir sinon ils meurent. Lorsqu'ils sont nourris, ils vont dans la caisse d'élevage. (Ce qui augmente votre nombre d'animaux)\
   \

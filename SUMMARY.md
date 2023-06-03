@@ -11,8 +11,8 @@
 ## ━ Mise à jour
 
 * [🌻 Farming Update](mise-a-jour/farming-update/README.md)
-  * [🐷 Elevage](mise-a-jour/farming-update/elevage.md)
   * [👨🌾 Eleveur](mise-a-jour/farming-update/eleveur.md)
+  * [🐷 Elevage](mise-a-jour/farming-update/elevage.md)
 
 ## ━ Règlements <a href="#reglement" id="reglement"></a>
 

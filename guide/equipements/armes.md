@@ -77,7 +77,7 @@ _**Ce sont les épées**_ _**fabricables via la table de**** **<mark style="colo
 **Dégâts** : 10 points d'attaques / **Durabilité** : 4 500\
 
 
-### ![](<../../.gitbook/assets/image (8).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:orange;">Terre</mark>)
+### ![](<../../.gitbook/assets/image (8) (2).png>)  Épée en <mark style="color:yellow;">Titane</mark> améliorée (<mark style="color:orange;">Terre</mark>)
 
 **Dégâts** : 10,5 points d'attaques / **Durabilité** : 7 500\
 
