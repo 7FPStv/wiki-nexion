@@ -10,7 +10,9 @@
 
 ## ━ Mise à jour
 
-* [🧑🌾 Farming Update](mise-a-jour/farming-update.md)
+* [🌻 Farming Update](mise-a-jour/farming-update/README.md)
+  * [🐷 Elevage](mise-a-jour/farming-update/elevage.md)
+  * [👨🌾 Eleveur](mise-a-jour/farming-update/eleveur.md)
 
 ## ━ Règlements <a href="#reglement" id="reglement"></a>
 
@@ -58,7 +60,7 @@
   * [🧙♂ Vaarel](guide/personnage-fictif/vaarel.md)
   * [🪄 Archimage](guide/personnage-fictif/archimage.md)
   * [🔨 Forgeron de sauron](guide/personnage-fictif/forgeron-de-sauron.md)
-  * [🤴 Le roi d'Holbeck](guide/personnage-fictif/le-roi-dholbeck.md)
+  * [🤴 Le roi d'Holbeck](guide/personnage-fictif/le-roi-du-chateau-dholbeck.md)
 * [📜 Les parchemins](guide/les-parchemins.md)
 * [🎪 Les événements](guide/les-evenements/README.md)
   * [🏕 Campements](guide/les-evenements/campements.md)

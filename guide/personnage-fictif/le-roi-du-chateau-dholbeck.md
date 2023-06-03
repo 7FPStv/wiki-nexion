@@ -1,4 +1,4 @@
-# 🤴 Le roi du château d'Holbeck
+# 🤴 Le roi d'Holbeck
 
 Voici le roi d'holbeck, il vous propose des quêtes journalière !
 
