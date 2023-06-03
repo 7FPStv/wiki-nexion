@@ -8,7 +8,7 @@
     * [🎮 3. Commencer à jouer](welcome/installer-et-jouer/3.-commencer-a-jouer.md)
   * [🏰 Découvrir le jeu](welcome/decouvrir-le-jeu.md)
 
-## Mise à jour
+## ━ Mise à jour
 
 * [🧑🌾 Farming Update](mise-a-jour/farming-update.md)
 
@@ -58,7 +58,7 @@
   * [🧙♂ Vaarel](guide/personnage-fictif/vaarel.md)
   * [🪄 Archimage](guide/personnage-fictif/archimage.md)
   * [🔨 Forgeron de sauron](guide/personnage-fictif/forgeron-de-sauron.md)
-  * [🤴 Le roi du château d'Holbeck](guide/personnage-fictif/le-roi-du-chateau-dholbeck.md)
+  * [🤴 Le roi d'Holbeck](guide/personnage-fictif/le-roi-dholbeck.md)
 * [📜 Les parchemins](guide/les-parchemins.md)
 * [🎪 Les événements](guide/les-evenements/README.md)
   * [🏕 Campements](guide/les-evenements/campements.md)
