@@ -20,23 +20,39 @@ Tu dois miner de la pierre pour trouver des minerais vu qu'il n'y a pas de grott
 
 Tu peux aussi rejoindre les serveurs minages avec la commande **`/minage1`** ou **`/minage2`**
 
-![Menu permettant de rejoindre les différents univers](../../.gitbook/assets/78382739388177ec5d3c944599ef234c.jpg)
+<div align="center">
+
+<img src="../../.gitbook/assets/78382739388177ec5d3c944599ef234c.jpg" alt="Menu permettant de rejoindre les différents univers">
+
+</div>
 
 ### Lorsque tu arrives pour la première fois sur le serveur, tu es : <mark style="color:purple;">Mineur au chômage</mark>
 
 Pour monter de niveaux tu dois miner de la pierre ou des minerais. Après chaque niveau passé, tu obtiens un point de compétence. Il te permet d'augmenter tes compétences de mineur.
 
-![Barre d'inventaire : Deux pioches, une pelle, une hache, un seau d'eau, des blocs infini, le sac de ressources et un objet légendaire te permettant d'aller au serveur factions](<../../.gitbook/assets/b443c24cd21c2e81dc1c1283868786e5 (1).png>)
+<div align="center">
+
+<img src="../../.gitbook/assets/b443c24cd21c2e81dc1c1283868786e5 (1).png" alt="Barre d&#x27;inventaire : Deux pioches, une pelle, une hache, un seau d&#x27;eau, des blocs infini, le sac de ressources et un objet légendaire te permettant d&#x27;aller au serveur factions">
+
+</div>
 
 Si tu souhaites transférer tes minerais du **Minage -> Factions** il te suffit simplement de faire un (CLIQUE-GAUCHE) sur ton sac de ressource. Puis il te suffit de déposer tous les objets dans le menu. Evidemment tu ne peux pas déposer tes outils, il reste sur le serveur minage.
 
 Pour récupérer tes ressources il te suffit d'aller sur le serveur factions avec un (CLIQUE-DROIT) sur la Hache légendaire dans ta barre d'inventaire. Et de faire la commande " **/reserve** " pour récupérer les objets directement sur le faction.
 
-![SAC DE RESSOURCE dans ta barre d'inventaire](<../../.gitbook/assets/image (35).png>)
+<div align="center">
 
-![1.  Dépose tes objets dans ce menu&#x20;
-2\.  Fermer le menu&#x20;
-3\.  Rends-toi sur le factions et tape la commande /reserve](<../../.gitbook/assets/image (68).png>)
+<img src="../../.gitbook/assets/image (35).png" alt="SAC DE RESSOURCE dans ta barre d&#x27;inventaire">
+
+</div>
+
+<div align="center">
+
+<img src="../../.gitbook/assets/image (68).png" alt="1.  Dépose tes objets dans ce menu 
+2.  Fermer le menu 
+3.  Rends-toi sur le factions et tape la commande /reserve">
+
+</div>
 
 ### Les niveaux du mineur
 

@@ -10,17 +10,33 @@ Sur la page [<mark style="color:purple;">**JOUER**</mark> ](https://nexion.fr/jo
 
 En téléchargeant le launcher tu dois installer ce qu'on appelle un **SETUP** du launcher, c'est une application pour lancer notre launcher. En cliquant sur le système d'exploitation de ton choix, tu vas télécharger notre application.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Lorsque tu lances le téléchargement du setup, il va s'installer et te permettre d'avoir le launcher.
 
-![Téléchargement du setup NexionGames](../../.gitbook/assets/a3e80de32eb7c640673986b590e02ebe.png)
+<div align="center">
+
+<img src="../../.gitbook/assets/a3e80de32eb7c640673986b590e02ebe.png" alt="Téléchargement du setup NexionGames">
+
+</div>
 
 ## <mark style="color:purple;">\[ETAPE 2]</mark> Ouvrir le launcher NexionGames
 
 Une fois le téléchargement du setup fini, tu peux ouvrir le launcher. Il s'ouvre souvent seul la première fois. I**l se trouve souvent sur le bureau**, si tu ne le trouves pas tu peux aller le rechercher.&#x20;
 
-![Si vous n'avez rien, vous pouvez le rechercher en appuyant sur la touche Windows, ou en faisant une recherche : "nexiongames"](<../../.gitbook/assets/Sans titre - 1.png>) ![Sur le bureau, vous pouvez voir qu'une nouvelle icone est apparu -> c'est le launcher de NexionGames.](../../.gitbook/assets/98d19ebc5441c06627479c07cdde2174.png)
+<div align="center">
+
+<img src="../../.gitbook/assets/Sans titre - 1.png" alt="Si vous n&#x27;avez rien, vous pouvez le rechercher en appuyant sur la touche Windows, ou en faisant une recherche : &#x22;nexiongames&#x22;">
+
+ 
+
+<img src="../../.gitbook/assets/98d19ebc5441c06627479c07cdde2174.png" alt="Sur le bureau, vous pouvez voir qu&#x27;une nouvelle icone est apparu -> c&#x27;est le launcher de NexionGames.">
+
+</div>
 
 Maintenant, tu lances le launcher pour la première fois. Tu vas arriver sur le menu du launcher. Expliquons maintenant, la barre de menu tout en haut du launcher.
 

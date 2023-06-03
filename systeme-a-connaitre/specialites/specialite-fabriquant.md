@@ -4,26 +4,7 @@
 
 
 
-| Casque en iris                | Plastron en iris          | Jambière en iris                     | Bottes en iris                 |
-| ----------------------------- | ------------------------- | ------------------------------------ | ------------------------------ |
-| Casque en iris gemmé          | Plastron en iris gemmé    | Jambière en iris gemmé               | Bottes en iris gemmé           |
-| Casque en titane              | Plastron en titane        | Jambière en titane                   | Bottes en titane               |
-| Casque en titane gemmé        | Plastron en titane gemmé  | Jambière en titane gemmé             | Bottes en titane gemmé         |
-| Epée en iris                  | Epée en iris gemmé        | Epée en titane                       | Epée en titane gemmé           |
-| Pelle en iris                 | Hache en iris             | Pioche en iris                       | Pelle en titane                |
-| Hache en titane               | Pioche en titane          | Casque de farm                       | Plastron de farm               |
-| Jambière de farm              | Bottes de farm            | Casque de recherche                  | Plastron de recherche          |
-| Jambières de recherche        | Bottes de recherche       | Casque de Mana                       |  Plastron de Mana              |
-| Jambière de Mana              | Bottes de Mana            | Table de craft gemmé                 | Gemme                          |
-| Pioche de richesse            | Pioche de richesse gemmé  | Pioche à obsidienne                  | Grimoire                       |
-| Forge                         | Mini-baguette Magique     | Baguette Magique                     | Poudre légendaire (Niveau 1)   |
-| Poudre légendaire (Niveau 2)  | Canne à pêche magique     | Manuscrit                            | Obsidienne renforcée           |
-| Terre boost                   | TNT Magique               | TNT Répulsive                        | Creeper                        |
-| Super Creeper                 | Creeper Aquatique         | Creeper à lave                       | Explorateur de coffre en opale |
-| Explorateur de coffre en iris | Faucille Abyssal          | Faucille en Titane                   | Masse                          |
-| Potion de force améliorée     | Potion de speed améliorée | Potion de résistance au feu amélioré | Sac de farm                    |
-| Sac du chasseur               | Chaudron Magique          | Coffre en Opale                      | Coffre en Iris                 |
-| Coffre en Titane              |                           |                                      |                                |
+<table><thead><tr><th width="165">Casque en iris</th><th width="191">Plastron en iris</th><th width="193">Jambière en iris</th><th>Bottes en iris</th></tr></thead><tbody><tr><td>Casque en iris gemmé</td><td>Plastron en iris gemmé</td><td>Jambière en iris gemmé</td><td>Bottes en iris gemmé</td></tr><tr><td>Casque en titane</td><td>Plastron en titane</td><td>Jambière en titane</td><td>Bottes en titane</td></tr><tr><td>Casque en titane gemmé</td><td>Plastron en titane gemmé</td><td>Jambière en titane gemmé</td><td>Bottes en titane gemmé</td></tr><tr><td>Epée en iris</td><td>Epée en iris gemmé</td><td>Epée en titane</td><td>Epée en titane gemmé</td></tr><tr><td>Pelle en iris</td><td>Hache en iris</td><td>Pioche en iris</td><td>Pelle en titane</td></tr><tr><td>Hache en titane</td><td>Pioche en titane</td><td>Casque de farm</td><td>Plastron de farm</td></tr><tr><td>Jambière de farm</td><td>Bottes de farm</td><td>Casque de recherche</td><td>Plastron de recherche</td></tr><tr><td>Jambières de recherche</td><td>Bottes de recherche</td><td>Casque de Mana</td><td> Plastron de Mana</td></tr><tr><td>Jambière de Mana</td><td>Bottes de Mana</td><td>Table de craft gemmé</td><td>Gemme</td></tr><tr><td>Pioche de richesse</td><td>Pioche de richesse gemmé</td><td>Pioche à obsidienne</td><td>Grimoire</td></tr><tr><td>Forge</td><td>Mini-baguette Magique</td><td>Baguette Magique</td><td>Poudre légendaire (Niveau 1)</td></tr><tr><td>Poudre légendaire (Niveau 2)</td><td>Canne à pêche magique</td><td>Manuscrit</td><td>Obsidienne renforcée</td></tr><tr><td>Terre boost</td><td>TNT Magique</td><td>TNT Répulsive</td><td>Creeper</td></tr><tr><td>Super Creeper</td><td>Creeper Aquatique</td><td>Creeper à lave</td><td>Explorateur de coffre en opale</td></tr><tr><td>Explorateur de coffre en iris</td><td>Faucille Abyssal</td><td>Faucille en Titane</td><td>Masse</td></tr><tr><td>Potion de force améliorée</td><td>Potion de speed améliorée</td><td>Potion de résistance au feu amélioré</td><td>Sac de farm</td></tr><tr><td>Sac du chasseur</td><td>Chaudron Magique </td><td>Coffre en Opale</td><td>Coffre en Iris</td></tr><tr><td>Coffre en Titane</td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

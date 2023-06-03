@@ -4,12 +4,7 @@
 
 
 
-| Récolter du blé                                                  | Récolter des Mûres/Myrtilles          | Récolter du Cacao                                    | Récolter des carottes                                |
-| ---------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| Récolter des patates                                             | Récolter de la nether warts           | Récolter de la pastèques                             | Récolter de la citrouille                            |
-| Récolter sur Des buissons de Niveau 1                            | Récolter sur Des buissons de Niveau 2 | Récolter des pastèque de Niveau 2                    | Récolter des citrouilles de Niveau 2                 |
-| Récolter du tabac                                                | Récolter des buissons moisis          | Faire évoluer une plantation du niveau 0 au niveau 1 | Faire évoluer une plantation du niveau 1 au niveau 2 |
-| Utilisation de la houe de replantation : Donne 10% d'exp en plus |                                       |                                                      |                                                      |
+<table><thead><tr><th width="185">Récolter du blé </th><th width="191">Récolter des Mûres/Myrtilles</th><th width="172">Récolter du Cacao</th><th>Récolter des carottes</th></tr></thead><tbody><tr><td>Récolter des patates</td><td>Récolter de la nether warts</td><td>Récolter de la pastèques</td><td>Récolter de la citrouille</td></tr><tr><td>Récolter sur Des buissons de Niveau 1</td><td>Récolter sur Des buissons de Niveau 2</td><td>Récolter des pastèque de Niveau 2</td><td>Récolter des citrouilles de Niveau 2</td></tr><tr><td>Récolter du tabac</td><td>Récolter des buissons moisis</td><td>Faire évoluer une plantation du niveau 0 au niveau 1</td><td>Faire évoluer une plantation du niveau 1 au niveau 2</td></tr><tr><td>Utilisation de la houe de replantation : Donne 10% d'exp en plus</td><td></td><td></td><td></td></tr></tbody></table>
 
 ####
 

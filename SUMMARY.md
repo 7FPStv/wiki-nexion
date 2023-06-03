@@ -8,6 +8,10 @@
     * [🎮 3. Commencer à jouer](welcome/installer-et-jouer/3.-commencer-a-jouer.md)
   * [🏰 Découvrir le jeu](welcome/decouvrir-le-jeu.md)
 
+## Mise à jour
+
+* [🧑🌾 Farming Update](mise-a-jour/farming-update.md)
+
 ## ━ Règlements <a href="#reglement" id="reglement"></a>
 
 * [📕 Règlement](reglement/reglement/README.md)

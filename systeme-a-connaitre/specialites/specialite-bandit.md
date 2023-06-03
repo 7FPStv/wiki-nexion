@@ -6,11 +6,7 @@ Pour avoir accès à la spécialité bandit, il faut passer le niveau 160 !
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité épique**</mark>** :**
 
-| Poser un creeper                                   | Poser un super creeper            | Poser un creeper aquatique                  |                                           |
-| -------------------------------------------------- | --------------------------------- | ------------------------------------------- | ----------------------------------------- |
-| Poser un creeper à lave                            | Faire exploser une tnt au briquet | Faire exploser une tnt répulsive au briquet | Faire exploser une tnt magique au briquet |
-| Utiliser un explorateur de coffre en opale ou iris | Faire exploser un coffre en opale | Faire exploser un coffre en iris            | Faire exploser un coffre en titane        |
-| Réussir à arnaquer le chef des gobelin             |                                   |                                             |                                           |
+<table><thead><tr><th width="179.18438761776582">Poser un creeper</th><th width="181">Poser un super creeper </th><th width="186">Poser un creeper aquatique </th><th></th></tr></thead><tbody><tr><td>Poser un creeper à lave</td><td>Faire exploser une tnt au briquet</td><td>Faire exploser une tnt répulsive au briquet</td><td>Faire exploser une tnt magique au briquet</td></tr><tr><td>Utiliser un explorateur de coffre en opale ou iris</td><td>Faire exploser un coffre en opale</td><td>Faire exploser un coffre en iris</td><td>Faire exploser un coffre en titane</td></tr><tr><td>Réussir à arnaquer le chef des gobelin </td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

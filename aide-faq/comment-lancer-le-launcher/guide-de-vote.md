@@ -61,7 +61,15 @@ En haut à gauche se trouve le nombre point shop dont tu disposes&#x20;
 Tu dois être connecté en faction pour pouvoir acheter une récompense
 {% endhint %}
 
-![Boutique point shop](<../../.gitbook/assets/Sans titre (1).png>) ![Point shop dont tu disposes](<../../.gitbook/assets/Sans titre (3).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/Sans titre (1).png" alt="Boutique point shop">
+
+ 
+
+<img src="../../.gitbook/assets/Sans titre (3).png" alt="Point shop dont tu disposes">
+
+</div>
 
 
 

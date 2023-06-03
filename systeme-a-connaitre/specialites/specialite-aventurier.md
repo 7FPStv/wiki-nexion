@@ -6,11 +6,7 @@ Pour avoir accès à la spécialité aventurier, il faut passer le niveau 80 !
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité aventurier**</mark>** :**&#x20;
 
-| Faire un échange avec Sanlin               | Faire un échange avec Sammen           | Faire un échange avec Uwald                        | Capturé une reine des abeilles  |
-| ------------------------------------------ | -------------------------------------- | -------------------------------------------------- | ------------------------------- |
-| Tuer des abeilles                          | Finir une quête du roi                 | Tuer des goblins                                   | Drop un talisman voleur         |
-| Faire un échange avec le chef des goblins  | Réussir à arnaquer le chef des goblins | Trouver Vaarel lors de son apparition le week-end  | Récolter du miel dans une ruche |
-| Récolter du raisin dans la cité de holbeck |                                        |                                                    |                                 |
+<table><thead><tr><th width="174.52837843353612">Faire un échange avec Sanlin </th><th width="182.99163256304848">Faire un échange avec Sammen </th><th width="184.67703464218897">Faire un échange avec Uwald </th><th>Capturé une reine des abeilles</th></tr></thead><tbody><tr><td>Tuer des abeilles</td><td>Finir une quête du roi</td><td>Tuer des goblins</td><td>Drop un talisman voleur</td></tr><tr><td>Faire un échange avec le chef des goblins</td><td>Réussir à arnaquer le chef des goblins</td><td>Trouver Vaarel lors de son apparition le week-end </td><td>Récolter du miel dans une ruche</td></tr><tr><td>Récolter du raisin dans la cité de holbeck</td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

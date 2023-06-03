@@ -8,14 +8,7 @@ Pour avoir accès à la spécialité guerrier, il faut passer le niveau 20 !
 
 
 
-| Tuer zombie                            | Tuer skeleton                          | Tuer araignée                            | Tuer pigzombie                                                |
-| -------------------------------------- | -------------------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
-| Tuer enderman                          | Tuer creeper                           | Tuer guerrier                            | Tuer chef de campements                                       |
-| Tuer eldritch                          | Tuer goblin                            | Tuer mort vivant                         | Tuer disciple                                                 |
-| Tuer vache                             | Tuer mouton                            | Tuer cochon                              | Tuer poulet                                                   |
-| Tuer archer du campement               | Tuer Healer                            | Gagner un campement                      | Fusionner une armure ou une épée avec une gemme dans la forge |
-| Enchant un livre/épée/armure niveau 30 | Consommer une potion de force amélioré | Consommer une potion de vitesse amélioré |  Consommer une potion de résistance au feu amélioré           |
-| Consommer une pomme dorée              | Consommer une pomme                    |                                          |                                                               |
+<table><thead><tr><th width="176">Tuer zombie</th><th width="176">Tuer skeleton</th><th width="183">Tuer araignée</th><th>Tuer pigzombie</th></tr></thead><tbody><tr><td>Tuer enderman</td><td>Tuer creeper</td><td>Tuer guerrier</td><td>Tuer chef de campements</td></tr><tr><td>Tuer eldritch</td><td>Tuer goblin</td><td>Tuer mort vivant</td><td>Tuer disciple</td></tr><tr><td>Tuer vache</td><td>Tuer mouton</td><td>Tuer cochon</td><td>Tuer poulet</td></tr><tr><td>Tuer archer du campement</td><td>Tuer Healer</td><td>Gagner un campement</td><td>Fusionner une armure ou une épée avec une gemme dans la forge</td></tr><tr><td>Enchant un livre/épée/armure niveau 30</td><td>Consommer une potion de force amélioré</td><td>Consommer une potion de vitesse amélioré</td><td> Consommer une potion de résistance au feu amélioré</td></tr><tr><td>Consommer une pomme dorée</td><td>Consommer une pomme</td><td></td><td></td></tr></tbody></table>
 
 
 

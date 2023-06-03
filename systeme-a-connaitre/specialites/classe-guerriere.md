@@ -2,11 +2,7 @@
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité mineur**</mark>&#x20;
 
-| Miner de l'opale           | Miner de l'iris        | Miner du titane       | Miner un random ore |
-| -------------------------- | ---------------------- | --------------------- | ------------------- |
-| Miner un random ore gemme  | Miner du mana          | Miner du lapis        | Miner du charbon    |
-| Miner un minerais d'exp    | Miner de l'or corrompu | Miner de la redstone  | Miner du lapis      |
-| Cuir de l'or               | Cuir du fer            | Miner de l'émeraude   | Miner du diamant    |
+<table><thead><tr><th width="190">Miner de l'opale</th><th width="178">Miner de l'iris</th><th width="176">Miner du titane</th><th>Miner un random ore</th></tr></thead><tbody><tr><td>Miner un random ore gemme </td><td>Miner du mana</td><td>Miner du lapis </td><td>Miner du charbon</td></tr><tr><td>Miner un minerais d'exp </td><td>Miner de l'or corrompu</td><td>Miner de la redstone </td><td>Miner du lapis </td></tr><tr><td>Cuir de l'or</td><td>Cuir du fer</td><td>Miner de l'émeraude</td><td>Miner du diamant</td></tr></tbody></table>
 
 
 

@@ -6,10 +6,7 @@ Pour avoir accès à la spécialité social, il faut passer le niveau 60 !
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité social**</mark>** :** &#x20;
 
-| Faire un échange commun avec Guldor      | Faire un échange légendaire avec Guldor  | Faire un échange commun avec Rodlug | Faire un échange rare avec Rodlug           |
-| ---------------------------------------- | ---------------------------------------- | ----------------------------------- | ------------------------------------------- |
-| Faire un échange légendaire avec Rodlug  | Faire un échange avec le chef des Goblin | Débloquer un objet de collection    | Réaliser un objectif chez le collectionneur |
-| Faire un échange avec un pnj Magique     | Faire un échange avec un pnj normal      | Faire un échange avec l'archimage   | Mettre une poudre dans une bague            |
+<table><thead><tr><th width="175">Faire un échange commun avec Guldor</th><th width="166">Faire un échange légendaire avec Guldor</th><th width="183">Faire un échange commun avec Rodlug</th><th>Faire un échange rare avec Rodlug </th></tr></thead><tbody><tr><td>Faire un échange légendaire avec Rodlug </td><td>Faire un échange avec le chef des Goblin</td><td>Débloquer un objet de collection</td><td>Réaliser un objectif chez le collectionneur</td></tr><tr><td>Faire un échange avec un pnj Magique</td><td>Faire un échange avec un pnj normal</td><td>Faire un échange avec l'archimage</td><td>Mettre une poudre dans une bague</td></tr></tbody></table>
 
 
 

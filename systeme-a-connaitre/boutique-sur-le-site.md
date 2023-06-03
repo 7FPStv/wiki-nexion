@@ -12,9 +12,17 @@ Pour tout achat sur la boutique, il vous faut posséder des **crédits** aussi a
 
 Pour créditer votre compte est avoir des **crédits** vous pouvez cliquer sur le bouton en dessous pour <mark style="color:purple;">**\[ACHETER DES CRÉDITS]**</mark>
 
-![](../.gitbook/assets/crédits.png)
+<div align="center">
 
-![](<../.gitbook/assets/acheter des crédits.png>)
+<img src="../.gitbook/assets/crédits.png" alt="">
+
+</div>
+
+<div align="center">
+
+<img src="../.gitbook/assets/acheter des crédits.png" alt="">
+
+</div>
 
 Le prix de chaque article est inscrit en haut à droite de l'article souhaiter.
 

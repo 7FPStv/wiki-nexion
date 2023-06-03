@@ -6,12 +6,7 @@ Pour avoir accès à la spécialité dimension, il faut passer le niveau 50 !
 
 #### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité Dimension**</mark>
 
-| Créer de l'or pur via le puits magique                    | Craft pièce d'or corrompu                             | Trouver Rodlug lors de son apparition le Week-End   | Récupérer des poudres au sol                        |
-| --------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
-| Mettre une poudre dans une bague                          | Tuer des enderman dans la dimension magique           | Tuer des creeper dans la dimension magique          | Tuer des morts vivant dans la dimension magique     |
-| Casser des buissons de baies moisies                      | Miner de l'or corrompu                                | Créer une bague avec le forgeron de sauron          | Réparer une bague avec le forgeron de sauron        |
-| Craft une bague                                           | Pêcher un objet commun dans les sources d'eau magique | Pêcher un objet rare dans les sources d'eau magique | Pêcher un objet épic dans les sources d'eau magique |
-| Pêcher un objet légendaire dans les sources d'eau magique |                                                       |                                                     |                                                     |
+<table><thead><tr><th width="191">Créer de l'or pur via le puits magique</th><th width="169">Craft pièce d'or corrompu </th><th width="188">Trouver Rodlug lors de son apparition le Week-End</th><th>Récupérer des poudres au sol</th></tr></thead><tbody><tr><td>Mettre une poudre dans une bague</td><td>Tuer des enderman dans la dimension magique</td><td>Tuer des creeper dans la dimension magique</td><td>Tuer des morts vivant dans la dimension magique</td></tr><tr><td>Casser des buissons de baies moisies</td><td>Miner de l'or corrompu</td><td>Créer une bague avec le forgeron de sauron</td><td>Réparer une bague avec le forgeron de sauron </td></tr><tr><td>Craft une bague</td><td>Pêcher un objet commun dans les sources d'eau magique</td><td>Pêcher un objet rare dans les sources d'eau magique</td><td>Pêcher un objet épic dans les sources d'eau magique</td></tr><tr><td>Pêcher un objet légendaire dans les sources d'eau magique</td><td></td><td></td><td></td></tr></tbody></table>
 
 <mark style="color:purple;">Utiliser la faucille abyssale</mark> (Donne un bonus de 10% d'xp lorsque tu casses une poudre, un buisson moisis ou un minerai d'or corrompu) \
 

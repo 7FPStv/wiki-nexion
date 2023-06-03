@@ -7,14 +7,7 @@ Pour avoir accès à la spécialité marchand, il faut passer le niveau 10 !\
 
 ### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité marchand**</mark>** :**&#x20;
 
-| Vendre mûres                 | Vendre myrtilles           | Vendre pastèques        | Vendre citrouilles               |
-| ---------------------------- | -------------------------- | ----------------------- | -------------------------------- |
-| Vendre patates               | Vendre carottes            | Vendre canne à sucre    | Vendre blé                       |
-| Vendre cacao                 | Vendre nether warts        | Vendre baie légendaire  | Vendre baie moisis               |
-| Vendre citrouille légendaire | Vendre melon légendaire    | Vendre os               | Vendre flèche                    |
-| Vendre ficelle               | Vendre oeil d'araignée     | Vendre plume            | Vendre : chair putréfié          |
-| Vendre poudre de creeper     | Acheter creeper            | Acheter Chaudron        | Acheter ticket du collectionneur |
-| Acheter boule de slime       | Gagner une enchère commune | Gagner une enchère rare | Gagner une enchère légendaire    |
+<table><thead><tr><th width="183">Vendre mûres</th><th width="189">Vendre myrtilles</th><th width="177">Vendre pastèques</th><th>Vendre citrouilles</th></tr></thead><tbody><tr><td>Vendre patates</td><td>Vendre carottes</td><td>Vendre canne à sucre</td><td>Vendre blé</td></tr><tr><td>Vendre cacao</td><td>Vendre nether warts</td><td>Vendre baie légendaire</td><td>Vendre baie moisis</td></tr><tr><td>Vendre citrouille légendaire</td><td>Vendre melon légendaire</td><td>Vendre os</td><td>Vendre flèche</td></tr><tr><td>Vendre ficelle</td><td>Vendre oeil d'araignée</td><td>Vendre plume</td><td>Vendre : chair putréfié</td></tr><tr><td>Vendre poudre de creeper</td><td>Acheter creeper</td><td>Acheter Chaudron</td><td>Acheter ticket du collectionneur</td></tr><tr><td>Acheter boule de slime</td><td>Gagner une enchère commune</td><td>Gagner une enchère rare</td><td>Gagner une enchère légendaire</td></tr></tbody></table>
 
 
 
