@@ -7,7 +7,7 @@ _**Ce sont les pioches**_ _**fabricables via la table de fabrication classique.*
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (2).png>)  Pioche en <mark style="color:blue;">Opale</mark> ![](../../.gitbook/assets/opale\_pickaxe.png)
+### ![](<../../.gitbook/assets/image (2) (2).png>)  Pioche en <mark style="color:blue;">Opale</mark> ![](../../.gitbook/assets/opale\_pickaxe.png)
 
 **Durabilité** : 3 200
 {% endhint %}

@@ -8,7 +8,7 @@ L'évent dure 20 minutes !
 
 #### Il consiste à capturer <mark style="color:red;">3</mark> <mark style="color:red;">zones</mark> différentes _( une principale et deux secondaires )_&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>HUD du Conquest</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>HUD du Conquest</p></figcaption></figure>
 
 \
 Parlons dans un premier temps <mark style="color:orange;">des zones Secondaires</mark>, ses zones offrent <mark style="color:orange;">moins de points</mark> _(1 point / seconde)_ que la zone principale pendant la capture mais des items vont <mark style="color:red;">tomber au sol</mark> sur ses zones !
