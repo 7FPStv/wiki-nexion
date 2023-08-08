@@ -13,7 +13,7 @@
 * [🌻 Farming Update](mise-a-jour/farming-update/README.md)
   * [👨🌾 Eleveur](mise-a-jour/farming-update/eleveur.md)
   * [🐷 Elevage](mise-a-jour/farming-update/elevage.md)
-  * [🌾 Agricultures/Ressources](mise-a-jour/farming-update/agricultures-ressources.md)
+  * [🌾 Ressources](mise-a-jour/farming-update/ressources.md)
   * [🆕 Autres fonctionnalités](mise-a-jour/farming-update/autres-fonctionnalites.md)
 
 ## ━ Règlements <a href="#reglement" id="reglement"></a>

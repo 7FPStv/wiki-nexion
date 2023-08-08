@@ -10,7 +10,7 @@ Des personnages propres à l'univers de Holbeck présent dans la ville principal
 Se PNJ vous offrira en échange de <mark style="color:orange;">chaque</mark> potion améliorée, <mark style="color:red;">une Multi Potion</mark> !&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Uwald
 

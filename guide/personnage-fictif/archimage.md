@@ -6,7 +6,7 @@ L'archimage est un pnj <mark style="color:purple;">disponible au spawn</mark> a 
 
 En cliquant dessus nous avons accès à cette interface :&#x20;
 
-![](<../../.gitbook/assets/image (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 Plusieurs chose a noté, a gauche on peut voir que plus on fait <mark style="color:purple;">des échange</mark> de suite avec lui, plus l'on <mark style="color:purple;">obtient d'expérience</mark>. \
 A droite, l'item à <mark style="color:purple;">trade</mark> et le gain d'xp par item.\
