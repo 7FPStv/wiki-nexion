@@ -14,6 +14,12 @@ layout:
 
 # 📕 Aides
 
-Centre d'aide&#x20;
+## Besoin d'aide ? Nous sommes là pour vous aider.
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td>4</td></tr><tr><td></td><td></td><td></td><td>3</td></tr><tr><td></td><td></td><td></td><td>1</td></tr></tbody></table>
+Des paramètres de votre compte aux permissions, vous trouverez de l'aide pour tout votre Discord.\
+Si vous êtes nouveau sur Nexion et à la recherche d'astuces, consultez notre Guide du débutant!
+
+
+
+
+
