@@ -1,13 +1,17 @@
 # ⚔ Factions
 
-{% hint style="info" %}
-Le plugin Factions permet aux joueurs de <mark style="color:orange;">se regrouper</mark> au sein d'<mark style="color:red;">une faction</mark> commune et d'un canal de discussion privé. \
-Les factions peuvent <mark style="color:orange;">revendiquer</mark> des terres, établir leurs propres relations diplomatiques, mettre de leurs ressources en commun dans les coffres de faction et construire une base protégée.
-{% endhint %}
+## Qu'est ce que le faction ?
 
-{% hint style="info" %}
-Les chefs de faction <mark style="color:orange;">contrôlent qui</mark> peut modifier leur terrain, ouvrir des coffres, utiliser des portes et bien plus encore ! En établissant des relations <mark style="color:red;">uniques</mark> à votre faction, vous pouvez déclarer la guerre pour construire l'héritage de votre faction !
-{% endhint %}
+Le plugin Faction est un ajout populaire qui permet aux joueurs de créer des clans ou des factions pour collaborer, se défendre mutuellement et conquérir des territoires sur le serveur. Voici quelques-unes des principales fonctionnalités de ce plugin.
+
+* **Création de Factions** : Les joueurs peuvent créer leurs propres factions en jeu. Cela leur permet de s'allier avec d'autres joueurs et de partager des ressources, des bases et des territoires. `(/f create Faction)`
+* **Territoires** : Chaque faction peut revendiquer un territoire sur la carte du serveur. Les territoires sont souvent délimités par des frontières invisibles, et seuls les membres de la faction peuvent construire et interagir dans leur propre territoire. `(/f claim)`
+* **Gestion des Membres** : Les chefs de faction peuvent gérer les membres de leur faction, en les invitant, les promouvant, les excluant, ou en leur attribuant des rôles spécifiques avec des autorisations personnalisées.
+* **Guerres de Factions** : Les factions peuvent se déclarer la guerre les unes aux autres. Cela peut déclencher des combats en PvP (joueur contre joueur) dans les territoires en litige.
+* **Alliances** : Les factions peuvent également former des alliances pour travailler ensemble dans des objectifs communs, comme la défense contre des factions ennemies.
+* **Extensions de Territoire** : Les factions peuvent conquérir de nouveaux territoires en élargissant leur influence et en gagnant des points de pouvoir grâce à diverses activités.
+
+Une dimension sociale et stratégique au jeu, en encourageant la collaboration, la compétition et les interactions entre les joueurs. Il est utilisé par notre communauté pour créer des dynamiques et des conflits palpitants.
 
 ## Les rangs
 
