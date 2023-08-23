@@ -12,11 +12,13 @@ layout:
     visible: false
 ---
 
-# Untitled
+# Maintenance
 
 ##
 
 ## **Le wiki est en maintenance.**
 
-&#x20;**Nous sommes en train de travailler dessus durant la fermeture de notre version 6.**\
+**Nous sommes en train de travailler dessus durant la fermeture de notre version 6. Tu peux toujours y accéder mais tu auras surement des pages incomplètes ou même des changements de design.**
+
+\
 **N'hésitez pas si vous souhaitez nous faire un feedback faites le sur** [<mark style="color:purple;">**Discord**</mark>](https://discord.nexion.fr/)**.**

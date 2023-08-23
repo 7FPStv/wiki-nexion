@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Maintenance](README.md)
 * [Bienvenue sur Nexion](<README (1).md>)
   * [📥 Installer et jouer](welcome/installer-et-jouer/README.md)
     * [👤 1. Créer ton compte](welcome/installer-et-jouer/1.-creer-ton-compte.md)
