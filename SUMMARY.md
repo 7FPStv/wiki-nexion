@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Bienvenue sur Nexion](README.md)
-  * [🔗 Informations](welcome/informations.md)
   * [📥 Installer et jouer](welcome/installer-et-jouer/README.md)
     * [👤 1. Créer ton compte](welcome/installer-et-jouer/1.-creer-ton-compte.md)
     * [📥 2. Télécharger le launcher](welcome/installer-et-jouer/commencer-son-aventure-des-maintenant.md)
@@ -16,13 +15,14 @@
   * [🌾 Ressources](mise-a-jour/farming-update/ressources.md)
   * [🆕 Autres fonctionnalités](mise-a-jour/farming-update/autres-fonctionnalites.md)
 
-## ━ Règlements <a href="#reglement" id="reglement"></a>
+## Informations
 
-* [📕 Règlement](reglement/reglement/README.md)
-  * [Règlement serveur](reglement/reglement/reglement-serveur.md)
-  * [Règlement avant-postes](reglement/reglement/reglement-avant-postes.md)
-  * [Règlement partenariat](reglement/reglement/reglement-partenariat.md)
-  * [Liste des sanctions](reglement/reglement/liste-des-sanctions.md)
+* [📕 Règlement](informations/reglement/README.md)
+  * [Règlement serveur](informations/reglement/reglement-serveur.md)
+  * [Règlement avant-postes](informations/reglement/reglement-avant-postes.md)
+  * [Règlement partenariat](informations/reglement/reglement-partenariat.md)
+  * [Liste des sanctions](informations/reglement/liste-des-sanctions.md)
+* [🔗 Liens utiles](informations/liens-utiles.md)
 
 ## ━ Guide du serveur <a href="#guide" id="guide"></a>
 
@@ -106,16 +106,16 @@
 * [📫 Mailbox](systeme-a-connaitre/mailbox.md)
 * [🧪 Convertisseur d'expérience](systeme-a-connaitre/convertisseur-dexperience.md)
 
-## Aide / FAQ
+## 🆘 Assistance
 
-* [📕 Aides](aide-faq/comment-lancer-le-launcher/README.md)
-  * [Résolution des problèmes sur le launcher](aide-faq/comment-lancer-le-launcher/guide-launcher.md)
-  * [Contacter un membre du staff sur le support](aide-faq/comment-lancer-le-launcher/guide-support.md)
-  * [Comment changer de skin et le customiser](aide-faq/comment-lancer-le-launcher/guide-de-skin.md)
-  * [Comment changer son mot de passe sur le site / en jeu](aide-faq/comment-lancer-le-launcher/comment-changer-son-mot-de-passe-sur-le-site-en-jeux.md)
-  * [Guide pour voter et recevoir des récompenses](aide-faq/comment-lancer-le-launcher/guide-de-vote.md)
-* [📗 Astuces](aide-faq/techniques-pour-etre-riche/README.md)
-  * [💴 Avoir de l'argent](aide-faq/techniques-pour-etre-riche/avoir-de-largent.md)
-  * [🏰 Protéger sa base](aide-faq/techniques-pour-etre-riche/proteger-sa-base.md)
-  * [💥 Piller des bases](aide-faq/techniques-pour-etre-riche/piller-des-bases.md)
-* [📩 Foire aux questions](aide-faq/foire-aux-questions.md)
+* [📕 Aides](assistance/comment-lancer-le-launcher/README.md)
+  * [Résolution des problèmes sur le launcher](assistance/comment-lancer-le-launcher/guide-launcher.md)
+  * [Contacter un membre du staff sur le support](assistance/comment-lancer-le-launcher/guide-support.md)
+  * [Comment changer de skin et le customiser](assistance/comment-lancer-le-launcher/guide-de-skin.md)
+  * [Comment changer son mot de passe sur le site / en jeu](assistance/comment-lancer-le-launcher/comment-changer-son-mot-de-passe-sur-le-site-en-jeux.md)
+  * [Guide pour voter et recevoir des récompenses](assistance/comment-lancer-le-launcher/guide-de-vote.md)
+* [📗 Astuces](assistance/techniques-pour-etre-riche/README.md)
+  * [💴 Avoir de l'argent](assistance/techniques-pour-etre-riche/avoir-de-largent.md)
+  * [🏰 Protéger sa base](assistance/techniques-pour-etre-riche/proteger-sa-base.md)
+  * [💥 Piller des bases](assistance/techniques-pour-etre-riche/piller-des-bases.md)
+* [📩 Foire aux questions](assistance/foire-aux-questions.md)

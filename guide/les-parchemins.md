@@ -33,7 +33,7 @@ Je vais donc te les énumérer ci-dessous.\
 * [Guldor](personnage-fictif/guldor.md)
 * [Rodlug](personnage-fictif/rodlug.md)
 * [Vaarel](personnage-fictif/vaarel.md)
-* Les [votes](../aide-faq/comment-lancer-le-launcher/guide-de-vote.md)
+* Les [votes](../assistance/comment-lancer-le-launcher/guide-de-vote.md)
 * Dans la compétence de [spécialité social](../systeme-a-connaitre/specialites/specialite-social.md) "trésor"
 * Les villageois magiques&#x20;
 * La pêche magique

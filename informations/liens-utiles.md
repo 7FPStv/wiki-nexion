@@ -1,10 +1,4 @@
-# 🔗 Informations
-
-## Liens utiles
-
-🔗 Voici divers liens utiles permettant de t'accompagner dans ton aventure, pour qu'il n'y ait aucun problème, et permettre de te faire vivre dans cette grande et belle communauté dans l'univers de Nexion.&#x20;
-
-
+# 🔗 Liens utiles
 
 [💻 Site internet - nexion.fr](https://nexion.fr/)
 
@@ -24,4 +18,4 @@
 
 [🚩 Partenariat YouTube](https://nexion.fr/partner) (Faire une demande pour devenir partenaire)
 
-[📮 Voter pour le serveur](https://nexion.fr/vote) (TOP Serveur Minecraft)\
+[📮 Voter pour le serveur](https://nexion.fr/vote) (Site de vote de serveur Minecraft)\

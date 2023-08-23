@@ -65,5 +65,5 @@ Si c'est la première fois que tu lances le launcher tu auras une mise à jour q
 {% hint style="danger" %}
 <mark style="color:red;">**POUR TOUT PROBLEME DE TELECHARGEMENT DE LAUNCHER !**</mark>
 
-Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:red;">**\[->Problème launcher\]**</mark>](../../aide-faq/comment-lancer-le-launcher/guide-launcher.md)
+Nous avons un guide pour t'aider si jamais tu rencontres un problèmes lors du téléchargement du jeu en cliquant sur le bouton suivant : [<mark style="color:red;">**\[->Problème launcher\]**</mark>](../../assistance/comment-lancer-le-launcher/guide-launcher.md)
 {% endhint %}
