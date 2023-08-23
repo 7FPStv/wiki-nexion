@@ -17,12 +17,12 @@
 
 ## Informations
 
+* [🔗 Liens utiles](informations/liens-utiles.md)
 * [📕 Règlement](informations/reglement/README.md)
   * [Règlement serveur](informations/reglement/reglement-serveur.md)
   * [Règlement avant-postes](informations/reglement/reglement-avant-postes.md)
   * [Règlement partenariat](informations/reglement/reglement-partenariat.md)
   * [Liste des sanctions](informations/reglement/liste-des-sanctions.md)
-* [🔗 Liens utiles](informations/liens-utiles.md)
 
 ## ━ Guide du serveur <a href="#guide" id="guide"></a>
 
@@ -118,4 +118,3 @@
   * [💴 Avoir de l'argent](assistance/techniques-pour-etre-riche/avoir-de-largent.md)
   * [🏰 Protéger sa base](assistance/techniques-pour-etre-riche/proteger-sa-base.md)
   * [💥 Piller des bases](assistance/techniques-pour-etre-riche/piller-des-bases.md)
-* [📩 Foire aux questions](assistance/foire-aux-questions.md)
