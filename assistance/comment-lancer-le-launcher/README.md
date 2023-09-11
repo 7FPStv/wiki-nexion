@@ -21,9 +21,13 @@ Si vous êtes nouveau sur Nexion et à la recherche d'astuces, consultez notre m
 
 
 
+#### Questions fréquentes
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+
+
+<table data-full-width="true"><thead><tr><th data-type="select" data-multiple>Résoudre les problèmes launcher</th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 
