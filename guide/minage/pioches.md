@@ -1,10 +1,8 @@
 # ⛏ Pioches
 
 {% tabs %}
-{% tab title="Pioches Basiques" %}
-{% hint style="warning" %}
-_**Ce sont les pioches**_ _**fabricables via la table de fabrication classique.**_
-{% endhint %}
+{% tab title="Pioches basiques" %}
+**Les pioches sont fabricables avec la table de fabrication.**
 
 {% hint style="info" %}
 ### ![](<../../.gitbook/assets/image (2) (1).png>)  Pioche en <mark style="color:blue;">Opale</mark> ![](../../.gitbook/assets/opale\_pickaxe.png)
@@ -13,7 +11,7 @@ _**Ce sont les pioches**_ _**fabricables via la table de fabrication classique.*
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (77).png>)  Pioche en <mark style="color:purple;">Iris</mark> ![](../../.gitbook/assets/iris\_pickaxe.png)
+### <img src="../../.gitbook/assets/image (77).png" alt="" data-size="original">  Pioche en <mark style="color:purple;">Iris</mark> ![](../../.gitbook/assets/iris\_pickaxe.png)
 
 **Durabilité** : 4 500
 {% endhint %}
@@ -25,14 +23,16 @@ _**Ce sont les pioches**_ _**fabricables via la table de fabrication classique.*
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (32).png>)  Pioche de <mark style="background-color:orange;">Richesse</mark> ![](../../.gitbook/assets/multiplicator\_pickaxe.png)
+### ![](<../../.gitbook/assets/image (32).png>)  Pioche de Richesse ![](../../.gitbook/assets/multiplicator\_pickaxe.png)
 
 **Durabilité** : 99\
 
 
-### Cette pioche permet de <mark style="color:orange;">doubler</mark> le minerai miné, cela fonctionne avec <mark style="color:red;">tous les minerais</mark>
+### Permet de doubler les minerais
 
-Sauf le minerai aléatoire de gemmes _(Ne peut pas être enchanté solidité)_
+Pour le minerai aléatoire de gemmes il faut avoir la pioche de richesse gemmée.
+
+❌ _Ne peut pas être enchanté solidité_
 {% endhint %}
 
 {% hint style="info" %}
@@ -45,7 +45,7 @@ Sauf le minerai aléatoire de gemmes _(Ne peut pas être enchanté solidité)_
 {% endhint %}
 {% endtab %}
 
-{% tab title="Pioches Avancées" %}
+{% tab title="Pioches avancées" %}
 {% hint style="warning" %}
 _**Ce sont les pioches fabricables uniquement via la table de fabrication gemmée**._
 {% endhint %}
@@ -73,7 +73,7 @@ _"Clic droit"_ pour enlever l'obsidienne. _(Cette pioche n'est pas réparable)_
 {% endhint %}
 {% endtab %}
 
-{% tab title="Pioche Légendaire" %}
+{% tab title="Pioche légendaire" %}
 {% hint style="warning" %}
 _**C'est ici que tu retrouves la pioche légendaire du serveur obtenable de différentes façons expliqués ci-dessous.**_
 {% endhint %}

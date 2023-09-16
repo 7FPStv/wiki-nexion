@@ -2,9 +2,12 @@
 
 ### <mark style="color:purple;">La nouvelle cité</mark> ne peut être rejoint que par des guerriers aguerris, un nouveau monde <mark style="color:purple;">pleins de nouvelles ressources</mark>, foooooonce !
 
-{% hint style="info" %}
-Pour traverser le portail rejoignant cette nouvelle cité, il te faut atteindre le <mark style="color:orange;">niveau 80</mark> de la [les-classes.md](../systeme-a-connaitre/les-classes.md "mention"). Une fois atteint, tu peux <mark style="color:red;">traverser le portail</mark> se trouvant derrière le /spawn. _(C'est un gigantesque portail il est difficile de ne pas le voir)._\
+\
+Pour traverser le portail rejoignant cette nouvelle cité, il te faut atteindre le **NIVEAU 80** de la [les-classes.md](../systeme-a-connaitre/les-classes.md "mention"). Une fois atteint, tu peux <mark style="color:red;">traverser le portail</mark> se trouvant derrière le /spawn. _(C'est un gigantesque portail il est difficile de ne pas le voir)._\
 Tu <mark style="color:orange;">apparais</mark> derrière le portail et voilà que tu ne sais pas où aller, que découvrir en premier. Il te faut en premier temps <mark style="color:red;">quelques informations</mark> avant d'aller plus loin, laisse moi te guider.
+
+{% hint style="info" %}
+
 {% endhint %}
 
 {% hint style="info" %}

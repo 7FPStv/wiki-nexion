@@ -1,8 +1,7 @@
 # 📖 Grimoire
 
-{% hint style="info" %}
-Sur Nexion, il y a <mark style="color:purple;">18 enchantements moddés</mark> <img src="../.gitbook/assets/book_enchanted.png" alt="" data-size="line">, ceux-ci sans exceptions, sont uniquement obtenable via le grimoire. Le grimoire se craft avec 3 obsidiennes renforcées <img src="../.gitbook/assets/renforced_obsidian.png" alt="" data-size="line">, 2 gemmes de mana <img src="../.gitbook/assets/mana_gem (1).png" alt="" data-size="line">, une table d'enchantement <img src="../.gitbook/assets/enchanting_table_side.png" alt="" data-size="line"> et un manuscrit <img src="../.gitbook/assets/manuscript.png" alt="" data-size="line"> :
-{% endhint %}
+\
+Sur Nexion, il y a <mark style="color:purple;">18 enchantements moddés</mark> <img src="../.gitbook/assets/book_enchanted.png" alt="" data-size="line">, ceux-ci sans exceptions, sont uniquement obtenable via le grimoire. Le grimoire se craft avec 3 obsidiennes renforcées <img src="../.gitbook/assets/renforced_obsidian.png" alt="" data-size="line">, 2 gemmes de mana <img src="../.gitbook/assets/mana_gem (1).png" alt="" data-size="line">, une table d'enchantement <img src="../.gitbook/assets/enchanting_table_side.png" alt="" data-size="line"> et un manuscrit <img src="../.gitbook/assets/manuscript.png" alt="" data-size="line">&#x20;
 
 {% hint style="info" %}
 Les enchantements ne sont possible que sur des livres, ou des manuscrits. Les manuscrits permettent d'avoir <mark style="color:purple;">2 enchantements</mark> sur le même livre, pour le même prix, au lieu d'un seul enchantement sur un livre normal, quand celui-ci est enchanté dans le grimoire.  Les manuscrits se craftent par 16, avec un fragment de mana, 2 morceaux de papier , 2 opales et 2 livres.

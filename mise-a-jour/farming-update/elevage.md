@@ -12,10 +12,12 @@ Pour lancer un élevage, vous devez donner 2 œufs du même type que la caisse d
 * Poulets :chicken:
 
 {% hint style="info" %}
+### **Comment tout ça fonctionne ?**
+
 \
 **Obtention :** Dans la cité d'Holbeck, il y a 2 fermes avec 2 fermiers. En faisant des échanges avec eux vous pouvez obtenir les caisses d'élevages ou des ressources liées aux caisses.\
 \
-**Utilité :** Récolter des ressources ou soit de vendre des animaux.\
+**Utilité :** Récolter des ressources ou de vendre des animaux.\
 \
 **Placement :** Entoure la cage de 8 bloc d'herbe pour interagir avec.\
 
