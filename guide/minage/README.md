@@ -1,6 +1,6 @@
 # ⛏ Minage
 
-## Vous trouverez dans cette catégorie, toute les info sur le minage de <mark style="color:purple;">nexion</mark> !&#x20;
+## Vous trouverez dans cette catégorie, toute les informations sur le minage de <mark style="color:purple;">Nexion</mark> !&#x20;
 
 {% content-ref url="minerais.md" %}
 [minerais.md](minerais.md)

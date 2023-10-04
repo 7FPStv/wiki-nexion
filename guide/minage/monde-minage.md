@@ -1,4 +1,4 @@
-# ⛏ Monde Minage
+# Monde Minage
 
 ### Partons à la <mark style="color:purple;">découverte des mondes minages</mark> dès maintenant et récolte plein de ressources avec tes outils !
 

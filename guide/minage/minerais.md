@@ -1,4 +1,4 @@
-# ⛏ Minerais
+# Minerais
 
 Dans l'univers de Nexion, les ressources les plus précieuses pourront se trouver sous tes pieds. En creusant de la **couche 0 à 16** tu pourras trouver plusieurs minerais qui pourront t'être très utiles pour la suite de ton aventure. Certains peuvent se trouver dans le monde de paix et d'autres dans des dimensions de guerre. Gloire et fortune à toi, mais prends garde, ne soit pas trop avare de richesse.
 
@@ -9,7 +9,15 @@ Tu dois miner de la pierre pour trouver des minerais vu qu'il n'y a pas de grott
 
 Avant tout il faut savoir que nous avons tout de même les minerais principaux de Minecraft. Tu le sais déjà le meilleur minerais sur Minecraft est le diamant. MAIS sur Nexion, tout les minerais sont plus fort que le diamant, autrement dit le premier nouveau minerai [L'opale](minerais.md#opale) est tout de même plus fort que le diamant.
 
-## Les minerais
+
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/minerais.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+## Plus d'explications sur les minerais
 
 ### ![](../../.gitbook/assets/opale\_ore.png)![](../../.gitbook/assets/opale.png)<mark style="color:blue;">**Opale**</mark>&#x20;
 
@@ -24,7 +32,7 @@ L'iris est un minerai rare, il permet de fabriquer l'armure et les outils plus p
 ### ![](<../../.gitbook/assets/titane\_ore (1).png>)![](../../.gitbook/assets/titane\_fragment.png)![](../../.gitbook/assets/titane.png)<mark style="color:yellow;">**Titane**</mark>
 
 Le titane est le minerai le plus rare, il permet de fabriquer l'armure et les outils plus puissant et résistant que ceux en iris. Il permet également de fabriquer divers objets. Minerai duplicable avec la pioche de richesse.\
-**Exemple d'objet à fabriquer :** ![](<../../.gitbook/assets/titane\_helmet (1).png>)![](../../.gitbook/assets/titane\_chestplate.png)![](<../../.gitbook/assets/titane\_leggings (1).png>)![](<../../.gitbook/assets/titane\_boots (1).png>)![](../../.gitbook/assets/titane\_sword.png)![](<../../.gitbook/assets/titane\_pickaxe (1).png>)![](../../.gitbook/assets/titane\_axe.png)![](../../.gitbook/assets/titane\_shovel.png)![](../../.gitbook/assets/titane\_hoe.png)![](https://lh4.googleusercontent.com/MGvNoKKoNw12FxENFo4TyUQHQcLy9bJU4Xkb73CjyzwBrEr6KVEawhQ8QI\_fBPlwst0JSqvbnWRuNEmMQAfz4PNQfCMpK1JPoRvBC4ML007noKPocs9NRkqrQg3jhOxDJ1or0hSc)![](../../.gitbook/assets/titane\_gear.png)![](../../.gitbook/assets/titane\_shears.png)![](../../.gitbook/assets/sickle.png)
+**Exemple d'objet à fabriquer :** ![](<../../.gitbook/assets/titane\_helmet (1).png>)![](../../.gitbook/assets/titane\_chestplate.png)![](<../../.gitbook/assets/titane\_leggings (1).png>)![](<../../.gitbook/assets/titane\_boots (1).png>)![](../../.gitbook/assets/titane\_sword.png)![](<../../.gitbook/assets/titane\_pickaxe (1).png>)![](../../.gitbook/assets/titane\_axe.png)![](../../.gitbook/assets/titane\_shovel.png)![](../../.gitbook/assets/titane\_hoe.png)![](https://lh4.googleusercontent.com/MGvNoKKoNw12FxENFo4TyUQHQcLy9bJU4Xkb73CjyzwBrEr6KVEawhQ8QI\_fBPlwst0JSqvbnWRuNEmMQAfz4PNQfCMpK1JPoRvBC4ML007noKPocs9NRkqrQg3jhOxDJ1or0hSc)![](../../.gitbook/assets/titane\_gear.png)![](../../.gitbook/assets/titane\_shears.png)![](<../../.gitbook/assets/sickle (1).png>)
 
 ### ![](../../.gitbook/assets/xp\_ore.png)**Minerai d’**<mark style="color:green;">**Expérience**</mark>&#x20;
 

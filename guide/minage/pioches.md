@@ -1,4 +1,4 @@
-# ⛏ Pioches
+# Pioches
 
 {% tabs %}
 {% tab title="Pioches basiques" %}

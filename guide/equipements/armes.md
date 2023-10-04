@@ -1,33 +1,44 @@
-# ⚔ Armes
+# Armes
+
+• Armure en **Opale**
+
+• Armure en **Iris**![](../../.gitbook/assets/iris\_helmet.png)![](../../.gitbook/assets/iris\_chestplate.png)![](../../.gitbook/assets/iris\_leggings.png)![](../../.gitbook/assets/iris\_boots.png)
+
+• Armure en **Titane**![](../../.gitbook/assets/titane\_helmet.png)![](<../../.gitbook/assets/titane\_chestplate (1).png>)![](../../.gitbook/assets/titane\_leggings.png)![](../../.gitbook/assets/titane\_boots.png)
+
+
 
 {% tabs %}
-{% tab title="Épées Basiques" %}
-{% hint style="warning" %}
+{% tab title="Épées basiques" %}
+
+
 _**Ce sont les épées**_ _**fabricables via la table de fabrication classique.**_
-{% endhint %}
 
 
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (78).png>)  Épée en <mark style="color:blue;">Opale</mark> ![](<../../.gitbook/assets/opale\_sword (2).png>)
+### &#x20; Épée en Opale ![](<../../.gitbook/assets/opale\_sword (2).png>)
 
-**Dégâts** : 9,5 points d'attaques / **Durabilité** : 3 200
+**Dégâts** : 9,5 points d'attaques\
+**Durabilité** : 3 200
 {% endhint %}
 
 {% hint style="info" %}
-### <img src="../../.gitbook/assets/image (46).png" alt="" data-size="original">  Épée en <mark style="color:purple;">Iris</mark> ![](<../../.gitbook/assets/iris\_sword (1).png>)
+### &#x20;Épée en Iris ![](<../../.gitbook/assets/iris\_sword (1).png>)
 
-**Dégâts** : 10 points d'attaques / **Durabilité** : 4 500
+**Dégâts** : 10 points d'attaques\
+**Durabilité** : 4 500
 {% endhint %}
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (43).png>)  Épée en <mark style="color:yellow;">Titane</mark> ![](<../../.gitbook/assets/titane\_sword (1).png>)
+### &#x20; Épée en Titane ![](<../../.gitbook/assets/titane\_sword (1).png>)
 
-**Dégats** : 10,5 points d'attaque / **Durabilité** : 7 500
+**Dégâts** : 10,5 points d'attaque\
+**Durabilité** : 7 500
 {% endhint %}
 {% endtab %}
 
-{% tab title="Épées Améliorés" %}
+{% tab title="Épées améliorés" %}
 {% hint style="warning" %}
 _**Ce sont les épées**_ _**fabricables via la table de**** **<mark style="color:red;">**fabrication gemmée**</mark>** ****ainsi qu'avec la**** **<mark style="color:red;">**forge**</mark>_
 {% endhint %}
