@@ -12,7 +12,7 @@ Sur le jeu Minecraft, tu dois déjà connaître les plantations de patates, ou b
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/farm1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/farm1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,12 +22,12 @@ Les buissons de mûres et de myrtilles sont **trouvables dans la nature sur le s
 {% endtab %}
 
 {% tab title="Utilisation" %}
-Tu dois simplement **planter le buisson sur de l'herbe ou de la terre**. ![](../../.gitbook/assets/grass\_side.png)![](<../../.gitbook/assets/dirt (1).png>)\
+Tu dois simplement **planter le buisson sur de l'herbe ou de la terre**. ![](../.gitbook/assets/grass\_side.png)![](<../.gitbook/assets/dirt (1).png>)\
 Ils n'ont pas besoin d'eau, ni même de lumière pour pousser. On dirait que c'est une plante qui pousse comme pour magie…&#x20;
 {% endtab %}
 
 {% tab title="Optimisation" %}
-Pour récolter plus facilement le buisson tu peux utiliser une **faucille en Titane**. ![](../../.gitbook/assets/sickle.png)
+Pour récolter plus facilement le buisson tu peux utiliser une **faucille en Titane**. ![](<../.gitbook/assets/sickle (1).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -36,13 +36,13 @@ Pour récolter plus facilement le buisson tu peux utiliser une **faucille en Tit
 {% hint style="success" %}
 <mark style="color:green;">**Astuce**</mark>
 
-Vous pouvez casser vos récoltes avec l'outil **houe de replantation**, cet outil permet de replanter automatiquement vos agricultures seulement si vous avez la ressource en question dans votre inventaire permettant d'être planté. Cela fonctionne de la même manière avec la **houe de Drahe** mais qui applique la replantation automatique dans une zone 3\*3 c'est un outil légendaire obtenable avec [guldor.md](../personnage-fictif/guldor.md "mention")
+Vous pouvez casser vos récoltes avec l'outil **houe de replantation**, cet outil permet de replanter automatiquement vos agricultures seulement si vous avez la ressource en question dans votre inventaire permettant d'être planté. Cela fonctionne de la même manière avec la **houe de Drahe** mais qui applique la replantation automatique dans une zone 3\*3 c'est un outil légendaire obtenable avec [guldor.md](personnage-fictif/guldor.md "mention")
 {% endhint %}
 
-![](../../.gitbook/assets/2022-01-12\_18.59.53.png)
+![](../.gitbook/assets/2022-01-12\_18.59.53.png)
 
 {% hint style="info" %}
-En <mark style="color:red;">1</mark>, le <mark style="color:purple;">Tabac</mark> ![](../../.gitbook/assets/tabacco.png) la plante est disponible dans le camp de gobelins en <mark style="color:orange;">Warzone</mark>. Il faut obligatoirement un <mark style="color:red;">Gant de jardinage</mark> pour pouvoir récupérer du tabac !
+En <mark style="color:red;">1</mark>, le <mark style="color:purple;">Tabac</mark> ![](../.gitbook/assets/tabacco.png) la plante est disponible dans le camp de gobelins en <mark style="color:orange;">Warzone</mark>. Il faut obligatoirement un <mark style="color:red;">Gant de jardinage</mark> pour pouvoir récupérer du tabac !
 {% endhint %}
 
 {% hint style="info" %}
@@ -50,8 +50,8 @@ Dans les camps gobelins de Holbeck, une <mark style="color:orange;">nouvelle res
 {% endhint %}
 
 {% hint style="info" %}
-En <mark style="color:red;">2</mark>, le <mark style="color:purple;">buisson moisie.</mark> il est disponible dans [la dimension](../la-nouvelle-dimension.md#les-zones), dans [les cimetières](../les-evenements/cimetieres.md). La faucille abyssale peux être utilisée pour dupliquer le loot en cassant les buissons moisies.\
-Il peux être <mark style="color:orange;">craft</mark> dans le puit de création pour pouvoir <mark style="color:red;">en avoir</mark> dans vos bases ! (vous pouvez regarder le craft avec [L'archimage](../personnage-fictif/archimage.md))\
+En <mark style="color:red;">2</mark>, le <mark style="color:purple;">buisson moisie.</mark> il est disponible dans [la dimension](la-nouvelle-dimension.md#les-zones), dans [les cimetières](les-evenements/cimetieres.md). La faucille abyssale peux être utilisée pour dupliquer le loot en cassant les buissons moisies.\
+Il peux être <mark style="color:orange;">craft</mark> dans le puit de création pour pouvoir <mark style="color:red;">en avoir</mark> dans vos bases ! (vous pouvez regarder le craft avec [L'archimage](personnage-fictif/archimage.md))\
 Il vous faudra une <mark style="color:red;">faucille abyssale</mark> pour récupérer des germes moisies !
 {% endhint %}
 
@@ -75,9 +75,9 @@ Une graine de pastèque/citrouille de niveaux 1 et 2 en font pousser 4, 1 dans t
 
 **En jaune, les buissons (bushs) niveau 1,** sont les améliorations des bushs de niveaux 1. La différence notable, est qu'ils sont minables <mark style="color:purple;">beaucoup plus rapidement</mark> avec une faucille en titane, que les buissons niveau 0.&#x20;
 
-**En rouge, les buissons (bushs) niveau 2,** sont minables également beaucoup plus rapidement que les buissons niveau 0. Mais à la différence des buissons niveau 1, ceux-ci ont une chance de vous dropper <mark style="color:purple;">des baies légendaires</mark>, qui se vendent très cher au /shop, et qui sont très utiles pour monter le niveau de [magie](../la-magie.md), quand ceux-ci sont droppées dans le puit magique en sacrifice.
+**En rouge, les buissons (bushs) niveau 2,** sont minables également beaucoup plus rapidement que les buissons niveau 0. Mais à la différence des buissons niveau 1, ceux-ci ont une chance de vous dropper <mark style="color:purple;">des baies légendaires</mark>, qui se vendent très cher au /shop, et qui sont très utiles pour monter le niveau de [magie](la-magie.md), quand ceux-ci sont droppées dans le puit magique en sacrifice.
 
-![](../../.gitbook/assets/2022-01-12\_23.53.02.png)
+![](../.gitbook/assets/2022-01-12\_23.53.02.png)
 
 ### L'évolution
 
@@ -89,9 +89,9 @@ _<mark style="color:orange;">**Remarque :**</mark>_
 **Pour augmenter les plantations de niveau 1 en niveau 2,** vous aurez besoin d'une poudre légendaire de niveau 2 et pour cela il vous faut : 1 gemme de mana entourée de 8 stacks de poudre d'os, tout en craftant dans la table de craft gemmée.
 {% endhint %}
 
-![Poudre de niveaux 1](<../../.gitbook/assets/image (73) (1).png>)
+![Poudre de niveaux 1](<../.gitbook/assets/image (73) (1).png>)
 
-![Poudre de niveau 2](<../../.gitbook/assets/image (64).png>)
+![Poudre de niveau 2](<../.gitbook/assets/image (64).png>)
 
 Maintenant que la poudre est craftée vous pouvez faire un clic droit sur le buisson/graine de votre choix, il n'y a pas 100% de chance de transformation donc il faut utiliser plusieurs fois la poudre pour le monter de niveau.&#x20;
 

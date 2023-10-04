@@ -34,7 +34,7 @@
 * [👕 Équipements](guide/equipements/README.md)
   * [Armures](guide/equipements/armures.md)
   * [Armes](guide/equipements/armes.md)
-* [👨🌾 Farming](guide/agricultures/README.md)
+* [👨🌾 Farming](guide/agricultures.md)
   * [Outils](guide/agricultures/outils.md)
 * [📖 Grimoire](guide/les-enchantements.md)
 * [🧨 Pillages](guide/pillages.md)

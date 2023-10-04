@@ -1,6 +1,6 @@
 # 👨🌾 Eleveur
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Interface de l'eleveur</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Interface de l'eleveur</p></figcaption></figure>
 
 En faisant la commande **`/eleveur`** vous accédez à l'interface de gestion des niveaux d'éleveur.
 
