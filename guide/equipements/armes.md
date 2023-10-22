@@ -1,13 +1,5 @@
 # Armes
 
-• Armure en **Opale**
-
-• Armure en **Iris**![](../../.gitbook/assets/iris\_helmet.png)![](../../.gitbook/assets/iris\_chestplate.png)![](../../.gitbook/assets/iris\_leggings.png)![](../../.gitbook/assets/iris\_boots.png)
-
-• Armure en **Titane**![](../../.gitbook/assets/titane\_helmet.png)![](<../../.gitbook/assets/titane\_chestplate (1).png>)![](../../.gitbook/assets/titane\_leggings.png)![](../../.gitbook/assets/titane\_boots.png)
-
-
-
 {% tabs %}
 {% tab title="Épées basiques" %}
 
