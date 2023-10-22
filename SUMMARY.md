@@ -34,6 +34,7 @@
 * [👕 Équipements](guide/equipements/README.md)
   * [Armures](guide/equipements/armures.md)
   * [Armes](guide/equipements/armes.md)
+  * [Item PvP](guide/equipements/item-pvp.md)
 * [👨🌾 Farming](guide/agricultures.md)
   * [Outils](guide/agricultures/outils.md)
 * [📖 Grimoire](guide/les-enchantements.md)

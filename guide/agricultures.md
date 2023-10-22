@@ -46,7 +46,7 @@ En <mark style="color:red;">1</mark>, le <mark style="color:purple;">Tabac</mark
 {% endhint %}
 
 {% hint style="info" %}
-Dans les camps gobelins de Holbeck, une <mark style="color:orange;">nouvelle ressource</mark> est disponible, la menthe ! Il faut obligatoirement un <mark style="color:red;">Gant de jardinage</mark> pour pouvoir récupérer la menthe !&#x20;
+Dans les camps gobelins de Holbeck, une <mark style="color:orange;">nouvelle ressource</mark> est disponible, la menthe ! Il faut obligatoirement un <mark style="color:red;">Gant de jardinage</mark> pour pouvoir récupérer la menthe !
 {% endhint %}
 
 {% hint style="info" %}
@@ -78,6 +78,16 @@ Une graine de pastèque/citrouille de niveaux 1 et 2 en font pousser 4, 1 dans t
 **En rouge, les buissons (bushs) niveau 2,** sont minables également beaucoup plus rapidement que les buissons niveau 0. Mais à la différence des buissons niveau 1, ceux-ci ont une chance de vous dropper <mark style="color:purple;">des baies légendaires</mark>, qui se vendent très cher au /shop, et qui sont très utiles pour monter le niveau de [magie](la-magie.md), quand ceux-ci sont droppées dans le puit magique en sacrifice.
 
 ![](../.gitbook/assets/2022-01-12\_23.53.02.png)
+
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+En <mark style="color:red;">1</mark>, les graines de <mark style="color:yellow;">**Mais**</mark>, celles-ci s'obtiennent en cassant de l'herbe.
+{% endhint %}
+
+{% hint style="info" %}
+En <mark style="color:red;">2</mark>, les graines de <mark style="color:yellow;">**Blé Complet**</mark>, celles-ci s'obtiennent en cassant de l'herbe.
+{% endhint %}
 
 ### L'évolution
 

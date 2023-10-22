@@ -9,3 +9,7 @@
 {% content-ref url="armes.md" %}
 [armes.md](armes.md)
 {% endcontent-ref %}
+
+{% content-ref url="item-pvp.md" %}
+[item-pvp.md](item-pvp.md)
+{% endcontent-ref %}

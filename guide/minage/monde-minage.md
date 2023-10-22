@@ -108,3 +108,15 @@ Il y a des minerais visible sur la structure, mais il y a aussi des minerais dan
 ![Message d'annonce dans le chat /minerais pour se téléporter](<../../.gitbook/assets/eyJhbGciOiJIUzI1NiJ9.eyJpbWciOiJfYTk3NjA3ODkxODkwMjI2MTYxOGQ4N2FlYzdkZDI4ZDAifQ.UnLMaPh9YAVoGIZpDIwG-UhprDBTWAP\_p9cs5PIJvoE-png (2).jpg>)
 
 ![Structure de minage possédant 30 minerais](../../.gitbook/assets/2022-02-12\_23.25.54.png)
+
+### Les  Quêtes Mineur
+
+Plusieurs quêtes seront disponibles, elle vous seront utiles afin de vous donner un nombre de blocks minés en échange d'un objectif défini.
+
+* Pour ouvrir l'interface de ces quêtes, tapez la commande **/mission** afin de visualiser quelles sont vos quêtes.
+
+
+
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt="" width="332"><figcaption><p>Voici l'interface des quêtes mineurs</p></figcaption></figure>
+
+* Vous disposerez de **10 quêtes** maximum, celles-ci se **réinitialiseront** toutes les **semaines.**
