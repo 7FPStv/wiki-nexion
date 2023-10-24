@@ -68,6 +68,7 @@
   * [🔨 Forgeron de sauron](guide/personnage-fictif/forgeron-de-sauron.md)
   * [🤴 Le roi d'Holbeck](guide/personnage-fictif/le-roi-du-chateau-dholbeck.md)
 * [🎪 Événements](guide/les-evenements/README.md)
+  * [🌎 UHC Nexion](guide/les-evenements/uhc-nexion.md)
   * [🏕 Campements](guide/les-evenements/campements.md)
   * [🏔 Donjon](guide/les-evenements/donjon.md)
   * [🛡 Guerre des boss](guide/les-evenements/guerre-des-boss.md)
