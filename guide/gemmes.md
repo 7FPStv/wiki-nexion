@@ -11,7 +11,7 @@ Tout les crafts cités ci-dessous doivent être réalisé dans la table de craft
 ### Les différentes gemmes
 
 {% hint style="info" %}
-Il y a 5 gemmes différentes, le craft est le même pour toutes les gemmes, il faut **8** fragments de gemmes et **1** bloc de verre
+Il y a 6 gemmes différentes, le craft est le même pour toutes les gemmes, il faut **8** fragments de gemmes et **1** bloc de verre
 {% endhint %}
 
 * Gemmes de <mark style="color:red;">**Vie**</mark> :red\_circle:
@@ -51,9 +51,13 @@ La gemme de réparation permet de réparer les items équipés quand on récupè
 
 <figure><img src="https://lh4.googleusercontent.com/Ga4pYf9ga7SU2n2tyDop25KGXvoUhIE_EMh5_dsYq8AXw_U4tQpNp7ds-NazZzFMcNxqED--jFNiF0hSQQIVC2n8fidfFmxh6v_sZ3Xs3fF3ARxM7mjbIyTnwsNFzYVN7DegTkKJ" alt=""><figcaption></figcaption></figure>
 
-La gemme de mana ne peut-être utilisée avec une armures, elle est utile dans plusieurs craft (poudre magique, Stuff de mana...)&#x20;
+La gemme de mana ne peut-être utilisée avec une armure, elle est utile dans plusieurs craft (poudre magique, Stuff de mana...)&#x20;
 
+* Gemme Légendaire
 
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
+La gemme légendaire ne peut être utilisé ni avec une armure, ni avec les crafts. Elle permet de potentiellement obtenir un Item Légendaire via les échanges avec le **Fusionneur** dans la Zone Epique.
 
 <mark style="color:red;">**Attention !**</mark> Ne pas oublier le bloc de verre au milieu pour crafter les gemmes (il est très peu visible avec le pack de base de nexion)
 
