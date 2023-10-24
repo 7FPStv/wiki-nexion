@@ -1,5 +1,5 @@
 ---
-description: Accessible uniquement sur le serveur eve
+description: Accessible uniquement sur le serveur évènement.
 ---
 
 # 🌎 UHC Nexion
