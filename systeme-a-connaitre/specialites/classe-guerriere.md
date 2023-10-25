@@ -6,6 +6,8 @@
 
 
 
+<table><thead><tr><th width="400">Actions</th><th width="157">Récompenses</th></tr></thead><tbody><tr><td>Miner de l'Opale</td><td>6 - 7 EXP</td></tr><tr><td>Miner de L'iris</td><td>12 - 14 EXP </td></tr><tr><td>Miner du Titane</td><td>20 - 24 EXP</td></tr><tr><td>Miner des Minerais aléatoires</td><td>11 - 13 EXP</td></tr><tr><td>Miner des minerais aléatoires de Gemmes</td><td>50 - 60 EXP</td></tr><tr><td>Miner de l'Émeraude</td><td>12 - 13 EXP</td></tr><tr><td>Miner du Mana</td><td>60 - 70 EXP</td></tr><tr><td>Miner des minerais d'Expérience</td><td>1.9 - 2.5 EXP</td></tr><tr><td>Miner de L'Or Pur</td><td>15 - 20 EXP</td></tr><tr><td>Miner de la Redstone</td><td>0.8 EXP</td></tr><tr><td>Miner du Lapis Lazuli</td><td>1.4 EXP</td></tr><tr><td>Miner du Diamant</td><td>1.7 EXP</td></tr><tr><td>Miner du Charbon</td><td>0.6 EXP</td></tr><tr><td>Faire cuire du Fer</td><td>0.8 EXP</td></tr><tr><td>Faire cuire de l'Or</td><td>1 EXP</td></tr></tbody></table>
+
 ### **5 **<mark style="color:purple;">**compétences**</mark>** sont disponible avec cette spécialité**
 
 #### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.**&#x20;
