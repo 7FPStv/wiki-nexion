@@ -32,9 +32,9 @@ Niveau 3 : <mark style="color:purple;">6% de chance</mark> de tripler le minerai
 ### _Richesse Gemmée Boost (Augmente <mark style="color:purple;">le % de chance de dupliquer</mark> un minerai aléatoire de Gemmes avec la pioche de richesse gemmée) :_&#x20;
 
 \
-Niveau 1 : <mark style="color:purple;">Augmente de 2%</mark> (12% au total) la pioche de richesse gemmée pour dupliquer un minerais (Cout : 1 point de compétence) \
-Niveau 2 : <mark style="color:purple;">Augmente de 4%</mark> (14% au total) la pioche de richesse gemmée pour dupliquer un minerais (Cout : 2 points de compétence) \
-Niveau 3 : <mark style="color:purple;">Augmente de 6%</mark> (16% au total) la pioche de richesse gemmée pour dupliquer un minerais (Cout : 3 points de compétence)
+Niveau 1 : <mark style="color:purple;">Augmente de 2%</mark> (12% au total) la pioche de richesse gemmée pour dupliquer un minerai (Cout : 1 point de compétence) \
+Niveau 2 : <mark style="color:purple;">Augmente de 4%</mark> (14% au total) la pioche de richesse gemmée pour dupliquer un minerai (Cout : 2 points de compétence) \
+Niveau 3 : <mark style="color:purple;">Augmente de 6%</mark> (16% au total) la pioche de richesse gemmée pour dupliquer un minerai (Cout : 3 points de compétence)
 
 ### _Capacité Pioche à obsidienne (Lorsque tu casses de l'obsidienne avec la pioche à obsidienne, <mark style="color:purple;">le bloc va directement dans ton inventaire</mark>) :_     &#x20;
 
