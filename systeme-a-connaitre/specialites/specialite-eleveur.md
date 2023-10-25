@@ -10,7 +10,7 @@ _Pour avoir accès à la spécialité Éleveur, il faut passer le niveau 20 !_
 
 <table><thead><tr><th width="340">Actions</th><th width="152">Récompenses</th></tr></thead><tbody><tr><td><em>Fabriquer des céréales de blé complet</em></td><td>0.3 EXP</td></tr><tr><td><em>Fabriquer des herbes alimentaires</em></td><td>0.3 EXP</td></tr><tr><td><em>Vendre des œufs dorés</em></td><td>6 - 7 EXP</td></tr><tr><td><em>Vendre des plumages</em></td><td>0.1 EXP</td></tr><tr><td><em>Vendre de la graisse de cochon</em></td><td>0.5 EXP</td></tr><tr><td><em>Vendre de la viande de cochon</em></td><td>0.1 EXP</td></tr><tr><td><em>Vendre du lait de vache</em></td><td>0.1 EXP</td></tr><tr><td><em>Vendre du cuir d'élevage</em></td><td>0.3 EXP</td></tr><tr><td><em>Vendre de la laine d'élevage</em></td><td>0.1 EXP</td></tr><tr><td><em>Vendre de la viande de mouton</em></td><td>0.5 EXP</td></tr><tr><td><em>Farmer du blé complet</em></td><td>0.3 EXP</td></tr><tr><td><em>Farmer du maïs</em> </td><td>0.6 EXP</td></tr><tr><td><em>Nourrir des animaux</em></td><td>24 - 28 EXP</td></tr><tr><td><em>Vendre des animaux</em></td><td>10 - 15 EXP</td></tr></tbody></table>
 
-### _<mark style="color:purple;">**5 compétences**</mark>** ****sont disponibles**** **<mark style="color:purple;">**avec cette spécialité**</mark>_
+### _<mark style="color:purple;">**5 compétences**</mark>** sont disponibles**_ _**avec cette spécialité**_
 
 {% hint style="info" %}
 _**Pour obtenir un point de compétence, il faut passer un niveau de n'importe quelle spécialité.**_&#x20;

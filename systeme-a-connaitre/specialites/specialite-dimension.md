@@ -1,46 +1,57 @@
 # 🔮 Spécialité Dimension
 
-### **Accès à la **<mark style="color:purple;">**spécialité**</mark>&#x20;
+### _**Accès à la**** **<mark style="color:purple;">**spécialité**</mark>** ****:**_
 
-Pour avoir accès à la spécialité dimension, il faut passer le niveau 50 !
+_Pour avoir accès à la spécialité dimension, il faut passer le niveau 50 !_
 
-#### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité Dimension**</mark>
+### _**Voici les moyen de monter votre**** **<mark style="color:purple;">**spécialité Dimension**</mark>** ****:**_
 
-<table><thead><tr><th width="191">Créer de l'or pur via le puits magique</th><th width="169">Craft pièce d'or corrompu </th><th width="188">Trouver Rodlug lors de son apparition le Week-End</th><th>Récupérer des poudres au sol</th></tr></thead><tbody><tr><td>Mettre une poudre dans une bague</td><td>Tuer des enderman dans la dimension magique</td><td>Tuer des creeper dans la dimension magique</td><td>Tuer des morts vivant dans la dimension magique</td></tr><tr><td>Casser des buissons de baies moisies</td><td>Miner de l'or corrompu</td><td>Créer une bague avec le forgeron de sauron</td><td>Réparer une bague avec le forgeron de sauron </td></tr><tr><td>Craft une bague</td><td>Pêcher un objet commun dans les sources d'eau magique</td><td>Pêcher un objet rare dans les sources d'eau magique</td><td>Pêcher un objet épic dans les sources d'eau magique</td></tr><tr><td>Pêcher un objet légendaire dans les sources d'eau magique</td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="524">Actions</th><th width="153">Récompenses</th></tr></thead><tbody><tr><td><em>Échanger un objet commun avec Rodlug</em></td><td>60 - 70 EXP</td></tr><tr><td><em>Récupérer des poudres</em></td><td>12 - 16 EXP</td></tr><tr><td><em>Tuer un creeper dans la dimension magique</em></td><td>3 - 3.5 EXP</td></tr><tr><td><em>Tuer un enderman dans la dimension magique</em></td><td>3 - 3.5 EXP</td></tr><tr><td><em>Tuer un mort vivant dans la dimension magique</em></td><td>13 - 16 EXP</td></tr><tr><td><em>Récupérer des baies moisies dans la dimension magique</em></td><td>6 - 7 EXP</td></tr><tr><td><em>Miner de l'or corrompu dans la dimension magique</em> </td><td>12 - 18 EXP </td></tr><tr><td><em>Améliorer une bague</em></td><td>4 EXP</td></tr><tr><td><em>Réparer une bague</em></td><td>30 - 35 EXP</td></tr><tr><td><em>Forger une bague</em></td><td>150 - 170 EXP </td></tr><tr><td><em>Fabriquer une bague</em></td><td>130 - 150 EXP </td></tr><tr><td><em>Pêcher un objet magique commun</em></td><td>4 - 5 EXP</td></tr><tr><td><em>Pêcher un objet magique rare</em></td><td>10 - 14 EXP</td></tr><tr><td><em>Pêcher un objet magique épique</em></td><td>28 - 35 EXP</td></tr><tr><td><em>Pêcher un objet magique légendaire</em></td><td>80 - 100 EXP</td></tr><tr><td><em>Fabriquer de l'or pur via un puits de création</em></td><td>9 - 11 EXP</td></tr><tr><td><em>Fabriquer des baies moisies via un puits de création</em></td><td>35 - 40 EXP</td></tr><tr><td><em>Fabriquer de la terre moisie via un puits de création</em></td><td>27 - 34 EXP</td></tr><tr><td><em>Fabriquer un piston offensif via un puits de création</em></td><td>18 - 25 EXP</td></tr><tr><td><em>Fabriquer une baguette de grargul via un puits de création</em></td><td>440 - 480 EXP</td></tr><tr><td><em>Fabriquer une baguette de thandrak via un puits de création</em></td><td>450 - 500 EXP</td></tr><tr><td><em>Transformer des potions avec le chaudron magique</em></td><td>5 - 6 EXP</td></tr><tr><td><em>Transformer des minerais avec le chaudron magique</em></td><td>5 - 6 EXP</td></tr><tr><td><em>Fabriquer des pièces d'or corrompues via un puits de création</em></td><td>9 - 11 EXP </td></tr></tbody></table>
 
-<mark style="color:purple;">Utiliser la faucille abyssale</mark> (Donne un bonus de 10% d'xp lorsque tu casses une poudre, un buisson moisis ou un minerai d'or corrompu) \
+{% hint style="info" %}
+_<mark style="color:purple;">Utilise la faucille abyssale</mark> (Donne un bonus de 10% d'xp lorsque tu casses une poudre, un buisson moisis ou un minerai d'or corrompu)_&#x20;
+{% endhint %}
+
+### _<mark style="color:purple;">**5 compétences**</mark>** sont disponible avec cette spécialité :**_&#x20;
+
+{% hint style="info" %}
+_**Pour obtenir un point de compétence, il faut passer un niveau de n'importe quelle spécialité.**_&#x20;
+{% endhint %}
+
+### _Boost d'expérience de la spécialité <mark style="color:purple;">dimension</mark> :_&#x20;
+
+_Donne un boost d'expérience à la spécialité dimension._
+
+Niveau 1 : Boost de <mark style="color:purple;">5% d'expérience</mark> (Cout : 1 point de compétence) \
+Niveau 2 : Boost de <mark style="color:purple;">10% de d'expérience</mark> (Cout : 2 points de compétence) \
+Niveau 3 : Boost de <mark style="color:purple;">20% de d'expérience</mark> (Cout : 3 points de compétence)
+
+### _Pêche <mark style="color:purple;">optimisé</mark> :_&#x20;
+
+_Obtiens un pourcentage de chance supplémentaire de pêcher des loots rare dans la dimension._
+
+Niveau 1 : <mark style="color:orange;">Rare</mark> : **+5%** / <mark style="color:purple;">Épique</mark> : **+ 3%** / <mark style="color:yellow;">Légendaire</mark> : **+1%** (Cout : 1 point de compétence)&#x20;
+
+### _Slot <mark style="color:purple;">talisman</mark> :_&#x20;
+
+_Obtiens des slots supplémentaires de talisman._
+
+Niveau 1 : Débloque le <mark style="color:purple;">3ème slot</mark> de talisman. (Cout : 1 point de compétence) \
+Niveau 2 : Débloque le <mark style="color:purple;">4ème slot</mark> de talisman. (Cout : 2 points de compétence) \
+Niveau 3 : Débloque le <mark style="color:purple;">5ème slot</mark> de talisman. (Cout : 3 points de compétence)\
 
 
-### <mark style="color:purple;">**5 compétences**</mark>** sont disponible avec cette spécialité,**&#x20;
+### _Slot <mark style="color:purple;">bague</mark> :_&#x20;
 
-#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.**&#x20;
-
-### <mark style="color:purple;">Boost exp</mark> de la spécialité Dimension&#x20;
-
-Niveau 1 : Boost de <mark style="color:purple;">5% de d'exp</mark> de spécialité Dimension. (Cout : 1 point de compétence) \
-Niveau 2 : Boost de <mark style="color:purple;">10% de d'exp</mark> de spécialité Dimension. (Cout : 2 point de compétence) \
-Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spécialité Dimension. (Cout : 3 point de compétence)\
-
-
-### <mark style="color:purple;">Slot de talisman</mark> (par défaut tu as accès à 2 slots) :&#x20;
-
-Niveau 1 : Donne accès au <mark style="color:purple;">troisième slot</mark> de talisman. (Cout : 1 point de compétence) \
-Niveau 2 : Donne accès au <mark style="color:purple;">quatrième slot</mark> de talisman. (Cout : 2 points de compétence) \
-Niveau 3 : Donne accès au <mark style="color:purple;">cinquième slot</mark> de talisman. (Cout : 3 points de compétence)\
-
-
-### Information Mine :&#x20;
-
-Niveau 1 : Cela indique à l'entrée des mines <mark style="color:purple;">combien il y a de minerais</mark> de disponible dans la mine. (Cout : 1 point de compétence)\
-
-
-### Slot de bague (par défaut tu as un slot de disponible):&#x20;
+_Par défaut, tu as un slot de bague._
 
 Niveau 1 : Donne accès à <mark style="color:purple;">un slot de bague</mark> en plus (Cout : 1 point de compétence)\
 
 
-### Réapparition de poudre (Lorsque tu casses une poudre au sol dans la nouvelle dimension, tu as un % de chance qu'elle réapparaisse) :&#x20;
+### _Réapparition de <mark style="color:purple;">poudre</mark> :_&#x20;
 
-Niveau 1 : <mark style="color:purple;">5% de chance</mark> qu'une poudre réapparaisse. (Cout : 1 point de compétence) \
-Niveau 2 : <mark style="color:purple;">10% de chance</mark> qu'une poudre réapparaisse. (Cout : 2 points de compétence) \
-Niveau 3 : <mark style="color:purple;">15% de chance</mark> qu'une poudre réapparaisse. (Cout : 3 points de compétence)
+_Obtiens un pourcentage de chance de faire réapparaitre la poudre lorsque vous la cassez dans la dimension._
+
+Niveau 1 : <mark style="color:purple;">5% de chance</mark> (Cout : 1 point de compétence) \
+Niveau 2 : <mark style="color:purple;">10% de chance</mark> (Cout : 2 points de compétence) \
+Niveau 3 : <mark style="color:purple;">15% de chance</mark> (Cout : 3 points de compétence)
