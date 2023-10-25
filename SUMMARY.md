@@ -93,7 +93,7 @@
   * [🙋♂ Spécialité Social](systeme-a-connaitre/specialites/specialite-social.md)
   * [🏃 Spécialité Aventurier](systeme-a-connaitre/specialites/specialite-aventurier.md)
   * [✨ Spécialité Epique](systeme-a-connaitre/specialites/specialite-epique.md)
-  * [💥 Spécialité Bandit](systeme-a-connaitre/specialites/specialite-bandit.md)
+  * [🐂 Spécialité Éleveur](systeme-a-connaitre/specialites/specialite-eleveur.md)
 * [📜 Quêtes](systeme-a-connaitre/quetes.md)
 * [🎯 Classement](systeme-a-connaitre/classement-et-quetes.md)
 * [🛒 Boutique sur le site](systeme-a-connaitre/boutique-sur-le-site.md)
