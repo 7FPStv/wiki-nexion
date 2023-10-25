@@ -16,7 +16,7 @@ _Pour avoir accès à la spécialité Éleveur, il faut passer le niveau 20 !_
 _**Pour obtenir un point de compétence, il faut passer un niveau de n'importe quelle spécialité.**_&#x20;
 {% endhint %}
 
-### _Boost d'expérience de la spécialité Éleveur :_&#x20;
+### _Boost d'expérience de la <mark style="color:purple;">spécialité</mark>_ _<mark style="color:purple;">Éleveur</mark> :_&#x20;
 
 _Donne un boost d'expérience à la spécialité Éleveur._
 

@@ -1,49 +1,67 @@
 # 👨🌾 Spécialité Agriculteur
 
-### **Voici les moyen de monter votre spécialité **<mark style="color:purple;">**agriculteur**</mark>** :**&#x20;
+### _**Ceci est une des 3 spécialités que vous débloquez par défaut sur le serveur !**_
+
+### _**Voici les moyens de monter votre spécialité **<mark style="color:purple;">**agriculteur**</mark>** :**_&#x20;
 
 
 
-<table><thead><tr><th width="185">Récolter du blé </th><th width="191">Récolter des Mûres/Myrtilles</th><th width="172">Récolter du Cacao</th><th>Récolter des carottes</th></tr></thead><tbody><tr><td>Récolter des patates</td><td>Récolter de la nether warts</td><td>Récolter de la pastèques</td><td>Récolter de la citrouille</td></tr><tr><td>Récolter sur Des buissons de Niveau 1</td><td>Récolter sur Des buissons de Niveau 2</td><td>Récolter des pastèque de Niveau 2</td><td>Récolter des citrouilles de Niveau 2</td></tr><tr><td>Récolter du tabac</td><td>Récolter des buissons moisis</td><td>Faire évoluer une plantation du niveau 0 au niveau 1</td><td>Faire évoluer une plantation du niveau 1 au niveau 2</td></tr><tr><td>Utilisation de la houe de replantation : Donne 10% d'exp en plus</td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="358">Actions</th><th width="148">Récompenses</th></tr></thead><tbody><tr><td>Farmer du blé</td><td>0.4 EXP</td></tr><tr><td>Farmer des Myrtilles</td><td>0.6 EXP</td></tr><tr><td>Farmer des Mûres</td><td>0.6 EXP</td></tr><tr><td>Farmer du cacao</td><td>0.5 EXP</td></tr><tr><td>Farmer des carottes</td><td>0.35 EXP</td></tr><tr><td>Farmer des patates</td><td>0.35 EXP</td></tr><tr><td>Farmer des verrues du nether</td><td>0.6 EXP</td></tr><tr><td>Farmer du melon</td><td>0.4 EXP</td></tr><tr><td>Farmer des citrouilles</td><td>0.4 EXP</td></tr><tr><td>Farmer du raisin</td><td>0.8 EXP</td></tr><tr><td>Farmer des myrtilles de niveau 1</td><td>1.1 EXP</td></tr><tr><td>Farmer des mûres de niveau 1</td><td>1.1 EXP</td></tr><tr><td>Farmer des myrtilles de niveau 2</td><td>1.9 EXP</td></tr><tr><td>Farmer des mûres de niveau 2</td><td>1.9 EXP</td></tr><tr><td>Farmer des citrouilles de niveau 2</td><td>1.2 EXP</td></tr><tr><td>Farmer du melon de niveau 2</td><td>1.2 EXP</td></tr><tr><td>Farmer du raisin de niveau 2</td><td>1.6 EXP</td></tr><tr><td>Farmer du tabac</td><td>15 EXP</td></tr><tr><td>Farmer des baies moisies</td><td>11 EXP</td></tr><tr><td>Faire évoluer une plantation au niveau 1</td><td>10 EXP</td></tr><tr><td>Faire évoluer une plantation au niveau 2</td><td>50 EXP</td></tr><tr><td>Farmer de la menthe</td><td>4 EXP</td></tr><tr><td>Farmer du maïs </td><td>0.45 EXP</td></tr><tr><td>Farmer du blé complet</td><td>0.3 EXP</td></tr><tr><td>Casser des feuilles magiques</td><td>1 EXP</td></tr></tbody></table>
 
 ####
 
-### L'utilisation d'<mark style="color:purple;">outil</mark> peut augmenter <mark style="color:purple;">l'xp gagner</mark> en récoltant dans plantation : &#x20;
+### _L'utilisation d'outils peut augmenter <mark style="color:purple;">l'expérience gagnée</mark> en récoltant des plantations :_ &#x20;
 
-Utilisation de la <mark style="color:purple;">houe de replantation</mark> : Donne 10% d'exp en plus \
-Utilisation de la <mark style="color:purple;">faucille</mark> : Donne 10% d'exp en plus \
-Utilisation de la <mark style="color:purple;">houe de drahe</mark> : Donne 30% d'exp en plus \
-Utilisation de la <mark style="color:purple;">faucille de drahe</mark> : Donne 30% d'exp en plus
-
-**5 compétences sont disponible avec cette spécialité, pour obtenir un point de compétence il faut passé un niveau de la spécialité.** \
-\
-Boost exp de la spécialité Agriculteur : \
-\
-Niveau 1 : Boost de <mark style="color:purple;">5% de d'exp</mark> de spécialité Agriculteur. (Cout : 1 point de compétence) \
-Niveau 2 : Boost de <mark style="color:purple;">10% de d'exp</mark> de spécialité Agriculteur. (Cout : 2 point de compétence) \
-Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spécialité Agriculteur. (Cout : 3 point de compétence)\
+Utilisation de la <mark style="color:purple;">houe de replantation</mark> : Donne 10% d'expérience en plus \
+Utilisation de la <mark style="color:purple;">faucille en titane</mark> : Donne 10% d'expérience en plus \
+Utilisation de la <mark style="color:purple;">houe de drahe</mark> : Donne 30% d'expérience en plus \
+Utilisation de la <mark style="color:purple;">faucille de drahe</mark> : Donne 30% d'expérience en plus
 
 
-### Augmentation des ressources basiques (Ajoute un % de chance de drop plus de ressource sur certaines ressources : Blé, Carottes, Patates, Pastèques, Nether Warts, Cacao) : 
+
+### _**5**** **<mark style="color:purple;">**compétences**</mark>** ****sont disponibles avec cette spécialité.**_
+
+{% hint style="info" %}
+_**Pour obtenir un point de compétence, il faut passer un niveau de n'importe quelle spécialité.**_&#x20;
+{% endhint %}
+
+### _Boost d'expérience de la <mark style="color:purple;">spécialité Agriculteur</mark>_  _:_&#x20;
+
+_Donne un boost d'expérience à la spécialité Agriculteur._
+
+Niveau 1 : Boost de <mark style="color:purple;">5% d'expérience</mark> (Cout : 1 point de compétence) \
+Niveau 2 : Boost de <mark style="color:purple;">10% d'expérience</mark> (Cout : 2 points de compétence) \
+Niveau 3 : Boost de <mark style="color:purple;">20% d'expérience</mark> (Cout : 3 points de compétence)\
+
+
+### _Augmentation des ressources <mark style="color:purple;">basiques</mark> :_&#x20;
+
+_Ajoute un pourcentage de chance de drop plus de ressources sur certaines ressources ( Blé, Carottes, Patates, Pastèques, Verrue du nether, Cacao)._
 
 Niveau 1 : <mark style="color:purple;">25% de chance</mark> d'avoir une ressource en plus (Cout : 1 point de compétence) \
 Niveau 2 : <mark style="color:purple;">25% de chance</mark> d'avoir une ressource en plus + <mark style="color:purple;">25% de chance</mark> d'avoir 2 ressources en plus (Cout : 2 points de compétence) \
 Niveau 3 : <mark style="color:purple;">25% de chance</mark> d'avoir une ressource en plus + <mark style="color:purple;">25% de chance</mark> d'avoir 2 ressources en plus + <mark style="color:purple;">15% de chance</mark> d'avoir 3 ressources en plus (Cout : 3 points de compétence)\
 
 
-### Boost poudre légendaire (Augmente le % de chance de faire évoluer une plante, marche avec les poudres niveau 1 et 2) :&#x20;
+### _Boost poudre <mark style="color:purple;">légendaire</mark> :_
+
+_Obtenez une chance de faire gagner 2 niveaux à une plantation en l'améliorant. ( Plantations aux niveaux 0 seulement)_
 
 \
-Niveau 1 : Augmente de <mark style="color:purple;">3% de chance</mark> que la poudre transforme la ressource. (Cout : 1 point de compétence) \
-Niveau 2 : Augmente de <mark style="color:purple;">6% de chance</mark> que la poudre transforme la ressource. (Cout : 2 points de compétence) \
-Niveau 3 : Augmente de <mark style="color:purple;">9% de chance</mark> que la poudre transforme la ressource. (Cout : 3 points de compétence)\
+Niveau 1 :  <mark style="color:purple;">2% de chance</mark>  (Cout : 1 point de compétence) \
+Niveau 2 :  <mark style="color:purple;">4% de chance</mark>  (Cout : 2 points de compétence) \
+Niveau 3 :  <mark style="color:purple;">6% de chance</mark>  (Cout : 3 points de compétence)\
 
 
-### Slots Sac de farm (Limité le sac de farm à 27 slots au début) : 
+### _Slots <mark style="color:purple;">Sac de farm</mark> :_&#x20;
 
-Niveau 1 : Cela ajoute <mark style="color:purple;">27 Slots</mark> dans la sac de farm, au total 54 slots. (Cout : 1 point de compétence)\
+_Augmente la taille de votre sac de farm de_ <mark style="color:purple;">27 Slots</mark> _( total : 54 slots )._
+
+Niveau 1 :  (Cout : 1 point de compétence)\
 
 
-### Amélioration Houe de replantation : 
+### _Amélioration houe de <mark style="color:purple;">replantation</mark> :_&#x20;
 
-Niveau 1 : Replanter une plantation <mark style="color:purple;">ne consomme plus de ressource</mark> dans l'inventaire pour replanter. (Cout : 1 point de compétence)
+_Replanter une plantation ne consomme plus de ressource dans l'inventaire pour replanter._
+
+Niveau 1 :  (Cout : 1 point de compétence)
