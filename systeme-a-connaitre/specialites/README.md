@@ -11,7 +11,7 @@
 * Social 🙋‍♂️
 * Aventurier 🏃‍♂️
 * Epique ✨
-* Bandit 💥
+* Éleveur 🐄
 
 {% hint style="info" %}
 <mark style="color:blue;">**Information**</mark>&#x20;
