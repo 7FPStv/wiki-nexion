@@ -4,9 +4,7 @@
 
 _Pour avoir accès à la spécialité Éleveur, il faut passer le niveau 20 !_
 
-### **Voici les moyens de monter votre **<mark style="color:purple;">**spécialité Éleveur**</mark>** :**
-
-
+### _**Voici les moyens de monter votre**** **<mark style="color:purple;">**spécialité Éleveur**</mark>** ****:**_
 
 <table><thead><tr><th width="451" align="center">Actions</th><th width="297" align="center">Récompenses</th></tr></thead><tbody><tr><td align="center"><em>Fabriquer des céréales de blé complet</em></td><td align="center">0.3 EXP</td></tr><tr><td align="center"><em>Fabriquer des herbes alimentaires</em></td><td align="center">0.3 EXP</td></tr><tr><td align="center"><em>Vendre des œufs dorés</em></td><td align="center">6 - 7 EXP</td></tr><tr><td align="center"><em>Vendre des plumages</em></td><td align="center">0.1 EXP</td></tr><tr><td align="center"><em>Vendre de la graisse de cochon</em></td><td align="center">0.5 EXP</td></tr><tr><td align="center"><em>Vendre de la viande de cochon</em></td><td align="center">0.1 EXP</td></tr><tr><td align="center"><em>Vendre du lait de vache</em></td><td align="center">0.1 EXP</td></tr><tr><td align="center"><em>Vendre du cuir d'élevage</em></td><td align="center">0.3 EXP</td></tr><tr><td align="center"><em>Vendre de la laine d'élevage</em></td><td align="center">0.1 EXP</td></tr><tr><td align="center"><em>Vendre de la viande de mouton</em></td><td align="center">0.5 EXP</td></tr><tr><td align="center"><em>Farmer du blé complet</em></td><td align="center">0.3 EXP</td></tr><tr><td align="center"><em>Farmer du maïs</em> </td><td align="center">0.6 EXP</td></tr><tr><td align="center"><em>Nourrir des animaux</em></td><td align="center">24 - 28 EXP</td></tr><tr><td align="center"><em>Vendre des animaux</em></td><td align="center">10 - 15 EXP</td></tr></tbody></table>
 

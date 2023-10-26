@@ -4,7 +4,7 @@
 
 _Pour avoir accès à la spécialité aventurier, il faut passer le niveau 80 !_
 
-### _**Voici les moyens de monter votre **<mark style="color:purple;">**spécialité aventurier**</mark>** :**_&#x20;
+### _**Voici les moyens de monter votre **<mark style="color:purple;">**spécialité Aventurier**</mark>** :**_&#x20;
 
 {% hint style="info" %}
 _Toutes les quêtes sont à réaliser dans la cité d'holbeck sauf précisé dans l'action de quête ci dessous._

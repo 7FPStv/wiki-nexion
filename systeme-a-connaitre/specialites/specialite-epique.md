@@ -4,9 +4,7 @@
 
 _Pour avoir accès à la spécialité épique, il faut passer le niveau 120 !_
 
-### _**Voici les moyens de monter votre **<mark style="color:purple;">**spécialité épique**</mark>**  :**_&#x20;
-
-
+### _**Voici les moyens de monter votre **<mark style="color:purple;">**spécialité Épique**</mark>**  :**_&#x20;
 
 <table><thead><tr><th width="453" align="center">Actions</th><th width="296" align="center">Récompenses</th></tr></thead><tbody><tr><td align="center"><em>Désenchanter un objet dans la zone épique</em></td><td align="center">1 - 1.5 EXP</td></tr><tr><td align="center"><em>Réparer un objet dans la zone épique</em></td><td align="center">10 - 14 EXP</td></tr><tr><td align="center"><em>Réparer un objet légendaire dans la zone épique</em></td><td align="center">90 EXP</td></tr><tr><td align="center"><em>Échanger un objet dans la zone épique</em></td><td align="center">5 - 7 EXP</td></tr><tr><td align="center"><em>Reset vos sorts dans la zone épique</em></td><td align="center">50 EXP</td></tr><tr><td align="center"><em>Utiliser le fusionneur dans la zone épique</em></td><td align="center">600 EXP</td></tr><tr><td align="center"><em>Améliorer une bague avec le bijoutier de zone épique</em></td><td align="center">4 - 5 EXP</td></tr></tbody></table>
 

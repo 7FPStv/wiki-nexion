@@ -1,8 +1,12 @@
 # 👨🌾 Spécialité Agriculteur
 
-### _**Ceci est une des 3 spécialités que tu débloques par défaut sur le serveur !**_
 
-### _**Voici les moyens de monter votre spécialité **<mark style="color:purple;">**agriculteur**</mark>** :**_&#x20;
+
+{% hint style="info" %}
+### _**Ceci est une des 3 spécialités que tu débloques par défaut sur le serveur !**_
+{% endhint %}
+
+### _**Voici les moyens de monter votre spécialité **<mark style="color:purple;">**Agriculteur**</mark>** :**_&#x20;
 
 
 
