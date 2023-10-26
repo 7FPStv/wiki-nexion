@@ -13,10 +13,18 @@ _Le pourcentage de chance augmente avec le niveau du talisman._
 ### **Talisman **<mark style="color:yellow;">**Maudit**</mark>** ** ![](https://lh4.googleusercontent.com/Jn8jjSwrVIWSKKPpuy5vZVN58eTdvPxuLR1YUq5Grn6VArxoG8ef1mBgMZ\_iWOgWqlb\_YT0LcGmzVD88Icxwupn4vXQiueLtP\_w0BXazrNRa3\_VOMg2apUFpNet2tDYjI-aDphOw)
 
 {% hint style="info" %}
-Ce talisman vous permet de ne plus vous faire attaquer par les disciples, 1% de chance de drop une pièce d'or en tuant des disciples, pourcentage de chance supplémentaire d'avoir des récompenses d'évent Rare (30%) et Légendaire (10%).
+Ce talisman vous permet de ne plus vous faire attaquer par les disciples, 2% de chance de drop un oeuf de villagois magique en tuant des disciples, pourcentage de chance supplémentaire d'avoir des récompenses d'évent Rare (30%) et Légendaire (10%).
 {% endhint %}
 
-### **Talisman **<mark style="color:green;">**Voleur**</mark>  ![](https://lh6.googleusercontent.com/2UjZy5FFNkCirPrGcld8B1NQLUJM6QM25ZBKQvMMkBG43WtD1R25hWiScvwzr4zT38oU5JZxmh1VaSgDe5sBpHbYYoa0oL5SIqJqB383PY8rAmNJ3vLkgz1EZhIxLk1vV3al4YX7)
+### **Talisman **<mark style="color:green;">**Voleur**</mark>** (Monde **<mark style="color:purple;">**Nexion**</mark>**)** ![](https://lh6.googleusercontent.com/2UjZy5FFNkCirPrGcld8B1NQLUJM6QM25ZBKQvMMkBG43WtD1R25hWiScvwzr4zT38oU5JZxmh1VaSgDe5sBpHbYYoa0oL5SIqJqB383PY8rAmNJ3vLkgz1EZhIxLk1vV3al4YX7)
+
+{% hint style="info" %}
+Ce talisman permet d'augmenter vos chances de drop des feuilles de tabac ou une pièce d'or en tuant un gobelin. Au niveau 3 il vous donne un pourcentage de chance d'obtenir 2 pièces d'or lors d'un échange avec le Chef Gobelin.
+
+_Les loots augmentent avec le niveau du talisman._
+{% endhint %}
+
+### **Talisman **<mark style="color:green;">**Voleur**</mark>** (Monde **<mark style="color:yellow;">**Holbeck**</mark>**)** ![](<../.gitbook/assets/image (91).png>)
 
 {% hint style="info" %}
 Ce talisman permet d'augmenter vos chances de drop des feuilles de tabac ou une pièce d'or en tuant un gobelin. Au niveau 3 il vous donne un pourcentage de chance d'obtenir 2 pièces d'or lors d'un échange avec le Chef Gobelin.
@@ -27,7 +35,7 @@ _Les loots augmentent avec le niveau du talisman._
 ### **Talisman **<mark style="color:purple;">**Sombre**</mark>  ![](https://lh3.googleusercontent.com/g-CpEE3XdVwHI\_-cEYzRG7l6bdQKk4AFaF-onFIlvBgDeO7eQYotEvPQhRfF--7c01aHMIqdRP2W9CHtYnQE361pXujdi9--X2xnGdVebUMLlpCfn\_fSgPZAafw4PfhW0cD1F-eC)
 
 {% hint style="info" %}
-Ce talisman augmente le drop des enderpearls en tuant des enderman et vous donne un pourcentage de chance de drop une poudre aléatoire de [bague ](les-bagues.md)en tuant un enderman.
+Ce talisman permet de drop des perles d'aggro en tuant des enderman et vous donne un pourcentage de chance de drop une poudre aléatoire de [bague ](les-bagues.md)en tuant un enderman.
 
 _Le pourcentage de drop augmente avec le niveau du talisman._
 {% endhint %}
@@ -35,7 +43,7 @@ _Le pourcentage de drop augmente avec le niveau du talisman._
 ### **Talisman **<mark style="color:orange;">**Revenant**</mark>  ![](https://lh4.googleusercontent.com/jNFG27w2pw0DQYx5ExksDRrk1uLmEvnUSrN\_ftjmbPpbsYfvE50gxPdXRkK39JNq\_qUaKS8v5uNO1Gpi-PxaDDKRejvvHiF0eZJRmJyFmJKSqpOcAKKnkaV5eps\_2K-NjWQ05C3-)
 
 {% hint style="info" %}
-Ce talisman augmente le loot de cervelet en tuant des mort-vivant, 1 % de chance d'avoir de l'or corrompue en tuant un mort vivant, 0.3% de chance de drop une pièce d'or corrompue.&#x20;
+Ce talisman augmente le loot de cervelet en tuant des mort-vivant, chance de drop une baie moisie en tuant un mort vivant, 0.3% de chance de drop une pièce d'or corrompue.&#x20;
 
 &#x20;_Les loots augmentent avec le niveau du talisman._
 {% endhint %}
@@ -45,10 +53,10 @@ Ce talisman augmente le loot de cervelet en tuant des mort-vivant, 1 % de chance
 Pour obtenir les talismans rien de plus simple :&#x20;
 
 * **Talisman **<mark style="color:red;">**Explosif**</mark>**  :** Poser des oeufs de creeper
-* **Talisman **<mark style="color:yellow;">**Maudit**</mark>** :** Tuer des disciples **(**[**Event donjon**](les-evenements/donjon.md)**)**
-* **Talisman **<mark style="color:green;">**Voleur**</mark>**  :** Tuer des gobelins **(**[**Camp Gobelin**](les-evenements/)**)**
-* **Talisman **<mark style="color:purple;">**Sombre**</mark>**  :** Tuer des Enderman **(**[**Dimension**](la-nouvelle-dimension.md)**)**
-* **Talisman **<mark style="color:orange;">**Revenant**</mark>**  :** Tuer des Mort-vivants **(Warzone/**[**Dimension**](la-nouvelle-dimension.md)**)**
+* **Talisman **<mark style="color:yellow;">**Maudit**</mark>** :** Tuer des disciples avec une épée abyssal **(**[**Event donjon**](les-evenements/donjon.md)**)**
+* **Talisman **<mark style="color:green;">**Voleur**</mark>**  :** Tuer des gobelins avec une épée abyssal **(**[**Camp Gobelin**](les-evenements/)**)**
+* **Talisman **<mark style="color:purple;">**Sombre**</mark>**  :** Tuer des Enderman avec une épée abyssal **(**[**Dimension**](la-nouvelle-dimension.md)**)**
+* **Talisman **<mark style="color:orange;">**Revenant**</mark>**  :** Tuer des Mort-vivants avec une épée abyssal **(Warzone/**[**Dimension**](la-nouvelle-dimension.md)**)**
 
 ### <mark style="color:green;">Comment up son talisman ?</mark>&#x20;
 
