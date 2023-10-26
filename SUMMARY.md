@@ -11,7 +11,6 @@
 ## ━ Mise à jour
 
 * [🌻 Farming Update](mise-a-jour/farming-update/README.md)
-  * [👨🌾 Eleveur](mise-a-jour/farming-update/eleveur.md)
   * [🐷 Elevage](mise-a-jour/farming-update/elevage.md)
   * [🌾 Ressources](mise-a-jour/farming-update/ressources.md)
   * [🆕 Autres fonctionnalités](mise-a-jour/farming-update/autres-fonctionnalites.md)
@@ -37,6 +36,7 @@
   * [Item PvP](guide/equipements/item-pvp.md)
 * [👨🌾 Farming](guide/agricultures.md)
   * [Outils](guide/agricultures/outils.md)
+* [🐮 Elevage](guide/elevage.md)
 * [📖 Grimoire](guide/les-enchantements.md)
 * [🧨 Pillages](guide/pillages.md)
 * [🧙 Magie](guide/la-magie.md)

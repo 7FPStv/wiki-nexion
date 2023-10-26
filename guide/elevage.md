@@ -1,6 +1,8 @@
-# 👨🌾 Eleveur
+# 🐮 Elevage
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Interface de l'eleveur</p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Interface de l'eleveur</p></figcaption></figure>
 
 En faisant la commande **`/eleveur`** vous accédez à l'interface de gestion des niveaux d'éleveur.
 
@@ -32,8 +34,6 @@ Un système de progression pour l'élevage. Il possède le même principe qu'une
 | Vendre de la viande de mouton                                                                                       |    0.5 exp   |
 
 {% hint style="success" %}
-### **4 nouvelles compétences**
-
 Chaque niveau d'éleveur vous donne un point d'éleveur et une récompense. Le point d'éleveur vous permettra d'augmenter vos compétences d'éleveur uniquement.&#x20;
 {% endhint %}
 
@@ -50,3 +50,7 @@ Permettant d'augmenter votre niveau d'éleveur, elles sont uniques au système d
 
 * Ajout d'un pass éleveur qui double le nombre de points de quête donnés + vous donne des loots en plus lorsque vous passez des niveaux.
 * Ajout du shop éleveur. (Accessible seulement si vous avez la compétence **`/shop eleveur`**)
+
+
+
+##
