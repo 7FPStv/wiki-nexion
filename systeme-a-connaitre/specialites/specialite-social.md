@@ -1,24 +1,26 @@
 # 🙋♂ Spécialité Social
 
-### **Accès à la **<mark style="color:purple;">**spécialité**</mark>** :** &#x20;
+### _**Accès à la **<mark style="color:purple;">**spécialité**</mark>** :**_ &#x20;
 
-Pour avoir accès à la spécialité social, il faut passer le niveau 60 !
+_Pour avoir accès à la spécialité social, il faut passer le niveau 160 !_
 
-### **Voici les moyen de monter votre **<mark style="color:purple;">**spécialité social**</mark>** :** &#x20;
+### _**Voici les moyens de monter votre **<mark style="color:purple;">**spécialité social**</mark>** :**_** **&#x20;
 
-<table><thead><tr><th width="175">Faire un échange commun avec Guldor</th><th width="166">Faire un échange légendaire avec Guldor</th><th width="183">Faire un échange commun avec Rodlug</th><th>Faire un échange rare avec Rodlug </th></tr></thead><tbody><tr><td>Faire un échange légendaire avec Rodlug </td><td>Faire un échange avec le chef des Goblin</td><td>Débloquer un objet de collection</td><td>Réaliser un objectif chez le collectionneur</td></tr><tr><td>Faire un échange avec un pnj Magique</td><td>Faire un échange avec un pnj normal</td><td>Faire un échange avec l'archimage</td><td>Mettre une poudre dans une bague</td></tr></tbody></table>
+<table><thead><tr><th width="478">Actions</th><th width="167">Récompenses</th></tr></thead><tbody><tr><td><em>Échanger un objet commun avec guldor</em></td><td>100 - 120 EXP</td></tr><tr><td><em>Échanger un objet rare avec guldor</em></td><td>300 - 450 EXP</td></tr><tr><td><em>Échanger un objet légendaire avec guldor</em></td><td>900 - 1000 EXP</td></tr><tr><td><em>Échanger un objet commun avec rodlug</em></td><td>105 - 125 EXP</td></tr><tr><td><em>Échanger un objet rare avec rodlug</em></td><td>310 - 460 EXP</td></tr><tr><td><em>Échanger un objet légendaire avec rodlug</em></td><td>930 - 1090 EXP</td></tr><tr><td><em>Échanger avec le chef des gobelins</em></td><td>60 - 80 EXP</td></tr><tr><td><em>Débloquer un objet de collection</em></td><td>50 - 60 EXP</td></tr><tr><td><em>Compléter une mission de collection</em></td><td>160 - 220 EXP</td></tr><tr><td><em>Échanger avec un villageois magique</em></td><td>20 - 25 EXP</td></tr><tr><td><em>Échanger avec un villageois</em></td><td>1.9 EXP</td></tr><tr><td><em>Échanger avec l'archimage</em></td><td>9 - 10 EXP</td></tr><tr><td><em>Améliorer une bague avec le bijoutier de la zone épique</em></td><td>7 - 9 EXP</td></tr><tr><td><em>Échanger un objet commun avec vaarel</em></td><td>90 - 110 EXP</td></tr><tr><td><em>Échanger un objet rare avec vaarel</em></td><td>270 - 310 EXP</td></tr><tr><td><em>Échanger un objet légendaire avec vaarel</em></td><td>810 - 890 EXP</td></tr></tbody></table>
 
+### _<mark style="color:purple;">**5 compétences**</mark>** ****sont disponibles avec cette spécialité :**_
 
+{% hint style="info" %}
+_**Pour obtenir un point de compétence, il faut passer un niveau de n'importe quelle spécialité.**_&#x20;
+{% endhint %}
 
-### <mark style="color:purple;">**5 compétences**</mark>** sont disponible avec cette spécialité**&#x20;
+### _Boost d'expérience de la <mark style="color:purple;">spécialité social</mark> :_&#x20;
 
-#### **Pour obtenir un point de compétence il faut passé un niveau de la spécialité.**&#x20;
+_Donne un boost d'expérience à la spécialité Social._
 
-### Boost exp de la <mark style="color:purple;">spécialité social</mark> :&#x20;
-
-Niveau 1 : Boost de <mark style="color:purple;">5% de d'exp</mark> de spécialité Social. (Cout : 1 point de compétence)\
-Niveau 2 : Boost de <mark style="color:purple;">10% de d'exp</mark> de spécialité Social. (Cout : 2 point de compétence)\
-Niveau 3 : Boost de <mark style="color:purple;">20% de d'exp</mark> de spécialité Social. (Cout : 3 point de compétence)\
+Niveau 1 : Boost de <mark style="color:purple;">5% d'expérience</mark> (Cout : 1 point de compétence)\
+Niveau 2 : Boost de <mark style="color:purple;">10% d'expérience</mark> (Cout : 2 point de compétence)\
+Niveau 3 : Boost de <mark style="color:purple;">20% d'expérience</mark> (Cout : 3 point de compétence)\
 
 
 ### Guldor slot privé (Même compétence que la classe marchande actuel, il y aura juste un changement de %) :&#x20;
