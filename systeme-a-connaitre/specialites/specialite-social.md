@@ -19,28 +19,35 @@ _**Pour obtenir un point de compétence, il faut passer un niveau de n'importe q
 _Donne un boost d'expérience à la spécialité Social._
 
 Niveau 1 : Boost de <mark style="color:purple;">5% d'expérience</mark> (Cout : 1 point de compétence)\
-Niveau 2 : Boost de <mark style="color:purple;">10% d'expérience</mark> (Cout : 2 point de compétence)\
-Niveau 3 : Boost de <mark style="color:purple;">20% d'expérience</mark> (Cout : 3 point de compétence)\
+Niveau 2 : Boost de <mark style="color:purple;">10% d'expérience</mark> (Cout : 2 points de compétence)\
+Niveau 3 : Boost de <mark style="color:purple;">20% d'expérience</mark> (Cout : 3 points de compétence)\
 
 
-### Guldor slot privé (Même compétence que la classe marchande actuel, il y aura juste un changement de %) :&#x20;
+### _Compétence <mark style="color:purple;">Négociateur</mark> :_&#x20;
 
-Niveau 1 : Avoir un item commun : <mark style="color:purple;">89%</mark> , Avoir un items rare : <mark style="color:purple;">10%</mark>, Avoir un item légendaire : <mark style="color:purple;">1%</mark>\
-Niveau 2 : Avoir un item commun : <mark style="color:purple;">82%</mark>, Avoir un items rare : <mark style="color:purple;">15%</mark>, Avoir un item légendaire : <mark style="color:purple;">3%</mark>\
-Niveau 3 : Avoir un item commun : <mark style="color:purple;">75%</mark>, Avoir un items rare : <mark style="color:purple;">20%</mark>, Avoir un item légendaire : <mark style="color:purple;">5%</mark>\
-_PS : Le mercredi, tu ne peux avoir que du commun._
+_Pourcentage de chance de diviser par deux le cout d'un échange (<mark style="color:purple;">Guldor</mark>, <mark style="color:red;">Rodlug</mark>, <mark style="color:green;">Vaarel</mark>)._
 
-### Chance en plus d'avoir un pnj magique lorsque l'on pose un oeuf de pnj : 
+Niveau 1 : <mark style="color:purple;">2% de chance</mark> (Cout : 1 point de compétence)\
+Niveau 2 : <mark style="color:purple;">4% de chance</mark> (Cout : 2 points de compétence)\
+Niveau 3 : <mark style="color:purple;">6% de chance</mark> (Cout : 3 points de compétence)
 
-Niveau 1 : <mark style="color:purple;">1% de chance</mark> en plus d'avoir un pnj magique.\
-Niveau 2 : <mark style="color:purple;">2% de chance</mark> en plus d'avoir un pnj magique.\
-Niveau 3 : <mark style="color:purple;">3% de chance</mark> en plus d'avoir un pnj magique.
+### _Villageois <mark style="color:purple;">magique</mark> :_&#x20;
 
-### Echange avec le chef des goblins :&#x20;
+_Augmente la chance d'avoir un villageois magique. (8% par défaut)_
 
-Niveau 1 : Vous avez <mark style="color:purple;">50% de chance</mark> que le chef ne s'énerve pas même si vous ratez l'échange.\
+Niveau 1 : <mark style="color:purple;">1% de chance</mark> (Cout : 1 point de compétence)\
+Niveau 2 : <mark style="color:purple;">2% de chance</mark> (Cout : 2 points de compétence)\
+Niveau 3 : <mark style="color:purple;">3% de chance</mark> (Cout : 3 points de compétence)
+
+### _Échange avec le chef des <mark style="color:purple;">gobelins</mark> :_&#x20;
+
+_Obtiens un pourcentage de chance supplémentaire d'arnaquer le chef des gobelins._
+
+Niveau 1 :  <mark style="color:purple;">10% de chance</mark> en plus. (Cout : 1 point de compétence)\
 
 
-### Trésor de la cité (Reprendre la compétence /tresor de la classe marchande) :
+### _Compétence <mark style="color:purple;">trésor</mark> :_
 
-Niveau 1 : Toutes les 24 heures, tu peux taper <mark style="color:purple;">la commande /tresor</mark> pour récupérer des ressources qui vont apparaitre dans un coffre en warzone.
+_Débloque la possibilité de faire spawn des trésors personnels dans la warzone avec la commande /**tresor**. (délai de 24 heures)_
+
+Niveau 1 : (Cout : 1 point de compétence)
