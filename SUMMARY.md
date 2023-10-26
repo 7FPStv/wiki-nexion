@@ -83,7 +83,7 @@
 * [🧚♂ Spécialités](systeme-a-connaitre/specialites/README.md)
   * [💎 Spécialité Mineur](systeme-a-connaitre/specialites/classe-guerriere.md)
   * [👨🌾 Spécialité Agriculteur](systeme-a-connaitre/specialites/specialite-agriculteur.md)
-  * [🔨 Spécialité Fabriquant](systeme-a-connaitre/specialites/specialite-fabriquant.md)
+  * [🔨 Spécialité Fabricant](systeme-a-connaitre/specialites/specialite-fabricant.md)
   * [💰 Spécialité Marchand](systeme-a-connaitre/specialites/classe-marchande.md)
   * [🐂 Spécialité Éleveur](systeme-a-connaitre/specialites/specialite-eleveur.md)
   * [🔮 Spécialité Dimension](systeme-a-connaitre/specialites/specialite-dimension.md)
