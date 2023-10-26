@@ -110,7 +110,7 @@ _Vous pourez débloquer avec les niveaux de votre écuyer de nouvelle capacité 
 * _Niveau 27 : Temps d'activité 4 heures. (Durée de l'activité de l'écuyer sur 24 heures)_
 * _Niveau 28 : Donne accès au 5e slots du Villageois Marchand. (Pas besoin d'activé l'écuyer pour que cela fonction)_
 * _Niveau 29 : 20% d'exp bonus pour l'écuyer._
-* _Niveau 30 : Réparation de Niveau 3 : Répare les stuffs/outils/épées en titane ainsi que la Faucille en titane,masse, faucille abyssal, canne à pêche de mana, passe partout en 2 heures. (Réparateur)_
+* _Niveau 30 : Réparation de Niveau 3 : Répare les stuffs/outils/épées en titane ainsi que la Faucille en titane,masse, faucille abyssal, canne à pêche de mana, passe partout et pioche de richesse en 2 heures. (Réparateur)_
 * _Niveau 31 : 15% de récupérer une agriculture de base lorsque le joueur la casse. (Farmeur)_
 * _Niveau 32 : 20% de chance de récupérer une bottlexp lorsqu'un monstre en tuer. (Tueur de monstre)_
 * _Niveau 33 : 17% de récupérer une agriculture de base lorsque le joueur la casse. (Farmeur)_
