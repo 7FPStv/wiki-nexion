@@ -10,6 +10,10 @@ _L'interface de votre écuyer est accessible en cliquant sur le PNJ dédié à l
 
 ![Interface du menu de l'Ecuyer.](../.gitbook/assets/écuyer.PNG)
 
+{% hint style="danger" %}
+_**Par défaut tu peux monter ton écuyer jusqu'au niveau 20. Pour repousser cette limite, il faut monter de rang. Toutes les informations sont sur la page**_ [_**classe**_](les-classes.md)_**.**_
+{% endhint %}
+
 _Par défaut lorsque tu débloques l'écuyer, tu as un <mark style="color:orange;">objectif chaque jour</mark> (en fonction de ton niveau tu peux débloquer <mark style="color:red;">plusieurs objectifs</mark> par jour, 3 maximum)._
 
 _Dans un objectif tu devras donner entre <mark style="color:orange;">1 et 2 ressources</mark> différentes à l'écuyer (avec des quantités différentes) pour pouvoir réussir l'objectif. **Pour réussir l'objectif**, l'écuyer doit récupérer la <mark style="color:red;">bonne quantité</mark> de ressources par lui même, l'objectif se termine automatiquement quand cela est réalisé._
