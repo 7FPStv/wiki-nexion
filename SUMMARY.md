@@ -11,8 +11,6 @@
 ## ━ Mise à jour
 
 * [🌻 Farming Update](mise-a-jour/farming-update/README.md)
-  * [🐷 Elevage](mise-a-jour/farming-update/elevage.md)
-  * [🌾 Ressources](mise-a-jour/farming-update/ressources.md)
   * [🆕 Autres fonctionnalités](mise-a-jour/farming-update/autres-fonctionnalites.md)
 
 ## Informations
@@ -35,7 +33,8 @@
   * [Armes](guide/equipements/armes.md)
   * [Item PvP](guide/equipements/item-pvp.md)
 * [👨🌾 Farming](guide/agricultures.md)
-  * [Outils](guide/agricultures/outils.md)
+  * [🪚 Outils](guide/agricultures/outils.md)
+  * [🌾 Ressources Elevage](guide/agricultures/ressources-elevage.md)
 * [🐮 Elevage](guide/elevage.md)
 * [📖 Grimoire](guide/les-enchantements.md)
 * [🧨 Pillages](guide/pillages.md)
@@ -97,15 +96,16 @@
   * [🐂 Spécialité Éleveur](systeme-a-connaitre/specialites/specialite-eleveur.md)
 * [📜 Quêtes](systeme-a-connaitre/quetes.md)
 * [🎯 Classement](systeme-a-connaitre/classement-et-quetes.md)
-* [🛒 Boutique sur le site](systeme-a-connaitre/boutique-sur-le-site.md)
-* [🏠 Téléportation rapide](systeme-a-connaitre/teleportation-rapide.md)
 * [🪙 Récompenses journalières](systeme-a-connaitre/recompenses-journalieres.md)
 * [💰 Hôtel des ventes](systeme-a-connaitre/hotel-des-ventes.md)
 * [👩⚖ Les enchères](systeme-a-connaitre/les-encheres.md)
 * [🧑🌾 Marchand / Shop](systeme-a-connaitre/shop-market.md)
 * [🔣 Quota](systeme-a-connaitre/quota.md)
+* [🏺 Artefacts](systeme-a-connaitre/artefacts.md)
 * [🕵 Le collectionneur](systeme-a-connaitre/le-collectionneur.md)
 * [🌾 L'écuyer](systeme-a-connaitre/lecuyer.md)
+* [🏠 Téléportation rapide](systeme-a-connaitre/teleportation-rapide.md)
+* [🛒 Boutique sur le site](systeme-a-connaitre/boutique-sur-le-site.md)
 * [💶 Echange sécurisé](systeme-a-connaitre/echange-securise.md)
 * [📊 Statistiques](systeme-a-connaitre/statistiques.md)
 * [📫 Mailbox](systeme-a-connaitre/mailbox.md)

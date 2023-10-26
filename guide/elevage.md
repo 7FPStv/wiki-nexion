@@ -1,56 +1,52 @@
 # 🐮 Elevage
 
+<figure><img src="../.gitbook/assets/cage-vache.png" alt=""><figcaption><p>Interface d'élevage</p></figcaption></figure>
 
+## **Caisses d'élevages**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Interface de l'eleveur</p></figcaption></figure>
+Pour lancer un élevage, vous devez donner 2 œufs du même type que la caisse d'élevage
 
-En faisant la commande **`/eleveur`** vous accédez à l'interface de gestion des niveaux d'éleveur.
-
-{% hint style="info" %}
-### **20 niveaux**
-
-Un système de progression pour l'élevage. Il possède le même principe qu'une spécialité de classe avec des récompenses, compétences et des quêtes.
-{% endhint %}
-
-| Comment EXP ?                                                                                                       |  EXP gagnés  |
-| ------------------------------------------------------------------------------------------------------------------- | :----------: |
-| <p><strong>Nourrir une vache</strong><br><em>Donne l'XP lorsque tu as donné toutes les ressources demandé</em></p>  |  24 - 28 exp |
-| <p><strong>Nourrir un cochon</strong><br><em>Donne l'XP lorsque tu as donné toutes les ressources demandé</em></p>  |  24 - 28 exp |
-| <p><strong>Nourrir une poulet</strong><br><em>Donne l'XP lorsque tu as donné toutes les ressources demandé</em></p> |  24 - 28 exp |
-| <p><strong>Nourrir un mouton</strong><br><em>Donne l'XP lorsque tu as donné toutes les ressources demandé</em></p>  |  24 - 28 exp |
-| Récolter du blé complet                                                                                             |    0.3 exp   |
-| Récolter du Maïs                                                                                                    |    0.6 exp   |
-| Vendre une bête                                                                                                     |  10 - 15 exp |
-| Faire des échanges avec les fermiers d'Holbeck                                                                      |   3 - 4 exp  |
-| Craft des céréales de blé complet                                                                                   |    0.3 exp   |
-| Craft des herbes alimentaires                                                                                       |    0.3 exp   |
-| Vendre des Œufs doré                                                                                                |   6 - 7 exp  |
-| Vendre des plumages                                                                                                 |    0.1 exp   |
-| Vendre de la graisse de cochon                                                                                      |    0.5 exp   |
-| Vendre de la viande de cochon                                                                                       |    0.1 exp   |
-| Vendre du lait de vache                                                                                             |    0.1 exp   |
-| Vendre du cuir d'élevage                                                                                            |    0.3 exp   |
-| Vendre de la laine d'élevage                                                                                        |    0.1 exp   |
-| Vendre de la viande de mouton                                                                                       |    0.5 exp   |
-
-{% hint style="success" %}
-Chaque niveau d'éleveur vous donne un point d'éleveur et une récompense. Le point d'éleveur vous permettra d'augmenter vos compétences d'éleveur uniquement.&#x20;
-{% endhint %}
-
-* **Compétence boost xp éleveur :** donne 10% d'exp éleveur en plus <mark style="color:red;">(Cout 5 Points d'éleveur)</mark>
-* **Compétence vente d'animaux :** donne accès à la vente d'animaux. <mark style="color:red;">(Cout 5 Points d'éleveur)</mark>
-* **Compétence shop éleveur :** donne accès au shop Eleveur. <mark style="color:red;">(Cout 5 Points d'éleveur)</mark>
-* **Compétence double animal :** donne 10% de chance d'avoir un deuxième animal dans la caisse d'élevage au lieu d'une lorsque les ressources sont donnés. <mark style="color:red;">(Cout 5 Points d'éleveur)</mark>
+* Vaches :cow2:
+* Moutons :sheep:
+* Cochons :pig:
+* Poulets :chicken:
 
 {% hint style="info" %}
-### **20 quêtes uniques**
+### **Comment tout ça fonctionne ?**
 
-Permettant d'augmenter votre niveau d'éleveur, elles sont uniques au système d'éleveur.
+\
+**Obtention :** Dans la cité d'Holbeck, il y a 2 fermes avec 2 fermiers. En faisant des échanges avec eux vous pouvez obtenir les caisses d'élevages ou des ressources liées aux caisses.\
+\
+**Utilité :** Récolter des ressources ou de vendre des animaux.\
+\
+**Placement :** Entoure la cage de 8 bloc d'herbe pour interagir avec.\
+
 {% endhint %}
 
-* Ajout d'un pass éleveur qui double le nombre de points de quête donnés + vous donne des loots en plus lorsque vous passez des niveaux.
-* Ajout du shop éleveur. (Accessible seulement si vous avez la compétence **`/shop eleveur`**)
+### Comment avoir plus d'animaux dans vos cages ?
 
+* Lors d'une **naissance**, vous pouvez avoir entre **1 à 3 animaux** qui apparaissent.
+* Vous avez **une heure** pour les nourrir sinon ils meurent.
+* Lorsqu'ils sont nourri, ils vont dans la caisse d'élevage. <mark style="color:green;">**(+1 animal)**</mark>
 
+### Les niveaux de caisses d'élevage
 
-##
+Il existe 3 Niveaux de Caisses d'élevage (Par défaut la caisse est niveau 1) :
+
+* Avantage Niveau 1 : cooldown de 3 heures avant de pouvoir faire une nouvelle naissance, le cout de la vente d'un animal est de 200$. Nombre d'animaux maximum : 100. Nombre de ressources accumulable maximum : 1000. Temps avant le drop d'une nouvelle ressource : toutes les 1 heure.
+* Avantage Niveau 2 : cooldown de 2 heures avant de pouvoir faire une nouvelle naissance, le cout de la vente d'un animal est de 400$. Nombre d'animaux maximum : 200. Nombre de ressources accumulable maximum : 2000. Temps avant le drop d'une nouvelle ressource : toutes les 45 minutes.
+* Avantage Niveau 3 : cooldown de 1 heure avant de pouvoir faire une nouvelle naissance, le cout de la vente d'un animal est de 600$. Nombre d'animaux maximum : 300. Nombre de ressources accumulable maximum : 3000. Temps avant le drop d'une nouvelle ressource : toutes les 30 minutes.\
+  \
+
+* Pour faire évoluer une caisse d'élevage, vous devez donner un certains nombres d'animaux :
+  * Niveau 1 ➝ Niveau 2 = 30 Animaux
+  * Niveau 2 ➝ Niveau 3 = 60 Animaux\
+    \
+
+* Vous pouvez poser par défaut 10 Caisses d'élevages dans votre faction. (Vous êtes obligés de les poser dans vos claims)\
+  \
+
+* Si vous cassez une caisse d'élevage ou que la zone est unclaim, toutes les ressources et animaux disparaissent (Comme les maisons de villageois). Par contre vous gardez le niveau de la caisse d'élevage.\
+  \
+
+* 1 Animal = 1 ressource qui drop tous les x temps. Exemple si vous avez 85 animaux dans une caisse d'élevage de niveau 2, vous allez drop 85 ressources toutes les 45 minutes.

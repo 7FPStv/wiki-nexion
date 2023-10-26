@@ -16,8 +16,8 @@ Découvrir le changelogs avec les détails de la **mise à jour :**\
 
 ## Les différentes nouveautés de la mise à jour&#x20;
 
-{% content-ref url="elevage.md" %}
-[elevage.md](elevage.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 
