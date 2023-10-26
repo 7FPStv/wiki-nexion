@@ -1,4 +1,4 @@
-# 🌾 Ressources
+# 🌾 Ressources Elevage
 
 * **Graines de blé complet :** Permet de faire pousser du blé complet. (fonctionne comme le blé normal)
 * **Maïs :** Ressource obtenable grâce au plant de Maïs.

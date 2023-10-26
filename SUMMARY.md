@@ -8,11 +8,6 @@
     * [🎮 3. Commencer à jouer](welcome/installer-et-jouer/3.-commencer-a-jouer.md)
   * [🏰 Découvrir le jeu](welcome/decouvrir-le-jeu.md)
 
-## ━ Mise à jour
-
-* [🌻 Farming Update](mise-a-jour/farming-update/README.md)
-  * [🆕 Autres fonctionnalités](mise-a-jour/farming-update/autres-fonctionnalites.md)
-
 ## Informations
 
 * [🔗 Liens utiles](informations/liens-utiles.md)
@@ -34,7 +29,7 @@
   * [Item PvP](guide/equipements/item-pvp.md)
 * [👨🌾 Farming](guide/agricultures.md)
   * [🪚 Outils](guide/agricultures/outils.md)
-  * [🌾 Ressources Elevage](guide/agricultures/ressources-elevage.md)
+  * [🌾 Ressources Elevage](mise-a-jour/farming-update/ressources.md)
 * [🐮 Elevage](guide/elevage.md)
 * [📖 Grimoire](guide/les-enchantements.md)
 * [🧨 Pillages](guide/pillages.md)
@@ -79,9 +74,7 @@
 
 ## Système à connaître
 
-* [❗ Commandes utiles](systeme-a-connaitre/informations-utiles-1.md)
 * [⚔ Factions](systeme-a-connaitre/factions.md)
-* [🎒 Les kits de départ](systeme-a-connaitre/les-kits-de-depart.md)
 * [👑 Classe](systeme-a-connaitre/les-classes.md)
 * [🧚♂ Spécialités](systeme-a-connaitre/specialites/README.md)
   * [👨🌾 Spécialité Agriculteur](systeme-a-connaitre/specialites/specialite-agriculteur.md)
@@ -96,7 +89,6 @@
   * [🐂 Spécialité Éleveur](systeme-a-connaitre/specialites/specialite-eleveur.md)
 * [📜 Quêtes](systeme-a-connaitre/quetes.md)
 * [🎯 Classement](systeme-a-connaitre/classement-et-quetes.md)
-* [🪙 Récompenses journalières](systeme-a-connaitre/recompenses-journalieres.md)
 * [💰 Hôtel des ventes](systeme-a-connaitre/hotel-des-ventes.md)
 * [👩⚖ Les enchères](systeme-a-connaitre/les-encheres.md)
 * [🧑🌾 Marchand / Shop](systeme-a-connaitre/shop-market.md)
@@ -104,6 +96,9 @@
 * [🏺 Artefacts](systeme-a-connaitre/artefacts.md)
 * [🕵 Le collectionneur](systeme-a-connaitre/le-collectionneur.md)
 * [🌾 L'écuyer](systeme-a-connaitre/lecuyer.md)
+* [🪙 Récompenses journalières](systeme-a-connaitre/recompenses-journalieres.md)
+* [❗ Commandes utiles](systeme-a-connaitre/informations-utiles-1.md)
+* [🎒 Les kits de départ](systeme-a-connaitre/les-kits-de-depart.md)
 * [🏠 Téléportation rapide](systeme-a-connaitre/teleportation-rapide.md)
 * [🛒 Boutique sur le site](systeme-a-connaitre/boutique-sur-le-site.md)
 * [💶 Echange sécurisé](systeme-a-connaitre/echange-securise.md)
