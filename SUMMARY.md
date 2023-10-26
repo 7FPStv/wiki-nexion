@@ -20,6 +20,7 @@
 ***
 
 * [🔰 Iris arena](iris-arena.md)
+* [Puit de Création](puit-de-creation.md)
 
 ## ━ Guide du serveur <a href="#guide" id="guide"></a>
 
