@@ -46,6 +46,7 @@
   * [🪦 Cimetières](guide/les-evenements/cimetieres.md)
   * [💨 Les poudres](guide/la-nouvelle-dimension/les-poudres.md)
   * [⛰ Les mines Corrompues](guide/la-nouvelle-dimension/les-mines-corrompues.md)
+  * [L'épée Abyssale](guide/la-nouvelle-dimension/lepee-abyssale.md)
 * [🗺 Cité d'Holbeck](guide/nouvelle-cite-holbeck.md)
   * [👑 Roi](guide/cite-dholbeck/roi.md)
   * [🧙♂ Vaarel](guide/cite-dholbeck/vaarel.md)

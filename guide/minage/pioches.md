@@ -5,7 +5,7 @@
 **Les pioches sont fabricables avec la table de fabrication.**
 
 {% hint style="info" %}
-### ![](<../../.gitbook/assets/image (2) (1).png>)  Pioche en <mark style="color:blue;">Opale</mark> ![](../../.gitbook/assets/opale\_pickaxe.png)
+### ![](<../../.gitbook/assets/image (2) (1) (1).png>)  Pioche en <mark style="color:blue;">Opale</mark> ![](../../.gitbook/assets/opale\_pickaxe.png)
 
 **Durabilité** : 3 200
 {% endhint %}
