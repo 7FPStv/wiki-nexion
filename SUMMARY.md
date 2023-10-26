@@ -17,6 +17,10 @@
   * [Règlement partenariat](informations/reglement/reglement-partenariat.md)
   * [Liste des sanctions](informations/reglement/liste-des-sanctions.md)
 
+***
+
+* [🔰 Iris arena](iris-arena.md)
+
 ## ━ Guide du serveur <a href="#guide" id="guide"></a>
 
 * [⛏ Minage](guide/minage/README.md)
