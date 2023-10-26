@@ -19,7 +19,7 @@ _La vie du bouclier dépend du niveau de la bague_
 ### **Bague de **<mark style="color:blue;">**Mana**</mark> ![](https://lh5.googleusercontent.com/V-bzL9hiJw6p\_0ZWz7hW9CB43M6MrSvWN4S\_kMl2bZnkkUD4gMnimcKsblDH1wrUCimq1JE5uf66Lx-I2jz429wGrp87gft1sdxyjvqsV8iL1hmB2EqNZ9PhUOHLO0odjJ\_MsaVQ)&#x20;
 
 {% hint style="info" %}
-Cette bague vous permet d’avoir une chance de ne pas consommer de mana en faisant un sort.
+Cette bague vous permet d’avoir qu'un trade avec un villagois magique sois gratuit. Au niveau max vous avez une chance de ne pas consommer de mana en faisant un sort.
 
 _Le pourcentage de chance augmente avec le niveau de la bague_
 {% endhint %}
@@ -35,7 +35,7 @@ _Le pourcentage de chance augmente avec le niveau de la bague. Les plantations c
 ### **Bague de Métal** ![](https://lh5.googleusercontent.com/nIA50hyyul7q3hIf7GuKqi8cMBEGTBQvo1gjNbjYFcxe8SUS22a1jK7NRZnS\_ZKlhvKWhc2PNEjyOme7cUF714Fxfe9QD8ebJJS1l9DzXChbCD2x83Udit9\_DlatgbwzcQnm5ZuD)
 
 {% hint style="info" %}
-Cette bague permet d’avoir une chance de récupérer des minerais lors d’une réparation d’item sur une enclume.&#x20;
+Cette bague permet d’avoir une chance de récupérer un minerais de plus en cassant avec une pioche de richesse.&#x20;
 
 _Le pourcentage de chance augmente avec le niveau de la bague. Les minerais où la bague peut s’appliquer changent avec le niveau._
 {% endhint %}
@@ -53,9 +53,11 @@ _Le pourcentage de chance augmente avec le niveau de la bague._
 {% hint style="info" %}
 Cette bague permet d’avoir une chance :&#x20;
 
-* De ne pas consommer du temps d’écuyer lors d’une réparation d’item&#x20;
-* Doubler les ressources récupérées par l’écuyer (bague lvl2)&#x20;
-* Doubler l’xp d’écuyer gagnée (bague lvl4)&#x20;
+De ne pas consommer du temps d’écuyer lors d’une réparation d’item&#x20;
+
+Doubler les ressources récupérées par l’écuyer (bague lvl2)&#x20;
+
+
 
 _Le pourcentage de chance augmente avec le niveau de la bague._
 {% endhint %}
