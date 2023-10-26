@@ -50,6 +50,10 @@ _Rien de plus simple, il te suffit simplement de te rendre à gauche du point de
 
 ## _Rentrer c'est bien mais sortir c'est parfois mieux !_
 
-_Trouve une des nombreuses zones en améthyste et tu pourras fuir cette zone hostile._
+_Trouve une des nombreuses zones en améthyste et tu pourras fuir cette zone hostile._&#x20;
+
+{% hint style="info" %}
+_Durée de téléportation de <mark style="color:red;">5 secondes</mark>._
+{% endhint %}
 
 <figure><img src=".gitbook/assets/2023-10-26_15.31.56.png" alt=""><figcaption><p><strong>ZONE DE RETOUR SPAWN</strong></p></figcaption></figure>
