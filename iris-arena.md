@@ -1,12 +1,8 @@
 # 🔰 Iris arena
 
-
-
-#### _Tu en as marre de te faire atomiser par des stuffs légendaires alors que tu peines déjà à te faire un P4 iris ?_&#x20;
+#### _Tu en as marre de te faire atomiser par des stuffs légendaires alors que tu peines déjà à te faire un P4 iris ?_
 
 ### L'IRIS ARENA EST FAITE POUR TOI !
-
-
 
 {% hint style="info" %}
 _Attention si tu déconnectes dans l'arène, <mark style="color:red;">t</mark><mark style="color:red;">**u succomberas immédiatement !**</mark>_
@@ -17,7 +13,7 @@ _Attention si tu déconnectes dans l'arène, <mark style="color:red;">t</mark><m
 
 
 {% hint style="info" %}
-#### _L'intégralité des items légendaires ainsi que des items en titane y sont <mark style="color:red;">interdits</mark>._
+#### _L'intégralité des items légendaires ainsi que les items en titane y sont <mark style="color:red;">interdits</mark>._
 {% endhint %}
 
 _Tu pourras donc y combattre à stuff équitable et augmenter tes chances de multiplier tes richesses._&#x20;
