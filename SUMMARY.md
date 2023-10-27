@@ -74,7 +74,8 @@
   * [🛡 Guerre des boss](guide/les-evenements/guerre-des-boss.md)
   * [⌛ Game Of Thrones](guide/les-evenements/game-of-thrones.md)
   * [🚩 Conquest](guide/les-evenements/conquest.md)
-  * [🥇 Quêtes global](guide/les-evenements/quetes-global.md)
+  * [🥇 Quêtes Globales](guide/les-evenements/quetes-global.md)
+  * [📊 Faction Challenge](guide/les-evenements/faction-challenge.md)
 * [⛺ Camps des gobelins](guide/les-evenements/camps-des-gobelins.md)
 
 ## Système à connaître

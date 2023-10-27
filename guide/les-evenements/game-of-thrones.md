@@ -15,7 +15,7 @@ Pour cette première partie, il faudra <mark style="color:orange;">casser</mark>
 
 <mark style="color:red;">**ATTENTION !**</mark>  Il faut mettre le <mark style="color:orange;">dernier</mark> coup sur un cristal pour <mark style="color:red;">qualifier</mark> sa faction !&#x20;
 
-Il y a <mark style="color:orange;">10 cristaux</mark>, donc un potentiel de <mark style="color:red;">10 factions</mark> qualifiées ! Après qu'une faction ait cassé un cristal, elle ne peut plus en casser d'autre. Vous obtiendrez <mark style="color:red;">20</mark> points de faction challenge.
+Il y a <mark style="color:orange;">10 cristaux</mark>, donc un potentiel de <mark style="color:red;">10 factions</mark> qualifiées ! Après qu'une faction ait cassé un cristal, elle ne peut plus en casser d'autre. Vous obtiendrez <mark style="color:red;">30</mark> points de faction challenge.
 
 {% hint style="info" %}
 ### Le KOTH (King of the Hill) :
@@ -51,5 +51,5 @@ Vous pouvez à <mark style="color:orange;">tout moment</mark> sortir du palais, 
 #### Le portail situé à <mark style="color:orange;">l'entrée du monde donjon</mark> ramenant à la warzone est <mark style="color:red;">desactivé</mark> pendant toute la durée de l'évènement.
 
 {% hint style="success" %}
-La faction qui remporte le GOT obtient 100 points pour le faction challenge. En plus de cela, toute la faction obtient les effets <mark style="color:blue;">**Speed II**</mark> / <mark style="color:red;">**Fire Resistance**</mark> / <mark style="color:green;">**3 cœurs**</mark> supplémentaires en dimension jusqu'au prochain GOT !
+La faction qui remporte le GOT obtient 250 points pour le faction challenge. En plus de cela, toute la faction obtient les effets <mark style="color:blue;">**Speed II**</mark> / <mark style="color:red;">**Fire Resistance**</mark> / <mark style="color:green;">**3 cœurs**</mark> supplémentaires en dimension jusqu'au prochain GOT !
 {% endhint %}
