@@ -1,4 +1,4 @@
-# 🎮 3. Commencer à jouer
+# 🎮 Commencer à jouer
 
 ## Rejoins l'univers de Nexion et commence à jouer !
 
@@ -32,7 +32,7 @@ En faisant un **(CLIQUE DROIT)** sur la **🧭 Boussole** en jeu tu pourras aper
 
 🏰 **Rejoindre le Factions ->** Le serveur faction, te permettant de rejoindre notre grand univers et rencontrer la communauté de joueurs.
 
-🌍 **Rejoindre le Minage1 ou Minage2 ->** Les serveurs minages te permettent de miner et de récupérer des ressources, tu auras plus d'informations dans l'onglet [Broken link](broken-reference "mention")
+🌍 **Rejoindre le Minage1 ou Minage2 ->** Les serveurs minages te permettent de miner et de récupérer des ressources, tu auras plus d'informations dans l'onglet
 
 🚧 **Dev ->** Le serveur de développement utile pour nos tests, nos futurs mise-à-jours. Si jamais un jour tu as l'honneur de rejoindre ce serveur c'est que tu as été tiré au sort à notre demande pour ton avis sur un nouveau système ou un test.&#x20;
 

@@ -1,24 +1,31 @@
 ---
+cover: .gitbook/assets/wiki-nexion (1).png
+coverY: 34.751999999999995
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
 ---
 
-# Maintenance
+# Bienvenue sur Nexion
 
-##
+**Halte-là jeune aventurier !** Je te souhaite la Bienvenue dans l'univers de Nexion. Tu viens de découvrir notre monde et tu souhaites tout découvrir. Tu te trouves au meilleur endroit pour tout apprendre et devenir le meilleur ! Laisse-moi te guider pas à pas.
 
-## **Le wiki est en maintenance.**
+### <mark style="color:purple;">**Qu'est-ce que Nexion ?**</mark>
 
-Nous sommes en train de travailler dessus durant la fermeture de notre version 6. Tu peux toujours y accéder mais tu auras surement des pages incomplètes ou même des changements de design.
+Un serveur de jeu Minecraft Français dans le mode de jeu "faction" moddé en 1.7 avec des **exclusivités mêlant RP et Fantaisie** ayant pour but de surprendre la communauté qui en attend plus du jeu.
 
-\
-**N'hésitez pas si vous souhaitez nous faire un feedback faites le sur** [<mark style="color:purple;">**Discord**</mark>](https://discord.nexion.fr/)**.**
+Un monde avec un système de classes inédit, de la magie avec des sorts, de tout nouveaux monstres, plus de 200 quêtes exclusives ainsi que des évènements unique à notre cosmos.
+
+
+
