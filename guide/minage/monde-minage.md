@@ -1,5 +1,7 @@
 # Monde Minage
 
+<figure><img src="../../.gitbook/assets/minage.png" alt=""><figcaption></figcaption></figure>
+
 ### Partons à la <mark style="color:purple;">découverte des mondes minages</mark> dès maintenant et récolte plein de ressources avec tes outils !
 
 Il existe deux mondes minages, ce sont des mondes très importants pour récolter des ressources primaires et majeures pour bien commencer le jeu. Les avantages du serveur minage :&#x20;
