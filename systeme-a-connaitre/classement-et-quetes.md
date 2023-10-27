@@ -53,5 +53,4 @@ Tu peux parier des partisans et affronter tes pires ennemies, donne leur une bon
 
 ## Planning des événements&#x20;
 
-![Qu'attends-tu pour participer aux événements, certains sont PVP et d'autres non alors pas d'excuse !](../.gitbook/assets/Planning.png)
-
+<figure><img src="../.gitbook/assets/background_planning.png" alt=""><figcaption><p>Planning des évènements</p></figcaption></figure>
