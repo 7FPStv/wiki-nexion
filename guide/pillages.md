@@ -31,4 +31,6 @@ Le piston offensif moyen d'assaut non conventionnel, très bon moyen pour rentre
 
 Les canons à sable sont désactivés sur le serveur, le sable ne peut pas être propulsé par la TNT.\
 Seul le sable de mana peut être utilisé pour faire des canons à sable.
+
+Peut importe la quantité de TNT, un Sable Magique endommagera les blocks à durabilités d'une seule explosion.
 {% endhint %}
