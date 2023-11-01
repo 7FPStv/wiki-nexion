@@ -79,14 +79,14 @@ Pour récupérer tes ressources il te suffit d'aller sur le serveur factions ave
 
 ### Les compétences (/skill)
 
-| Compétences | Description                                                                                                                                                                                        |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Efficacité  | Enchantement permettant d'augmenter l'efficacité des outils. <mark style="color:purple;">(1 à 5 compétences)</mark>                                                                                |
-| Célérité    | Enchantement permettant d'augmenter la rapidité du minage <mark style="color:purple;">(1 à 2 compétences)</mark>                                                                                   |
-| Fortune     | Enchantement d'avoir un faible pourcentage de multiplier les ressources par 2 avec la pioche enchantée "Silk Touch" ou "Toucher de soie". <mark style="color:purple;">(1 à 4 compétences)</mark>   |
-| Speed       | Enchantement permettant d'augmenter la vitesse de déplacement. <mark style="color:purple;">(1 compétence)</mark>                                                                                   |
-| Monnaie     | Spécialité permettant d'avoir de l'argent en cassant des minerais. Uniquement sur les minerais Minecraft. <mark style="color:purple;">(1 à 3 compétences)</mark>                                   |
-| Boost       | Spécialité permettant de faire avancer plus rapidement la progression du niveau en doublant/triplant des blocs minés en fonction du niveau. <mark style="color:purple;">(1 à 3 compétences)</mark> |
+| Compétences | Description                                                                                                                                                                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Efficacité  | Enchantement permettant d'augmenter l'efficacité des outils. <mark style="color:purple;">(1 à 5 compétences)</mark>                                                                                                                                    |
+| Célérité    | Enchantement permettant d'augmenter la rapidité du minage <mark style="color:purple;">(1 à 2 compétences)</mark>                                                                                                                                       |
+| Fortune     | <p>Enchantement d'avoir un faible pourcentage de multiplier les ressources par 2.<br>Fonctionne uniquement à partir du niveau 3 avec la pioche enchantée "Silk Touch" ou "Toucher de soie". <mark style="color:purple;">(1 à 4 compétences)</mark></p> |
+| Speed       | Enchantement permettant d'augmenter la vitesse de déplacement. <mark style="color:purple;">(1 compétence)</mark>                                                                                                                                       |
+| Monnaie     | Spécialité permettant d'avoir de l'argent en cassant des minerais. Uniquement sur les minerais Minecraft. <mark style="color:purple;">(1 à 3 compétences)</mark>                                                                                       |
+| Boost       | Spécialité permettant de faire avancer plus rapidement la progression du niveau en doublant/triplant des blocs minés en fonction du niveau. <mark style="color:purple;">(1 à 3 compétences)</mark>                                                     |
 
 {% hint style="info" %}
 <mark style="color:blue;">**INFORMATIONS**</mark>
