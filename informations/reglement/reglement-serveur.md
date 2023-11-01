@@ -32,7 +32,7 @@ Nous avons mis en place un dispositif permettant aux joueurs de mettre un skin, 
 L’utilisation d'un glitch, bug, ou tout autre moyen, afin de gagner de manière excessive de l'expérience, items, ou autres est totalement interdit. Diffuser ou dissimuler l'information d'un bug afin de l'exploiter à mauvais escient est également prohibé. Il vous est demandé de nous informer des problèmes présents sur le serveur en contactant un membre de l'équipe, dans le but d'améliorer l'expérience de jeu de tous les joueurs.
 
 **1.10 - MODIFICATION DE SON CLIENT**\
-Les modifications de vos clients, susceptibles de vous procurer un quelconque avantage face aux autres membres sont interdites. De la même manière, les logiciels externes qui sont là pour vous donner des avantages considérables ou non en jeu sont interdits. Certaines modifications restent néanmoins autorisées comme la modification de la luminosité et du gamma ou bien l'ajout de textures packs.
+Les modifications du client / launcher sont interdites, toute injection ou modification du jeu sera sévèrement puni. De la même manière, les logiciels externes qui sont là pour vous donner des avantages considérables ou non en jeu sont interdits.
 
 **1.11 - LIMITE DE VOTE**\
 Il est interdit d'utiliser différentes plateformes afin de voter au-delà de la limite de vote afin de récupérer plus de récompenses. Vous pouvez voter une fois toutes les 1h30
